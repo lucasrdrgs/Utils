@@ -1,125 +1,125 @@
-CIR,Name
+CIR,Nome
 11001,Vale do Jamari
-11002,Café
+11002,CafÃ©
 11003,Central
-11004,Madeira-Mamoré
+11004,Madeira-MamorÃ©
 11005,Zona da Mata
 11006,Cone Sul
-11007,Vale do Guaporé
+11007,Vale do GuaporÃ©
 12001,Alto Acre
 12002,Baixo Acre e Purus
-12003,Juruá e Tarauacá/Envira
+12003,JuruÃ¡ e TarauacÃ¡/Envira
 13001,"Manaus, Entorno e Alto Rio Negro"
-13002,Rio Negro e Solimões
+13002,Rio Negro e SolimÃµes
 13003,Rio Madeira
-13004,Médio Amazonas
+13004,MÃ©dio Amazonas
 13005,Baixo Amazonas
 13006,Regional Purus
-13007,Regional Juruá
-13008,Triângulo
-13009,Alto Solimões
+13007,Regional JuruÃ¡
+13008,TriÃ¢ngulo
+13009,Alto SolimÃµes
 14001,Centro Norte
 14002,Sul
 15001,Araguaia
 15002,Baixo Amazonas
-15003,Carajás
-15004,Lago de Tucuruí
+15003,CarajÃ¡s
+15004,Lago de TucuruÃ­
 15006,Metropolitana I
 15007,Metropolitana II
 15008,Metropolitana III
-15009,Rio Caetés
-15010,Tapajós
+15009,Rio CaetÃ©s
+15010,TapajÃ³s
 15011,Tocantins
 15012,Xingu
-15013,Marajó I
-15014,Marajó II
-16001,Área Central
-16002,Área Norte
-16003,Área Sudoeste
-17001,Médio Norte Araguaia
+15013,MarajÃ³ I
+15014,MarajÃ³ II
+16001,Ãrea Central
+16002,Ãrea Norte
+16003,Ãrea Sudoeste
+17001,MÃ©dio Norte Araguaia
 17002,Bico do Papagaio
 17003,Sudeste
 17004,Cerrado Tocantins Araguaia
 17005,Ilha do Bananal
 17006,Capim Dourado
-17007,Cantão
+17007,CantÃ£o
 17008,Amor Perfeito
-21001,Açailândia
+21001,AÃ§ailÃ¢ndia
 21002,Bacabal
 21003,Balsas
 21004,Barra do Corda
 21005,Caxias
 21006,Chapadinha
-21007,Codó
+21007,CodÃ³
 21008,Imperatriz
 21009,Itapecuru Mirim
 21010,Pedreiras
 21011,Pinheiro
 21012,Presidente Dutra
-21013,Rosário
-21014,Santa Inês
-21015,São João dos Patos
-21016,São Luís
+21013,RosÃ¡rio
+21014,Santa InÃªs
+21015,SÃ£o JoÃ£o dos Patos
+21016,SÃ£o LuÃ­s
 21017,Timon
 21018,Viana
-21019,Zé Doca
+21019,ZÃ© Doca
 22001,Carnaubais
 22002,Chapada das Mangabeiras
 22003,Cocais
 22004,Entre Rios
-22005,Planície Litorânea
+22005,PlanÃ­cie LitorÃ¢nea
 22006,Serra da Capivara
-22007,Tabuleiros do Alto Parnaíba
-22008,Vale do Canindé
+22007,Tabuleiros do Alto ParnaÃ­ba
+22008,Vale do CanindÃ©
 22009,Vale do Rio Guaribas
 22010,Vale do Sambito
-22011,Vale dos Rios Piauí e Itaueiras
-23001,1ª Região Fortaleza
-23002,2ª Região Caucaia
-23003,3ª Região Maracanaú
-23004,4ª Região Baturité
-23005,5ª Região Canindé
-23006,6ª Região Itapipoca
-23007,7ª Região Aracati
-23008,8ª Região Quixadá
-23009,9ª Região Russas
-23010,10ª Região Limoeiro do Norte
-23011,11ª Região Sobral
-23012,12ª Região Acaraú
-23013,13ª Região Tianguá
-23014,14ª Região Tauá
-23015,15ª Região Crateús
-23016,16ª Região Camocim
-23017,17ª Região Icó
-23018,18ª Região Iguatú
-23019,19ª Região Brejo Santo
-23020,20ª Região Crato
-23021,21ª Região Juazeiro do Norte
-23022,22ª Região Cascavel
-24001,1ª Região de Saúde - São José de Mipibu
-24002,2ª Região de Saúde - Mossoró
-24003,3ª Região de Saúde - João Câmara
-24004,4ª Região de Saúde - Caicó
-24005,5ª Região de Saúde - Santa Cruz
-24006,6ª Região de Saúde - Pau dos Ferros
-24007,7ª Região de Saúde - Metropolitana
-24008,8ª Região de Saúde - Açu
-25001,1ª Região Mata Atlântica
-25002,2ª Região
-25003,3ª Região
-25004,4ª Região
-25005,5ª Região
-25006,6ª Região
-25007,7ª Região
-25008,8ª Região
-25009,9ª Região
-25010,10ª Região
-25011,11ª Região
-25012,12ª Região
-25013,13ª Região
-25014,14ª Região
-25015,15ª Região
-25016,16ª Região
+22011,Vale dos Rios PiauÃ­ e Itaueiras
+23001,1Âª RegiÃ£o Fortaleza
+23002,2Âª RegiÃ£o Caucaia
+23003,3Âª RegiÃ£o MaracanaÃº
+23004,4Âª RegiÃ£o BaturitÃ©
+23005,5Âª RegiÃ£o CanindÃ©
+23006,6Âª RegiÃ£o Itapipoca
+23007,7Âª RegiÃ£o Aracati
+23008,8Âª RegiÃ£o QuixadÃ¡
+23009,9Âª RegiÃ£o Russas
+23010,10Âª RegiÃ£o Limoeiro do Norte
+23011,11Âª RegiÃ£o Sobral
+23012,12Âª RegiÃ£o AcaraÃº
+23013,13Âª RegiÃ£o TianguÃ¡
+23014,14Âª RegiÃ£o TauÃ¡
+23015,15Âª RegiÃ£o CrateÃºs
+23016,16Âª RegiÃ£o Camocim
+23017,17Âª RegiÃ£o IcÃ³
+23018,18Âª RegiÃ£o IguatÃº
+23019,19Âª RegiÃ£o Brejo Santo
+23020,20Âª RegiÃ£o Crato
+23021,21Âª RegiÃ£o Juazeiro do Norte
+23022,22Âª RegiÃ£o Cascavel
+24001,1Âª RegiÃ£o de SaÃºde - SÃ£o JosÃ© de Mipibu
+24002,2Âª RegiÃ£o de SaÃºde - MossorÃ³
+24003,3Âª RegiÃ£o de SaÃºde - JoÃ£o CÃ¢mara
+24004,4Âª RegiÃ£o de SaÃºde - CaicÃ³
+24005,5Âª RegiÃ£o de SaÃºde - Santa Cruz
+24006,6Âª RegiÃ£o de SaÃºde - Pau dos Ferros
+24007,7Âª RegiÃ£o de SaÃºde - Metropolitana
+24008,8Âª RegiÃ£o de SaÃºde - AÃ§u
+25001,1Âª RegiÃ£o Mata AtlÃ¢ntica
+25002,2Âª RegiÃ£o
+25003,3Âª RegiÃ£o
+25004,4Âª RegiÃ£o
+25005,5Âª RegiÃ£o
+25006,6Âª RegiÃ£o
+25007,7Âª RegiÃ£o
+25008,8Âª RegiÃ£o
+25009,9Âª RegiÃ£o
+25010,10Âª RegiÃ£o
+25011,11Âª RegiÃ£o
+25012,12Âª RegiÃ£o
+25013,13Âª RegiÃ£o
+25014,14Âª RegiÃ£o
+25015,15Âª RegiÃ£o
+25016,16Âª RegiÃ£o
 26001,Afogados da Ingazeira
 26002,Arcoverde
 26003,Caruaru
@@ -132,174 +132,174 @@ CIR,Name
 26010,Recife
 26011,Salgueiro
 26012,Serra Talhada
-27001,1ª Região de Saúde
-27002,2ª Região de Saúde
-27003,3ª Região de Saúde
-27004,4ª Região de Saúde
-27005,5ª Região de Saúde
-27006,6ª Região de Saúde
-27007,7ª Região de Saúde
-27008,8ª Região de Saúde
-27009,9ª Região de Saúde
-27010,10ª Região de Saúde
+27001,1Âª RegiÃ£o de SaÃºde
+27002,2Âª RegiÃ£o de SaÃºde
+27003,3Âª RegiÃ£o de SaÃºde
+27004,4Âª RegiÃ£o de SaÃºde
+27005,5Âª RegiÃ£o de SaÃºde
+27006,6Âª RegiÃ£o de SaÃºde
+27007,7Âª RegiÃ£o de SaÃºde
+27008,8Âª RegiÃ£o de SaÃºde
+27009,9Âª RegiÃ£o de SaÃºde
+27010,10Âª RegiÃ£o de SaÃºde
 28001,Aracaju
-28002,Estância
+28002,EstÃ¢ncia
 28003,Itabaiana
 28004,Lagarto
-28005,Nossa Senhora da Glória
+28005,Nossa Senhora da GlÃ³ria
 28006,Nossa Senhora do Socorro
-28007,Propriá
+28007,PropriÃ¡
 29001,Alagoinhas
 29002,Barreiras
 29003,Brumado
-29004,Camaçari
+29004,CamaÃ§ari
 29005,Cruz das Almas
 29006,Feira de Santana
 29007,Guanambi
 29008,Ibotirama
-29009,Ilhéus
-29010,Irecê
+29009,IlhÃ©us
+29010,IrecÃª
 29011,Itaberaba
 29012,Itabuna
 29013,Itapetinga
 29014,Jacobina
-29015,Jequié
+29015,JequiÃ©
 29016,Juazeiro
 29017,Paulo Afonso
 29018,Porto Seguro
 29019,Ribeira do Pombal
 29020,Salvador
-29021,Santa Maria da Vitória
-29022,Santo Antônio de Jesus
+29021,Santa Maria da VitÃ³ria
+29022,Santo AntÃ´nio de Jesus
 29023,Seabra
 29024,Senhor do Bonfim
 29025,Serrinha
 29026,Teixeira de Freitas
-29027,Valença
-29028,Vitória da Conquista
-31001,Águas Formosas
-31002,Além Paraíba
+29027,ValenÃ§a
+29028,VitÃ³ria da Conquista
+31001,Ãguas Formosas
+31002,AlÃ©m ParaÃ­ba
 31003,Alfenas Machado
 31004,Almenara
-31005,Araçuaí
-31006,Araxá
+31005,AraÃ§uaÃ­
+31006,AraxÃ¡
 31007,Barbacena
-31008,Belo Horizonte Nova Lima Caeté
+31008,Belo Horizonte Nova Lima CaetÃ©
 31009,Betim
 31010,Bom Despacho
-31011,Brasília de Minas São Francisco
+31011,BrasÃ­lia de Minas SÃ£o Francisco
 31012,Carangola
 31013,Caratinga
 31014,Conselheiro Lafaiete Congonhas
 31015,Contagem
-31016,Coração de Jesus
-31017,Coronel Fabriciano Timóteo
+31016,CoraÃ§Ã£o de Jesus
+31017,Coronel Fabriciano TimÃ³teo
 31018,Curvelo
 31019,Diamantina
-31020,Divinópolis Santo Antônio do Monte
+31020,DivinÃ³polis Santo AntÃ´nio do Monte
 31021,Formiga
-31022,Francisco Sá
+31022,Francisco SÃ¡
 31023,Frutal Iturama
 31024,Governador Valadares
-31025,Guanhães
-31026,Guaxupé
+31025,GuanhÃ£es
+31026,GuaxupÃ©
 31027,Ipatinga
 31028,Itabira
-31029,Itajubá
+31029,ItajubÃ¡
 31030,Itaobim
-31031,Itaúna
+31031,ItaÃºna
 31032,Ituiutaba
-31033,Janaúba Monte Azul
-31034,Januária
-31035,João Monlevade
-31036,João Pinheiro
+31033,JanaÃºba Monte Azul
+31034,JanuÃ¡ria
+31035,JoÃ£o Monlevade
+31036,JoÃ£o Pinheiro
 31037,Juiz de Fora Lima Duarte Bom Jardim Minas
 31038,Lavras
 31039,Leopoldina Cataguases
 31040,Manga
-31041,Manhuaçu
+31041,ManhuaÃ§u
 31042,Mantena
 31043,Minas Novas Turmalina Capelinha
-31044,Montes Claros Bocaiúva
-31045,Muriaé
+31044,Montes Claros BocaiÃºva
+31045,MuriaÃ©
 31046,Nanuque
 31047,Ouro Preto
-31048,Padre Paraíso
-31049,Pará de Minas
+31048,Padre ParaÃ­so
+31049,ParÃ¡ de Minas
 31050,Passos Piumhi
 31051,Patos de Minas
-31052,Patrocínio Monte Carmelo
+31052,PatrocÃ­nio Monte Carmelo
 31053,Pedra Azul
 31054,Pirapora
-31055,Poços de Caldas
+31055,PoÃ§os de Caldas
 31056,Ponte Nova
 31057,Pouso Alegre
 31058,Resplendor
 31059,Salinas Taiobeiras
-31060,Santa Maria do Suaçuí São João Evangelista
-31061,Santo Antônio do Amparo Campo Belo
+31060,Santa Maria do SuaÃ§uÃ­ SÃ£o JoÃ£o Evangelista
+31061,Santo AntÃ´nio do Amparo Campo Belo
 31062,Santos Dumont
-31063,São João del Rei
-31064,São João Nepomuceno Bicas
-31065,São Lourenço
-31066,São Sebastião do Paraíso
+31063,SÃ£o JoÃ£o del Rei
+31064,SÃ£o JoÃ£o Nepomuceno Bicas
+31065,SÃ£o LourenÃ§o
+31066,SÃ£o SebastiÃ£o do ParaÃ­so
 31067,Sete Lagoas
-31068,Teófilo Otoni Malacacheta Itambacuri
-31069,Três Corações
-31070,Três Pontas
-31071,Ubá
+31068,TeÃ³filo Otoni Malacacheta Itambacuri
+31069,TrÃªs CoraÃ§Ãµes
+31070,TrÃªs Pontas
+31071,UbÃ¡
 31072,Uberaba
-31073,Uberlândia Araguari
-31074,Unaí
+31073,UberlÃ¢ndia Araguari
+31074,UnaÃ­
 31075,Varginha
 31076,Vespasiano
-31077,Viçosa
+31077,ViÃ§osa
 32001,Central
 32002,Metropolitana
 32003,Norte
 32004,Sul
 33001,Baia da Ilha Grande
-33002,Baixada Litorânea
+33002,Baixada LitorÃ¢nea
 33003,Centro-Sul
-33004,Médio Paraíba
+33004,MÃ©dio ParaÃ­ba
 33005,Metropolitana I
 33006,Metropolitana II
 33007,Noroeste
 33008,Norte
 33009,Serrana
-35011,Alto do Tietê
+35011,Alto do TietÃª
 35012,Franco da Rocha
 35013,Mananciais
 35014,Rota dos Bandeirantes
 35015,Grande ABC
-35016,São Paulo
+35016,SÃ£o Paulo
 35021,Central do DRS II
 35022,Lagos do DRS II
-35023,Consórcios do DRS II
+35023,ConsÃ³rcios do DRS II
 35031,Central do DRS III
 35032,Centro Oeste do DRS III
 35033,Norte do DRS III
-35034,Coração do DRS III
+35034,CoraÃ§Ã£o do DRS III
 35041,Baixada Santista
 35051,Norte - Barretos
 35052,Sul - Barretos
 35061,Vale do Jurumirim
 35062,Bauru
 35063,Polo Cuesta
-35064,Jaú
+35064,JaÃº
 35065,Lins
-35071,Bragança
-35072,Região Metropolitana de Campinas
-35073,Jundiaí
-35074,Circuito das Águas
-35081,Três Colinas
+35071,BraganÃ§a
+35072,RegiÃ£o Metropolitana de Campinas
+35073,JundiaÃ­
+35074,Circuito das Ãguas
+35081,TrÃªs Colinas
 35082,Alta Anhanguera
 35083,Alta Mogiana
 35091,Adamantina
 35092,Assis
-35093,Marília
+35093,MarÃ­lia
 35094,Ourinhos
-35095,Tupã
+35095,TupÃ£
 35101,Araras
 35102,Limeira
 35103,Piracicaba
@@ -311,54 +311,54 @@ CIR,Name
 35115,Pontal do Paranapanema
 35121,Vale do Ribeira
 35131,Horizonte Verde
-35132,Aquífero Guarani
+35132,AquÃ­fero Guarani
 35133,Vale das Cachoeiras
 35141,Baixa Mogiana
 35142,Mantiqueira
 35143,Rio Pardo
 35151,Catanduva
-35152,Santa Fé do Sul
+35152,Santa FÃ© do Sul
 35153,Jales
-35154,Fernandópolis
-35155,São José do Rio Preto
-35156,José Bonifácio
+35154,FernandÃ³polis
+35155,SÃ£o JosÃ© do Rio Preto
+35156,JosÃ© BonifÃ¡cio
 35157,Votuporanga
 35161,Itapetininga
 35162,Itapeva
 35163,Sorocaba
-35171,Alto Vale do Paraíba
-35172,Circuito da Fé e Vale Histórico
+35171,Alto Vale do ParaÃ­ba
+35172,Circuito da FÃ© e Vale HistÃ³rico
 35173,Litoral Norte
-35174,Vale do Paraíba/Região Serrana
-41001,1ª RS Paranaguá
-41002,2ª RS Metropolitana
-41003,3ª RS Ponta Grossa
-41004,4ª RS Irati
-41005,5ª RS Guarapuava
-41006,6ª RS União da Vitória
-41007,7ª RS Pato Branco
-41008,8ª RS Francisco Beltrão
-41009,9ª RS Foz do Iguaçu
-41010,10ª RS Cascavel
-41011,11ª RS Campo Mourão
-41012,12ª RS Umuarama
-41013,13ª RS Cianorte
-41014,14ª RS Paranavaí
-41015,15ª RS Maringá
-41016,16ª RS Apucarana
-41017,17ª RS Londrina
-41018,18ª RS Cornélio Procópio
-41019,19ª RS Jacarezinho
-41020,20ª RS Toledo
-41021,21ª RS Telêmaco Borba
-41022,22ª RS Ivaiporã
+35174,Vale do ParaÃ­ba/RegiÃ£o Serrana
+41001,1Âª RS ParanaguÃ¡
+41002,2Âª RS Metropolitana
+41003,3Âª RS Ponta Grossa
+41004,4Âª RS Irati
+41005,5Âª RS Guarapuava
+41006,6Âª RS UniÃ£o da VitÃ³ria
+41007,7Âª RS Pato Branco
+41008,8Âª RS Francisco BeltrÃ£o
+41009,9Âª RS Foz do IguaÃ§u
+41010,10Âª RS Cascavel
+41011,11Âª RS Campo MourÃ£o
+41012,12Âª RS Umuarama
+41013,13Âª RS Cianorte
+41014,14Âª RS ParanavaÃ­
+41015,15Âª RS MaringÃ¡
+41016,16Âª RS Apucarana
+41017,17Âª RS Londrina
+41018,18Âª RS CornÃ©lio ProcÃ³pio
+41019,19Âª RS Jacarezinho
+41020,20Âª RS Toledo
+41021,21Âª RS TelÃªmaco Borba
+41022,22Âª RS IvaiporÃ£
 42001,Extremo Oeste
 42002,Oeste
-42003,Xanxerê
-42004,Alto Vale do Itajaí
-42005,Foz do Rio Itajaí
-42006,Médio Vale do Itajaí
-42007,Grande Florianópolis
+42003,XanxerÃª
+42004,Alto Vale do ItajaÃ­
+42005,Foz do Rio ItajaÃ­
+42006,MÃ©dio Vale do ItajaÃ­
+42007,Grande FlorianÃ³polis
 42008,Meio Oeste
 42009,Alto Vale do Rio do Peixe
 42010,Alto Uruguai Catarinense
@@ -366,51 +366,51 @@ CIR,Name
 42012,Planalto Norte
 42013,Serra Catarinense
 42014,Extremo Sul Catarinense
-42015,Carbonífera
+42015,CarbonÃ­fera
 42016,Laguna
-43001,Região 01 - Verdes Campos
-43002,Região 02 - Entre Rios
-43003,Região 03 - Fronteira Oeste
-43004,Região 04 - Belas Praias
-43005,Região 05 - Bons Ventos
-43006,Região 06 - Vale do Paranhana e Costa Serr
-43007,Região 07 - Vale dos Sinos
-43008,Região 08 - Vale do Caí e Metropolitana
-43009,Região 09 - Carbonífera/Costa Doce
-43010,Região 10 - Capital e Vale do Gravataí
-43011,Região 11 - Sete Povos das Missões
-43012,Região 12 - Portal das Missões
-43013,Região 13 - Diversidade
-43014,Região 14 - Fronteira Noroeste
-43015,Região 15 - Caminho das Águas
-43016,Região 16 - Alto Uruguai Gaúcho
-43017,Região 17 - Planalto
-43018,Região 18 - Araucárias
-43019,Região 19 - Botucaraí
-43020,Região 20 - Rota da Produção
-43021,Região 21 - Sul
-43022,Região 22 - Pampa
-43023,Região 23 - Caxias e Hortênsias
-43024,Região 24 - Campos de Cima da Serra
-43025,Região 25 - Vinhedos e Basalto
-43026,Região 26 - Uva Vale
-43027,Região 27 - Jacuí Centro
-43028,Região 28 - Vinte e Oito
-43029,Região 29 - Vales e Montanhas
-43030,Região 30 - Vale da Luz
+43001,RegiÃ£o 01 - Verdes Campos
+43002,RegiÃ£o 02 - Entre Rios
+43003,RegiÃ£o 03 - Fronteira Oeste
+43004,RegiÃ£o 04 - Belas Praias
+43005,RegiÃ£o 05 - Bons Ventos
+43006,RegiÃ£o 06 - Vale do Paranhana e Costa Serr
+43007,RegiÃ£o 07 - Vale dos Sinos
+43008,RegiÃ£o 08 - Vale do CaÃ­ e Metropolitana
+43009,RegiÃ£o 09 - CarbonÃ­fera/Costa Doce
+43010,RegiÃ£o 10 - Capital e Vale do GravataÃ­
+43011,RegiÃ£o 11 - Sete Povos das MissÃµes
+43012,RegiÃ£o 12 - Portal das MissÃµes
+43013,RegiÃ£o 13 - Diversidade
+43014,RegiÃ£o 14 - Fronteira Noroeste
+43015,RegiÃ£o 15 - Caminho das Ãguas
+43016,RegiÃ£o 16 - Alto Uruguai GaÃºcho
+43017,RegiÃ£o 17 - Planalto
+43018,RegiÃ£o 18 - AraucÃ¡rias
+43019,RegiÃ£o 19 - BotucaraÃ­
+43020,RegiÃ£o 20 - Rota da ProduÃ§Ã£o
+43021,RegiÃ£o 21 - Sul
+43022,RegiÃ£o 22 - Pampa
+43023,RegiÃ£o 23 - Caxias e HortÃªnsias
+43024,RegiÃ£o 24 - Campos de Cima da Serra
+43025,RegiÃ£o 25 - Vinhedos e Basalto
+43026,RegiÃ£o 26 - Uva Vale
+43027,RegiÃ£o 27 - JacuÃ­ Centro
+43028,RegiÃ£o 28 - Vinte e Oito
+43029,RegiÃ£o 29 - Vales e Montanhas
+43030,RegiÃ£o 30 - Vale da Luz
 50001,Campo Grande
-50002,Corumbá
+50002,CorumbÃ¡
 50003,Dourados
-50004,Três Lagoas
-51001,Alto Tapajós
+50004,TrÃªs Lagoas
+51001,Alto TapajÃ³s
 51002,Baixada Cuiabana
 51003,Araguaia Xingu
 51004,Centro Norte
-51005,Garças Araguaia
-51006,Médio Araguaia
-51007,Médio Norte Matogrossense
+51005,GarÃ§as Araguaia
+51006,MÃ©dio Araguaia
+51007,MÃ©dio Norte Matogrossense
 51008,Noroeste Matogrossense
-51009,Norte Araguaia Karajá
+51009,Norte Araguaia KarajÃ¡
 51010,Norte Matogrossense
 51011,Oeste Matogrossense
 51012,Sudoeste Matogrossense
@@ -430,10 +430,10 @@ CIR,Name
 52010,Oeste II
 52011,Pirineus
 52012,Rio Vermelho
-52013,São Patrício I
+52013,SÃ£o PatrÃ­cio I
 52014,Serra da Mesa
 52015,Sudoeste I
 52016,Sudoeste II
 52017,Sul
-52018,São Patrício II
+52018,SÃ£o PatrÃ­cio II
 53001,Distrito Federal
