@@ -1,0 +1,6573 @@
+id,dx,age,sex,localization
+0,nv,70.0,male,face
+1,nv,45.0,female,upper extremity
+2,mel,40.0,female,chest
+3,mel,80.0,male,upper extremity
+4,mel,60.0,male,chest
+5,mel,40.0,female,back
+6,mel,45.0,female,lower extremity
+7,mel,55.0,male,back
+8,mel,70.0,male,face
+9,mel,55.0,male,abdomen
+10,mel,85.0,female,lower extremity
+11,mel,60.0,female,lower extremity
+12,mel,25.0,female,foot
+13,mel,75.0,male,neck
+14,mel,75.0,male,abdomen
+15,mel,55.0,female,foot
+16,mel,80.0,male,ear
+17,mel,85.0,female,trunk
+18,mel,45.0,male,back
+19,mel,70.0,male,abdomen
+20,mel,75.0,female,lower extremity
+21,mel,55.0,male,back
+22,mel,70.0,male,scalp
+23,mel,35.0,female,neck
+24,mel,35.0,female,back
+25,mel,50.0,female,trunk
+26,mel,75.0,male,upper extremity
+27,mel,55.0,male,abdomen
+28,mel,70.0,male,chest
+29,mel,40.0,male,lower extremity
+30,mel,60.0,female,chest
+31,mel,50.0,female,back
+32,mel,50.0,male,abdomen
+33,mel,75.0,male,ear
+34,mel,55.0,female,lower extremity
+35,mel,70.0,male,back
+36,mel,45.0,male,lower extremity
+37,mel,65.0,male,back
+38,mel,65.0,female,scalp
+39,mel,80.0,male,abdomen
+40,mel,60.0,female,abdomen
+41,mel,55.0,male,lower extremity
+42,mel,80.0,female,back
+43,mel,75.0,male,unknown
+44,mel,65.0,male,back
+45,mel,80.0,male,lower extremity
+46,mel,70.0,male,unknown
+47,mel,30.0,female,lower extremity
+48,mel,50.0,male,abdomen
+49,mel,75.0,male,face
+50,mel,30.0,female,abdomen
+51,mel,75.0,male,back
+52,mel,80.0,male,upper extremity
+53,mel,85.0,male,back
+54,mel,50.0,male,trunk
+55,mel,80.0,male,lower extremity
+56,mel,50.0,male,back
+57,mel,75.0,female,face
+58,mel,35.0,female,ear
+59,mel,75.0,male,trunk
+60,mel,65.0,male,back
+61,mel,55.0,female,face
+62,mel,35.0,female,abdomen
+63,mel,70.0,male,back
+64,mel,75.0,male,trunk
+65,mel,80.0,male,scalp
+66,mel,75.0,female,face
+67,mel,85.0,male,face
+68,mel,80.0,male,unknown
+69,mel,40.0,female,lower extremity
+70,mel,55.0,male,trunk
+71,mel,65.0,female,lower extremity
+72,mel,60.0,male,back
+73,mel,80.0,female,lower extremity
+74,mel,70.0,male,back
+75,mel,60.0,male,back
+76,mel,75.0,female,ear
+77,mel,75.0,male,unknown
+78,mel,55.0,female,lower extremity
+79,mel,65.0,female,face
+80,mel,85.0,male,back
+81,mel,45.0,male,unknown
+82,mel,80.0,male,back
+83,mel,70.0,female,upper extremity
+84,mel,60.0,male,back
+85,mel,85.0,female,upper extremity
+86,mel,30.0,female,lower extremity
+87,mel,35.0,female,lower extremity
+88,mel,75.0,female,lower extremity
+89,mel,55.0,female,back
+90,mel,75.0,male,ear
+91,mel,45.0,female,lower extremity
+92,mel,70.0,male,abdomen
+93,mel,50.0,male,ear
+94,mel,55.0,female,upper extremity
+95,mel,65.0,female,lower extremity
+96,mel,45.0,female,back
+97,mel,70.0,female,back
+98,mel,70.0,female,back
+99,mel,50.0,female,upper extremity
+100,mel,60.0,male,upper extremity
+101,mel,65.0,male,back
+102,mel,70.0,male,face
+103,mel,75.0,male,upper extremity
+104,mel,85.0,male,face
+105,mel,75.0,female,back
+106,mel,45.0,male,upper extremity
+107,mel,85.0,female,face
+108,mel,85.0,male,face
+109,mel,85.0,male,back
+110,mel,85.0,male,back
+111,mel,75.0,male,upper extremity
+112,mel,80.0,male,foot
+113,mel,55.0,male,back
+114,mel,35.0,male,back
+115,mel,75.0,female,unknown
+116,mel,70.0,male,face
+117,mel,45.0,female,back
+118,mel,70.0,male,back
+119,mel,70.0,female,back
+120,mel,75.0,male,face
+121,mel,55.0,female,upper extremity
+122,mel,45.0,female,lower extremity
+123,mel,65.0,female,back
+124,mel,60.0,female,lower extremity
+125,mel,60.0,male,trunk
+126,mel,75.0,male,abdomen
+127,mel,75.0,male,back
+128,mel,75.0,male,face
+129,mel,70.0,male,trunk
+130,mel,60.0,female,face
+131,mel,75.0,female,neck
+132,mel,60.0,male,chest
+133,mel,85.0,male,upper extremity
+134,mel,50.0,female,lower extremity
+135,mel,60.0,female,upper extremity
+136,mel,50.0,female,upper extremity
+137,mel,30.0,male,back
+138,mel,70.0,male,upper extremity
+139,mel,65.0,female,face
+140,mel,75.0,male,abdomen
+141,mel,85.0,male,face
+142,mel,45.0,male,trunk
+143,mel,70.0,male,upper extremity
+144,mel,65.0,male,face
+145,mel,60.0,male,chest
+146,mel,55.0,male,upper extremity
+147,mel,45.0,female,lower extremity
+148,mel,55.0,female,neck
+149,mel,60.0,male,lower extremity
+150,mel,40.0,female,upper extremity
+151,mel,50.0,male,back
+152,mel,55.0,male,upper extremity
+153,mel,70.0,female,lower extremity
+154,mel,70.0,female,face
+155,mel,75.0,male,lower extremity
+156,mel,45.0,male,abdomen
+157,mel,25.0,male,back
+158,mel,70.0,male,upper extremity
+159,mel,50.0,female,lower extremity
+160,mel,55.0,male,lower extremity
+161,mel,60.0,female,lower extremity
+162,mel,80.0,male,back
+163,mel,75.0,female,back
+164,mel,45.0,male,back
+165,mel,70.0,male,trunk
+166,mel,75.0,male,chest
+167,mel,70.0,male,back
+168,mel,85.0,male,abdomen
+169,mel,70.0,male,lower extremity
+170,mel,65.0,female,back
+171,mel,75.0,male,trunk
+172,mel,75.0,female,ear
+173,mel,55.0,male,trunk
+174,mel,70.0,male,scalp
+175,mel,25.0,female,lower extremity
+176,mel,70.0,male,face
+177,mel,70.0,male,chest
+178,mel,70.0,male,back
+179,mel,80.0,female,face
+180,mel,70.0,female,back
+181,mel,70.0,male,abdomen
+182,mel,45.0,male,chest
+183,mel,55.0,male,back
+184,mel,70.0,male,back
+185,mel,70.0,male,back
+186,mel,85.0,female,back
+187,mel,40.0,female,face
+188,mel,80.0,male,back
+189,mel,70.0,male,face
+190,mel,75.0,male,abdomen
+191,mel,75.0,male,back
+192,mel,35.0,female,abdomen
+193,mel,30.0,female,back
+194,mel,30.0,male,trunk
+195,mel,75.0,male,face
+196,mel,30.0,male,back
+197,mel,75.0,male,lower extremity
+198,mel,55.0,male,lower extremity
+199,mel,50.0,female,back
+200,mel,30.0,female,upper extremity
+201,mel,60.0,male,chest
+202,mel,80.0,male,upper extremity
+203,mel,65.0,male,foot
+204,mel,55.0,male,chest
+205,mel,85.0,male,chest
+206,mel,55.0,male,back
+207,mel,60.0,male,lower extremity
+208,mel,85.0,female,back
+209,mel,65.0,male,back
+210,mel,45.0,male,face
+211,mel,50.0,male,back
+212,mel,50.0,male,upper extremity
+213,mel,60.0,male,back
+214,mel,60.0,female,chest
+215,mel,60.0,male,back
+216,mel,70.0,male,abdomen
+217,mel,70.0,male,scalp
+218,mel,70.0,male,upper extremity
+219,mel,70.0,male,trunk
+220,mel,65.0,male,face
+221,mel,65.0,male,chest
+222,mel,80.0,male,face
+223,mel,50.0,female,back
+224,mel,30.0,female,upper extremity
+225,mel,65.0,female,back
+226,mel,65.0,male,face
+227,mel,70.0,male,scalp
+228,mel,70.0,male,scalp
+229,mel,85.0,male,trunk
+230,mel,40.0,female,back
+231,mel,35.0,male,back
+232,mel,30.0,female,lower extremity
+233,mel,50.0,male,trunk
+234,mel,70.0,female,lower extremity
+235,mel,80.0,male,face
+236,mel,85.0,male,back
+237,mel,40.0,female,chest
+238,mel,65.0,male,ear
+239,mel,65.0,female,lower extremity
+240,mel,75.0,male,lower extremity
+241,mel,65.0,male,back
+242,mel,55.0,male,back
+243,mel,55.0,female,upper extremity
+244,mel,55.0,female,lower extremity
+245,mel,50.0,male,back
+246,mel,65.0,male,upper extremity
+247,mel,65.0,female,back
+248,mel,75.0,male,foot
+249,mel,75.0,male,back
+250,mel,45.0,female,upper extremity
+251,mel,55.0,male,upper extremity
+252,mel,85.0,male,abdomen
+253,mel,60.0,female,lower extremity
+254,mel,65.0,male,chest
+255,mel,70.0,male,scalp
+256,mel,45.0,female,upper extremity
+257,mel,70.0,male,upper extremity
+258,mel,55.0,female,back
+259,mel,65.0,male,back
+260,mel,60.0,female,face
+261,mel,85.0,male,upper extremity
+262,mel,70.0,male,back
+263,mel,80.0,male,back
+264,mel,40.0,male,back
+265,mel,70.0,male,upper extremity
+266,mel,85.0,male,upper extremity
+267,mel,65.0,female,ear
+268,mel,50.0,male,back
+269,mel,65.0,male,neck
+270,mel,50.0,male,abdomen
+271,mel,65.0,male,chest
+272,mel,70.0,male,trunk
+273,mel,80.0,male,face
+274,mel,40.0,male,upper extremity
+275,mel,70.0,male,lower extremity
+276,mel,50.0,male,abdomen
+277,mel,55.0,male,back
+278,mel,40.0,female,back
+279,mel,85.0,male,back
+280,mel,80.0,male,upper extremity
+281,mel,60.0,male,back
+282,mel,60.0,male,chest
+283,mel,45.0,male,upper extremity
+284,mel,55.0,female,upper extremity
+285,mel,60.0,female,back
+286,mel,55.0,male,upper extremity
+287,mel,55.0,male,neck
+288,mel,45.0,male,back
+289,mel,60.0,male,lower extremity
+290,mel,50.0,female,back
+291,mel,70.0,female,lower extremity
+292,mel,35.0,male,abdomen
+293,mel,45.0,male,back
+294,mel,85.0,male,upper extremity
+295,mel,70.0,male,upper extremity
+296,mel,60.0,male,back
+297,mel,85.0,male,lower extremity
+298,mel,75.0,female,lower extremity
+299,mel,40.0,female,lower extremity
+300,mel,55.0,male,lower extremity
+301,mel,70.0,female,upper extremity
+302,mel,55.0,female,lower extremity
+303,mel,70.0,male,back
+304,mel,40.0,female,lower extremity
+305,mel,25.0,female,back
+306,mel,20.0,male,back
+307,mel,80.0,female,face
+308,mel,80.0,male,upper extremity
+309,mel,70.0,female,face
+310,mel,70.0,female,neck
+311,mel,65.0,male,face
+312,mel,65.0,male,upper extremity
+313,mel,65.0,male,back
+314,mel,60.0,male,abdomen
+315,mel,75.0,female,back
+316,mel,65.0,male,neck
+317,mel,70.0,female,foot
+318,mel,85.0,male,trunk
+319,mel,40.0,female,chest
+320,mel,70.0,male,back
+321,mel,80.0,male,foot
+322,mel,75.0,male,foot
+323,mel,80.0,female,face
+324,mel,45.0,male,back
+325,mel,80.0,female,upper extremity
+326,mel,55.0,female,lower extremity
+327,mel,55.0,male,neck
+328,mel,60.0,male,back
+329,mel,45.0,male,back
+330,mel,55.0,female,upper extremity
+331,mel,60.0,male,upper extremity
+332,mel,35.0,female,upper extremity
+333,mel,80.0,female,face
+334,mel,25.0,female,lower extremity
+335,mel,75.0,female,back
+336,mel,65.0,male,upper extremity
+337,mel,80.0,male,upper extremity
+338,mel,65.0,male,upper extremity
+339,mel,50.0,male,face
+340,mel,75.0,male,back
+341,mel,50.0,male,face
+342,mel,50.0,female,foot
+343,mel,70.0,male,trunk
+344,mel,65.0,female,lower extremity
+345,mel,75.0,male,face
+346,mel,70.0,female,lower extremity
+347,mel,,male,face
+348,mel,45.0,female,back
+349,mel,70.0,male,back
+350,mel,50.0,female,face
+351,mel,50.0,male,lower extremity
+352,mel,70.0,female,back
+353,mel,45.0,female,lower extremity
+354,mel,80.0,female,neck
+355,mel,50.0,male,trunk
+356,mel,55.0,male,trunk
+357,mel,40.0,female,upper extremity
+358,mel,65.0,female,upper extremity
+359,mel,60.0,male,face
+360,mel,60.0,female,lower extremity
+361,mel,70.0,male,neck
+362,mel,70.0,male,face
+363,mel,55.0,male,back
+364,mel,80.0,male,upper extremity
+365,mel,70.0,male,face
+366,mel,85.0,male,upper extremity
+367,mel,85.0,female,foot
+368,mel,55.0,male,back
+369,mel,85.0,male,chest
+370,mel,75.0,male,back
+371,mel,50.0,female,upper extremity
+372,mel,80.0,male,back
+373,mel,45.0,female,upper extremity
+374,mel,55.0,female,back
+375,mel,80.0,male,face
+376,mel,60.0,female,back
+377,mel,65.0,female,upper extremity
+378,mel,30.0,female,back
+379,mel,70.0,female,back
+380,mel,70.0,female,back
+381,mel,35.0,female,abdomen
+382,mel,55.0,male,back
+383,mel,45.0,male,back
+384,mel,65.0,male,back
+385,mel,60.0,male,lower extremity
+386,mel,65.0,male,upper extremity
+387,mel,60.0,female,back
+388,mel,55.0,female,back
+389,mel,35.0,male,back
+390,mel,60.0,male,lower extremity
+391,mel,60.0,male,back
+392,mel,55.0,male,back
+393,mel,75.0,female,back
+394,mel,50.0,male,upper extremity
+395,mel,40.0,female,upper extremity
+396,mel,40.0,female,lower extremity
+397,mel,60.0,female,lower extremity
+398,mel,30.0,female,trunk
+399,mel,65.0,male,lower extremity
+400,mel,65.0,male,trunk
+401,mel,35.0,female,lower extremity
+402,mel,40.0,female,back
+403,mel,75.0,male,upper extremity
+404,mel,55.0,male,chest
+405,mel,70.0,female,upper extremity
+406,mel,50.0,male,face
+407,mel,50.0,female,upper extremity
+408,mel,70.0,female,upper extremity
+409,mel,55.0,female,back
+410,mel,70.0,female,upper extremity
+411,mel,55.0,male,chest
+412,mel,35.0,male,upper extremity
+413,mel,50.0,female,lower extremity
+414,mel,50.0,female,back
+415,mel,5.0,male,back
+416,mel,45.0,female,lower extremity
+417,mel,45.0,female,neck
+418,mel,40.0,male,face
+419,mel,30.0,female,abdomen
+420,mel,50.0,male,trunk
+421,mel,35.0,female,neck
+422,mel,30.0,male,lower extremity
+423,mel,80.0,female,lower extremity
+424,mel,45.0,female,abdomen
+425,mel,65.0,female,trunk
+426,mel,40.0,male,face
+427,mel,60.0,female,back
+428,mel,70.0,male,lower extremity
+429,mel,45.0,male,foot
+430,mel,35.0,female,lower extremity
+431,mel,85.0,male,back
+432,mel,60.0,female,back
+433,mel,50.0,male,upper extremity
+434,mel,70.0,male,back
+435,mel,65.0,female,upper extremity
+436,mel,70.0,female,lower extremity
+437,mel,65.0,female,lower extremity
+438,mel,85.0,female,lower extremity
+439,mel,60.0,female,upper extremity
+440,mel,85.0,female,upper extremity
+441,mel,75.0,female,back
+442,mel,20.0,female,scalp
+443,mel,35.0,male,back
+444,mel,55.0,male,lower extremity
+445,mel,70.0,female,lower extremity
+446,mel,40.0,male,chest
+447,mel,45.0,female,foot
+448,mel,55.0,female,upper extremity
+449,mel,70.0,male,back
+450,mel,40.0,female,lower extremity
+451,mel,65.0,male,upper extremity
+452,mel,70.0,male,neck
+453,mel,35.0,female,upper extremity
+454,mel,70.0,male,lower extremity
+455,mel,70.0,male,chest
+456,mel,80.0,male,back
+457,mel,45.0,male,back
+458,mel,20.0,male,back
+459,mel,65.0,male,face
+460,mel,65.0,male,face
+461,mel,50.0,male,back
+462,mel,80.0,female,lower extremity
+463,mel,65.0,male,upper extremity
+464,mel,60.0,male,neck
+465,mel,50.0,female,back
+466,mel,30.0,female,upper extremity
+467,mel,65.0,male,face
+468,mel,65.0,male,back
+469,mel,70.0,male,back
+470,mel,65.0,female,lower extremity
+471,mel,40.0,male,back
+472,mel,65.0,female,neck
+473,mel,70.0,male,back
+474,mel,60.0,male,upper extremity
+475,mel,45.0,female,face
+476,mel,65.0,male,upper extremity
+477,mel,65.0,male,back
+478,mel,80.0,male,neck
+479,mel,50.0,female,upper extremity
+480,mel,80.0,male,back
+481,mel,55.0,male,upper extremity
+482,mel,55.0,male,back
+483,mel,70.0,female,back
+484,mel,75.0,male,chest
+485,mel,85.0,male,back
+486,mel,60.0,female,back
+487,mel,70.0,male,back
+488,mel,55.0,male,face
+489,mel,65.0,male,back
+490,mel,70.0,male,ear
+491,mel,60.0,male,lower extremity
+492,mel,70.0,male,abdomen
+493,mel,20.0,female,chest
+494,mel,60.0,female,back
+495,mel,60.0,male,back
+496,mel,55.0,male,upper extremity
+497,mel,60.0,male,back
+498,mel,75.0,male,lower extremity
+499,mel,60.0,male,back
+500,mel,45.0,male,lower extremity
+501,mel,40.0,female,abdomen
+502,mel,60.0,male,upper extremity
+503,mel,60.0,female,lower extremity
+504,mel,50.0,female,face
+505,mel,80.0,female,upper extremity
+506,mel,80.0,male,lower extremity
+507,mel,50.0,male,lower extremity
+508,mel,50.0,female,back
+509,mel,60.0,male,back
+510,mel,65.0,female,back
+511,mel,70.0,female,upper extremity
+512,mel,65.0,male,back
+513,mel,55.0,male,back
+514,mel,40.0,male,back
+515,mel,80.0,female,upper extremity
+516,mel,60.0,male,back
+517,mel,55.0,male,upper extremity
+518,mel,55.0,male,face
+519,mel,65.0,male,abdomen
+520,mel,65.0,female,face
+521,mel,85.0,female,upper extremity
+522,mel,50.0,female,upper extremity
+523,mel,65.0,female,foot
+524,mel,65.0,male,back
+525,mel,75.0,male,back
+526,mel,65.0,female,back
+527,mel,85.0,male,upper extremity
+528,mel,70.0,female,hand
+529,mel,60.0,female,back
+530,mel,80.0,female,back
+531,mel,50.0,male,back
+532,mel,65.0,male,back
+533,mel,80.0,female,chest
+534,mel,55.0,male,upper extremity
+535,mel,60.0,female,lower extremity
+536,mel,85.0,female,lower extremity
+537,mel,70.0,female,upper extremity
+538,mel,80.0,male,lower extremity
+539,mel,70.0,male,chest
+540,mel,50.0,male,back
+541,mel,50.0,male,lower extremity
+542,mel,55.0,male,chest
+543,mel,70.0,female,upper extremity
+544,mel,60.0,male,back
+545,mel,60.0,male,back
+546,mel,65.0,male,back
+547,mel,60.0,male,back
+548,mel,85.0,male,lower extremity
+549,mel,60.0,male,chest
+550,mel,60.0,male,upper extremity
+551,mel,75.0,male,upper extremity
+552,mel,85.0,female,face
+553,mel,75.0,female,back
+554,mel,85.0,female,face
+555,mel,75.0,female,upper extremity
+556,mel,65.0,male,back
+557,mel,65.0,male,back
+558,mel,55.0,male,back
+559,mel,25.0,female,face
+560,mel,80.0,male,chest
+561,mel,35.0,female,upper extremity
+562,mel,50.0,male,neck
+563,mel,55.0,female,foot
+564,mel,70.0,female,face
+565,mel,65.0,male,back
+566,mel,60.0,female,upper extremity
+567,mel,55.0,male,chest
+568,mel,60.0,male,back
+569,mel,55.0,female,upper extremity
+570,mel,85.0,male,lower extremity
+571,mel,55.0,female,lower extremity
+572,mel,65.0,male,back
+573,mel,60.0,male,face
+574,mel,75.0,male,upper extremity
+575,mel,85.0,female,face
+576,mel,45.0,female,upper extremity
+577,mel,80.0,female,lower extremity
+578,mel,65.0,male,upper extremity
+579,mel,75.0,male,back
+580,mel,65.0,male,back
+581,mel,75.0,female,back
+582,mel,30.0,male,chest
+583,mel,80.0,male,foot
+584,mel,55.0,male,upper extremity
+585,mel,55.0,male,lower extremity
+586,mel,55.0,male,back
+587,mel,45.0,female,abdomen
+588,mel,50.0,female,lower extremity
+589,mel,40.0,female,back
+590,mel,55.0,female,lower extremity
+591,mel,45.0,male,lower extremity
+592,mel,55.0,male,back
+593,mel,40.0,female,lower extremity
+594,mel,75.0,male,lower extremity
+595,mel,65.0,male,back
+596,mel,80.0,male,lower extremity
+597,mel,60.0,female,back
+598,mel,85.0,female,lower extremity
+599,mel,70.0,female,lower extremity
+600,mel,65.0,male,face
+601,mel,65.0,male,upper extremity
+602,mel,45.0,female,lower extremity
+603,mel,50.0,male,upper extremity
+604,mel,75.0,male,lower extremity
+605,mel,80.0,male,upper extremity
+606,mel,65.0,female,back
+607,mel,45.0,female,lower extremity
+608,mel,70.0,female,upper extremity
+609,mel,55.0,male,face
+610,mel,55.0,female,upper extremity
+611,mel,85.0,male,chest
+612,mel,55.0,male,upper extremity
+613,mel,65.0,male,face
+614,mel,55.0,female,upper extremity
+615,bcc,50.0,male,back
+616,bcc,80.0,female,face
+617,bcc,50.0,male,trunk
+618,bcc,50.0,male,back
+619,bcc,85.0,male,face
+620,bcc,85.0,male,face
+621,bcc,45.0,male,face
+622,bcc,70.0,male,back
+623,bcc,60.0,male,back
+624,bcc,80.0,male,back
+625,bcc,80.0,male,back
+626,bcc,65.0,female,scalp
+627,bcc,70.0,male,back
+628,bcc,70.0,male,lower extremity
+629,bcc,50.0,female,back
+630,bcc,45.0,male,chest
+631,bcc,80.0,male,back
+632,bcc,85.0,male,scalp
+633,bcc,80.0,female,scalp
+634,bcc,75.0,female,back
+635,bcc,70.0,male,back
+636,bcc,70.0,male,back
+637,bcc,85.0,male,lower extremity
+638,bcc,70.0,male,back
+639,bcc,65.0,female,upper extremity
+640,bcc,50.0,female,abdomen
+641,bcc,75.0,male,chest
+642,bcc,85.0,female,face
+643,bcc,40.0,female,trunk
+644,bcc,40.0,female,abdomen
+645,bcc,60.0,male,trunk
+646,bcc,65.0,male,trunk
+647,bcc,75.0,male,upper extremity
+648,bcc,80.0,male,face
+649,bcc,75.0,male,lower extremity
+650,bcc,60.0,male,chest
+651,bcc,85.0,female,face
+652,bcc,50.0,male,upper extremity
+653,bcc,75.0,female,face
+654,bcc,80.0,male,scalp
+655,bcc,80.0,male,scalp
+656,bcc,70.0,female,face
+657,bcc,75.0,male,lower extremity
+658,bcc,70.0,male,face
+659,bcc,75.0,female,face
+660,bcc,85.0,female,face
+661,bcc,65.0,female,upper extremity
+662,bcc,70.0,male,lower extremity
+663,bcc,70.0,female,face
+664,bcc,75.0,male,face
+665,bcc,75.0,female,lower extremity
+666,bcc,60.0,male,scalp
+667,bcc,65.0,female,scalp
+668,bcc,50.0,female,chest
+669,bcc,50.0,female,back
+670,bcc,85.0,female,scalp
+671,bcc,80.0,female,chest
+672,bcc,60.0,male,back
+673,bcc,40.0,male,back
+674,bcc,40.0,male,back
+675,bcc,85.0,male,face
+676,bcc,80.0,male,face
+677,bcc,75.0,female,back
+678,bcc,55.0,male,upper extremity
+679,bcc,85.0,female,face
+680,bcc,65.0,female,neck
+681,bcc,70.0,male,face
+682,bcc,35.0,male,back
+683,bcc,65.0,female,back
+684,bcc,55.0,male,back
+685,bcc,75.0,male,back
+686,bcc,55.0,female,back
+687,bcc,70.0,male,face
+688,bcc,85.0,male,face
+689,bcc,75.0,male,back
+690,bcc,50.0,female,back
+691,bcc,75.0,male,back
+692,bcc,50.0,male,back
+693,bcc,50.0,male,face
+694,bcc,75.0,male,trunk
+695,bcc,50.0,male,lower extremity
+696,bcc,75.0,female,face
+697,bcc,75.0,male,abdomen
+698,bcc,20.0,female,face
+699,bcc,70.0,male,back
+700,bcc,65.0,male,face
+701,bcc,55.0,male,back
+702,bcc,25.0,male,back
+703,bcc,60.0,female,face
+704,bcc,60.0,male,face
+705,bcc,70.0,male,face
+706,bcc,70.0,male,face
+707,bcc,60.0,male,upper extremity
+708,bcc,45.0,male,abdomen
+709,bcc,30.0,female,back
+710,bcc,40.0,female,back
+711,bcc,80.0,female,back
+712,bcc,80.0,male,back
+713,bcc,65.0,female,back
+714,bcc,65.0,male,back
+715,bcc,85.0,female,face
+716,bcc,85.0,male,face
+717,bcc,70.0,male,chest
+718,bcc,80.0,female,face
+719,bcc,65.0,male,neck
+720,bcc,45.0,female,unknown
+721,bcc,85.0,female,neck
+722,bcc,70.0,male,lower extremity
+723,bcc,80.0,female,face
+724,bcc,80.0,female,face
+725,bcc,80.0,male,upper extremity
+726,bcc,40.0,female,abdomen
+727,bcc,40.0,female,face
+728,bcc,60.0,male,chest
+729,bcc,30.0,female,back
+730,bcc,70.0,male,trunk
+731,bcc,55.0,female,face
+732,bcc,85.0,female,face
+733,bcc,65.0,male,back
+734,bcc,60.0,female,chest
+735,bcc,65.0,male,back
+736,bcc,80.0,female,neck
+737,bcc,80.0,male,back
+738,bcc,75.0,male,back
+739,bcc,80.0,male,chest
+740,bcc,60.0,male,scalp
+741,bcc,70.0,male,upper extremity
+742,bcc,70.0,male,foot
+743,bcc,40.0,male,back
+744,bcc,55.0,male,back
+745,bcc,50.0,male,lower extremity
+746,bcc,45.0,female,back
+747,bcc,75.0,male,upper extremity
+748,bcc,75.0,female,back
+749,bcc,75.0,female,back
+750,bcc,65.0,male,chest
+751,bcc,65.0,male,back
+752,bcc,60.0,female,lower extremity
+753,bcc,85.0,female,back
+754,bcc,75.0,male,chest
+755,bcc,60.0,male,neck
+756,bcc,85.0,male,back
+757,bcc,70.0,female,lower extremity
+758,bcc,75.0,male,back
+759,bcc,60.0,male,back
+760,bcc,70.0,female,upper extremity
+761,bcc,70.0,male,back
+762,bcc,70.0,male,back
+763,bcc,70.0,male,back
+764,bcc,85.0,male,face
+765,bcc,70.0,male,upper extremity
+766,bcc,65.0,male,face
+767,bcc,70.0,male,chest
+768,bcc,45.0,male,back
+769,bcc,45.0,male,chest
+770,bcc,70.0,male,face
+771,bcc,65.0,male,lower extremity
+772,bcc,55.0,male,back
+773,bcc,85.0,male,back
+774,bcc,70.0,male,back
+775,bcc,75.0,male,back
+776,bcc,65.0,female,back
+777,bcc,65.0,female,chest
+778,bcc,65.0,female,back
+779,bcc,65.0,female,abdomen
+780,bcc,60.0,male,unknown
+781,bcc,85.0,male,back
+782,bcc,85.0,male,back
+783,bcc,70.0,male,lower extremity
+784,bcc,80.0,male,lower extremity
+785,bcc,50.0,male,lower extremity
+786,bcc,75.0,male,back
+787,bcc,80.0,male,back
+788,bcc,65.0,male,back
+789,bcc,65.0,male,back
+790,bcc,45.0,female,face
+791,bcc,70.0,female,back
+792,bcc,75.0,male,back
+793,bcc,70.0,female,chest
+794,bcc,75.0,female,neck
+795,bcc,80.0,female,back
+796,bcc,40.0,male,back
+797,bcc,45.0,female,upper extremity
+798,bcc,65.0,male,back
+799,bcc,40.0,female,chest
+800,bcc,65.0,female,back
+801,bcc,75.0,male,back
+802,bcc,55.0,male,face
+803,bcc,80.0,male,back
+804,bcc,80.0,male,face
+805,bcc,80.0,male,face
+806,bcc,80.0,male,face
+807,bcc,80.0,male,back
+808,bcc,45.0,male,neck
+809,bcc,85.0,female,lower extremity
+810,bcc,85.0,female,back
+811,bcc,45.0,male,lower extremity
+812,bcc,55.0,male,chest
+813,bcc,80.0,male,abdomen
+814,bcc,80.0,female,lower extremity
+815,bcc,75.0,female,face
+816,bcc,65.0,female,upper extremity
+817,bcc,80.0,male,face
+818,bcc,80.0,male,upper extremity
+819,bcc,80.0,male,chest
+820,bcc,65.0,male,upper extremity
+821,bcc,40.0,male,back
+822,bcc,75.0,male,back
+823,bcc,65.0,male,lower extremity
+824,bcc,55.0,male,back
+825,bcc,85.0,male,lower extremity
+826,bcc,70.0,female,face
+827,bcc,80.0,male,face
+828,bcc,65.0,male,chest
+829,bcc,55.0,male,chest
+830,bcc,65.0,female,back
+831,bcc,70.0,female,lower extremity
+832,bcc,75.0,male,back
+833,bcc,45.0,male,chest
+834,bcc,80.0,male,face
+835,bcc,80.0,male,face
+836,bcc,55.0,female,back
+837,bcc,80.0,male,back
+838,bcc,85.0,female,back
+839,bcc,75.0,female,back
+840,bcc,65.0,male,face
+841,bcc,70.0,male,face
+842,bcc,40.0,female,back
+843,bcc,50.0,female,back
+844,bcc,65.0,female,face
+845,bcc,45.0,male,chest
+846,bcc,80.0,female,upper extremity
+847,bcc,55.0,male,back
+848,bcc,70.0,female,lower extremity
+849,bcc,65.0,female,lower extremity
+850,bcc,80.0,male,upper extremity
+851,bcc,75.0,male,lower extremity
+852,bcc,85.0,male,back
+853,bcc,75.0,male,upper extremity
+854,bcc,70.0,female,upper extremity
+855,bcc,75.0,male,scalp
+856,bcc,60.0,male,lower extremity
+857,bcc,70.0,male,chest
+858,bcc,65.0,female,hand
+859,bcc,50.0,female,back
+860,bcc,80.0,male,face
+861,bcc,65.0,female,face
+862,bcc,65.0,female,lower extremity
+863,bcc,80.0,male,chest
+864,bcc,40.0,female,lower extremity
+865,bcc,70.0,female,back
+866,bcc,85.0,male,back
+867,bcc,75.0,male,upper extremity
+868,bcc,75.0,male,chest
+869,bcc,70.0,female,face
+870,bcc,80.0,male,back
+871,bcc,75.0,female,upper extremity
+872,bcc,80.0,female,foot
+873,bcc,60.0,female,back
+874,bcc,75.0,male,back
+875,bcc,65.0,male,chest
+876,bcc,85.0,male,upper extremity
+877,bcc,85.0,male,back
+878,bcc,70.0,female,neck
+879,bcc,65.0,male,face
+880,bcc,75.0,male,lower extremity
+881,bcc,55.0,female,lower extremity
+882,bcc,65.0,male,upper extremity
+883,bcc,65.0,male,back
+884,bcc,80.0,male,lower extremity
+885,bcc,80.0,male,back
+886,bcc,60.0,male,back
+887,bcc,65.0,female,back
+888,bcc,45.0,male,upper extremity
+889,bcc,70.0,male,back
+890,bcc,60.0,female,back
+891,bcc,65.0,female,upper extremity
+892,bcc,85.0,male,chest
+893,bcc,75.0,female,back
+894,bcc,85.0,male,back
+895,bcc,80.0,male,back
+896,bcc,75.0,male,lower extremity
+897,bcc,70.0,female,back
+898,bcc,35.0,male,face
+899,bcc,70.0,female,back
+900,bcc,80.0,male,back
+901,bcc,60.0,female,back
+902,bcc,70.0,female,back
+903,bcc,70.0,male,neck
+904,bcc,55.0,male,back
+905,bcc,65.0,female,lower extremity
+906,bcc,60.0,female,back
+907,bcc,70.0,male,lower extremity
+908,bcc,75.0,female,lower extremity
+909,bcc,45.0,male,back
+910,bcc,55.0,female,chest
+911,bcc,75.0,male,upper extremity
+912,bcc,80.0,female,lower extremity
+913,bcc,60.0,female,upper extremity
+914,bcc,40.0,female,lower extremity
+915,bcc,85.0,male,neck
+916,bcc,60.0,female,upper extremity
+917,bcc,80.0,male,back
+918,bcc,70.0,male,upper extremity
+919,bcc,45.0,female,back
+920,bcc,65.0,male,chest
+921,bcc,60.0,female,back
+922,bcc,45.0,female,back
+923,bcc,55.0,female,back
+924,bcc,75.0,female,upper extremity
+925,bcc,75.0,male,face
+926,bcc,50.0,female,chest
+927,bcc,80.0,male,upper extremity
+928,bcc,75.0,male,neck
+929,bcc,65.0,female,chest
+930,bcc,70.0,male,chest
+931,bcc,60.0,male,abdomen
+932,bcc,65.0,male,face
+933,bcc,85.0,male,upper extremity
+934,bcc,55.0,male,back
+935,bcc,70.0,male,back
+936,bcc,50.0,male,back
+937,bcc,65.0,male,face
+938,bcc,75.0,male,scalp
+939,bcc,70.0,male,unknown
+940,bcc,70.0,male,back
+941,bcc,40.0,female,abdomen
+942,nv,45.0,female,foot
+943,nv,45.0,female,neck
+944,nv,55.0,female,lower extremity
+945,nv,45.0,female,lower extremity
+946,nv,45.0,female,abdomen
+947,nv,45.0,female,lower extremity
+948,nv,40.0,male,trunk
+949,nv,45.0,female,upper extremity
+950,nv,45.0,female,neck
+951,nv,45.0,female,trunk
+952,nv,45.0,female,trunk
+953,nv,45.0,female,trunk
+954,nv,45.0,female,trunk
+955,nv,45.0,female,abdomen
+956,nv,45.0,female,genital
+957,nv,45.0,female,back
+958,nv,45.0,female,trunk
+959,nv,45.0,female,back
+960,nv,45.0,female,trunk
+961,nv,45.0,female,lower extremity
+962,nv,50.0,male,upper extremity
+963,nv,50.0,male,trunk
+964,nv,50.0,male,lower extremity
+965,nv,50.0,male,lower extremity
+966,nv,50.0,male,lower extremity
+967,nv,50.0,male,upper extremity
+968,nv,50.0,male,upper extremity
+969,nv,50.0,male,upper extremity
+970,nv,50.0,male,trunk
+971,nv,50.0,male,abdomen
+972,nv,50.0,male,abdomen
+973,nv,50.0,male,back
+974,nv,50.0,male,lower extremity
+975,nv,50.0,male,lower extremity
+976,nv,50.0,male,upper extremity
+977,nv,50.0,male,trunk
+978,nv,50.0,male,lower extremity
+979,nv,50.0,male,back
+980,nv,50.0,male,trunk
+981,nv,50.0,male,trunk
+982,nv,50.0,male,trunk
+983,nv,50.0,male,trunk
+984,nv,50.0,male,back
+985,nv,50.0,male,foot
+986,nv,50.0,male,foot
+987,nv,45.0,male,trunk
+988,nv,40.0,female,upper extremity
+989,nv,60.0,male,back
+990,nv,45.0,male,abdomen
+991,nv,45.0,male,upper extremity
+992,nv,45.0,male,upper extremity
+993,nv,40.0,female,trunk
+994,nv,45.0,male,trunk
+995,nv,40.0,female,lower extremity
+996,nv,45.0,male,abdomen
+997,nv,45.0,male,trunk
+998,nv,45.0,male,trunk
+999,nv,45.0,male,lower extremity
+1000,nv,45.0,male,lower extremity
+1001,nv,45.0,male,lower extremity
+1002,nv,60.0,female,lower extremity
+1003,nv,45.0,male,back
+1004,nv,45.0,male,back
+1005,nv,45.0,male,back
+1006,nv,45.0,male,lower extremity
+1007,nv,45.0,male,foot
+1008,nv,55.0,male,lower extremity
+1009,nv,55.0,male,back
+1010,nv,55.0,male,back
+1011,nv,55.0,male,back
+1012,nv,55.0,male,lower extremity
+1013,nv,55.0,male,lower extremity
+1014,nv,55.0,male,abdomen
+1015,nv,45.0,male,trunk
+1016,nv,55.0,male,trunk
+1017,nv,45.0,male,upper extremity
+1018,nv,45.0,male,back
+1019,nv,45.0,male,lower extremity
+1020,nv,50.0,female,upper extremity
+1021,nv,55.0,male,lower extremity
+1022,nv,35.0,male,back
+1023,nv,55.0,male,upper extremity
+1024,nv,55.0,male,trunk
+1025,nv,55.0,male,upper extremity
+1026,nv,55.0,male,abdomen
+1027,nv,55.0,male,upper extremity
+1028,nv,55.0,male,lower extremity
+1029,nv,55.0,male,lower extremity
+1030,nv,55.0,male,lower extremity
+1031,nv,55.0,male,lower extremity
+1032,nv,55.0,male,back
+1033,nv,55.0,male,back
+1034,nv,55.0,male,upper extremity
+1035,nv,55.0,male,upper extremity
+1036,nv,55.0,male,trunk
+1037,nv,55.0,male,trunk
+1038,nv,55.0,male,lower extremity
+1039,nv,55.0,male,lower extremity
+1040,nv,55.0,male,lower extremity
+1041,nv,55.0,male,foot
+1042,nv,55.0,male,lower extremity
+1043,nv,55.0,male,lower extremity
+1044,nv,55.0,male,lower extremity
+1045,nv,55.0,male,foot
+1046,nv,45.0,male,trunk
+1047,nv,45.0,male,lower extremity
+1048,nv,45.0,male,lower extremity
+1049,nv,45.0,male,abdomen
+1050,nv,45.0,male,lower extremity
+1051,nv,45.0,male,lower extremity
+1052,nv,45.0,male,genital
+1053,nv,45.0,male,upper extremity
+1054,nv,20.0,male,trunk
+1055,nv,55.0,female,trunk
+1056,nv,45.0,female,lower extremity
+1057,nv,45.0,female,trunk
+1058,nv,45.0,female,trunk
+1059,nv,60.0,male,abdomen
+1060,nv,45.0,female,genital
+1061,nv,45.0,female,lower extremity
+1062,nv,45.0,female,lower extremity
+1063,nv,45.0,female,lower extremity
+1064,nv,45.0,female,lower extremity
+1065,nv,45.0,female,back
+1066,nv,65.0,male,abdomen
+1067,nv,45.0,female,back
+1068,nv,45.0,female,trunk
+1069,nv,45.0,female,lower extremity
+1070,nv,75.0,male,trunk
+1071,nv,45.0,female,lower extremity
+1072,nv,45.0,female,lower extremity
+1073,nv,30.0,female,abdomen
+1074,nv,75.0,male,abdomen
+1075,nv,75.0,male,back
+1076,nv,50.0,female,trunk
+1077,nv,50.0,female,trunk
+1078,nv,50.0,female,trunk
+1079,nv,5.0,male,upper extremity
+1080,nv,50.0,female,trunk
+1081,nv,50.0,female,abdomen
+1082,nv,50.0,female,trunk
+1083,nv,45.0,female,abdomen
+1084,nv,50.0,female,lower extremity
+1085,nv,50.0,female,lower extremity
+1086,nv,45.0,female,lower extremity
+1087,nv,45.0,female,lower extremity
+1088,nv,45.0,female,trunk
+1089,nv,45.0,female,upper extremity
+1090,nv,45.0,female,trunk
+1091,nv,60.0,female,abdomen
+1092,nv,45.0,female,trunk
+1093,nv,45.0,female,upper extremity
+1094,nv,45.0,female,lower extremity
+1095,nv,45.0,female,upper extremity
+1096,nv,45.0,female,trunk
+1097,nv,45.0,female,lower extremity
+1098,nv,45.0,female,upper extremity
+1099,nv,45.0,female,back
+1100,nv,45.0,female,lower extremity
+1101,nv,65.0,female,trunk
+1102,nv,35.0,female,genital
+1103,nv,65.0,female,abdomen
+1104,nv,65.0,female,abdomen
+1105,nv,55.0,female,neck
+1106,nv,35.0,female,lower extremity
+1107,nv,65.0,female,back
+1108,nv,65.0,female,lower extremity
+1109,nv,65.0,female,lower extremity
+1110,nv,40.0,female,lower extremity
+1111,nv,50.0,female,back
+1112,nv,65.0,female,trunk
+1113,nv,50.0,female,lower extremity
+1114,nv,50.0,female,trunk
+1115,nv,50.0,female,abdomen
+1116,nv,50.0,female,abdomen
+1117,nv,50.0,female,lower extremity
+1118,nv,50.0,female,upper extremity
+1119,nv,50.0,female,trunk
+1120,nv,50.0,female,upper extremity
+1121,nv,50.0,female,trunk
+1122,nv,50.0,female,trunk
+1123,nv,50.0,female,abdomen
+1124,nv,50.0,female,lower extremity
+1125,nv,50.0,female,lower extremity
+1126,nv,50.0,female,foot
+1127,nv,50.0,female,lower extremity
+1128,nv,50.0,female,back
+1129,nv,50.0,female,trunk
+1130,nv,50.0,female,trunk
+1131,nv,50.0,female,back
+1132,nv,50.0,male,back
+1133,nv,50.0,female,lower extremity
+1134,nv,40.0,male,abdomen
+1135,nv,45.0,male,back
+1136,nv,50.0,female,genital
+1137,nv,50.0,female,lower extremity
+1138,nv,50.0,female,trunk
+1139,nv,50.0,female,upper extremity
+1140,nv,50.0,female,trunk
+1141,nv,50.0,female,abdomen
+1142,nv,50.0,female,lower extremity
+1143,nv,50.0,female,upper extremity
+1144,nv,50.0,female,lower extremity
+1145,nv,50.0,male,trunk
+1146,nv,50.0,male,lower extremity
+1147,nv,50.0,male,upper extremity
+1148,nv,40.0,male,upper extremity
+1149,nv,40.0,male,trunk
+1150,nv,40.0,male,upper extremity
+1151,nv,40.0,male,trunk
+1152,nv,40.0,male,abdomen
+1153,nv,40.0,male,abdomen
+1154,nv,40.0,male,abdomen
+1155,nv,45.0,female,back
+1156,nv,40.0,male,abdomen
+1157,nv,40.0,male,abdomen
+1158,nv,40.0,male,back
+1159,nv,40.0,male,trunk
+1160,nv,40.0,male,back
+1161,nv,70.0,male,lower extremity
+1162,nv,35.0,male,lower extremity
+1163,nv,35.0,male,lower extremity
+1164,nv,45.0,female,foot
+1165,nv,45.0,female,lower extremity
+1166,nv,45.0,female,trunk
+1167,nv,45.0,female,trunk
+1168,nv,45.0,female,trunk
+1169,nv,45.0,female,trunk
+1170,nv,45.0,female,abdomen
+1171,nv,45.0,female,abdomen
+1172,nv,45.0,female,abdomen
+1173,nv,45.0,female,abdomen
+1174,nv,45.0,female,abdomen
+1175,nv,45.0,female,lower extremity
+1176,nv,45.0,female,back
+1177,nv,45.0,female,back
+1178,nv,45.0,female,trunk
+1179,nv,45.0,female,back
+1180,nv,45.0,female,trunk
+1181,nv,45.0,female,scalp
+1182,nv,50.0,female,back
+1183,nv,40.0,female,trunk
+1184,nv,25.0,female,neck
+1185,nv,25.0,female,trunk
+1186,nv,25.0,female,lower extremity
+1187,nv,35.0,female,abdomen
+1188,nv,45.0,female,lower extremity
+1189,nv,55.0,male,back
+1190,nv,55.0,male,trunk
+1191,nv,55.0,male,trunk
+1192,nv,55.0,male,abdomen
+1193,nv,55.0,male,abdomen
+1194,nv,55.0,male,abdomen
+1195,nv,55.0,male,abdomen
+1196,nv,55.0,male,abdomen
+1197,nv,55.0,male,foot
+1198,nv,55.0,male,trunk
+1199,nv,55.0,male,trunk
+1200,nv,55.0,male,trunk
+1201,nv,55.0,male,back
+1202,nv,55.0,male,back
+1203,nv,55.0,male,lower extremity
+1204,nv,65.0,female,trunk
+1205,nv,30.0,female,back
+1206,nv,75.0,female,abdomen
+1207,nv,45.0,male,back
+1208,nv,75.0,female,trunk
+1209,nv,50.0,male,trunk
+1210,nv,50.0,male,trunk
+1211,nv,50.0,male,trunk
+1212,nv,50.0,male,trunk
+1213,nv,55.0,female,back
+1214,nv,50.0,male,lower extremity
+1215,nv,50.0,male,foot
+1216,nv,50.0,male,foot
+1217,nv,50.0,male,face
+1218,nv,60.0,male,abdomen
+1219,nv,50.0,female,abdomen
+1220,nv,50.0,female,lower extremity
+1221,nv,50.0,female,abdomen
+1222,nv,50.0,female,lower extremity
+1223,nv,50.0,female,trunk
+1224,nv,50.0,female,trunk
+1225,nv,50.0,female,abdomen
+1226,nv,50.0,female,genital
+1227,nv,50.0,female,back
+1228,nv,50.0,female,trunk
+1229,nv,50.0,male,trunk
+1230,nv,50.0,female,lower extremity
+1231,nv,50.0,female,lower extremity
+1232,nv,50.0,male,abdomen
+1233,nv,50.0,male,abdomen
+1234,nv,50.0,male,trunk
+1235,nv,50.0,male,lower extremity
+1236,nv,35.0,female,abdomen
+1237,nv,35.0,female,lower extremity
+1238,nv,35.0,female,trunk
+1239,nv,35.0,female,trunk
+1240,nv,75.0,male,trunk
+1241,nv,35.0,female,genital
+1242,nv,35.0,female,back
+1243,nv,60.0,male,trunk
+1244,nv,35.0,female,lower extremity
+1245,nv,35.0,female,lower extremity
+1246,nv,35.0,female,face
+1247,nv,60.0,male,back
+1248,nv,45.0,male,abdomen
+1249,nv,45.0,male,abdomen
+1250,nv,45.0,male,trunk
+1251,nv,45.0,male,trunk
+1252,nv,45.0,male,trunk
+1253,nv,45.0,female,abdomen
+1254,nv,45.0,male,trunk
+1255,nv,45.0,male,abdomen
+1256,nv,45.0,male,abdomen
+1257,nv,45.0,male,lower extremity
+1258,nv,45.0,male,back
+1259,nv,45.0,male,trunk
+1260,nv,50.0,female,lower extremity
+1261,nv,45.0,male,back
+1262,nv,45.0,male,back
+1263,nv,45.0,male,back
+1264,nv,45.0,female,lower extremity
+1265,nv,45.0,female,abdomen
+1266,nv,55.0,male,lower extremity
+1267,nv,45.0,female,back
+1268,nv,45.0,female,upper extremity
+1269,nv,45.0,female,upper extremity
+1270,nv,45.0,female,abdomen
+1271,nv,45.0,female,lower extremity
+1272,nv,45.0,female,trunk
+1273,nv,45.0,female,lower extremity
+1274,nv,45.0,female,lower extremity
+1275,nv,45.0,female,upper extremity
+1276,nv,45.0,female,lower extremity
+1277,nv,45.0,female,abdomen
+1278,nv,45.0,female,lower extremity
+1279,nv,40.0,female,lower extremity
+1280,nv,45.0,female,upper extremity
+1281,nv,45.0,female,upper extremity
+1282,nv,45.0,female,trunk
+1283,nv,45.0,female,trunk
+1284,nv,45.0,female,trunk
+1285,nv,45.0,female,trunk
+1286,nv,45.0,female,abdomen
+1287,nv,45.0,female,abdomen
+1288,nv,45.0,female,abdomen
+1289,nv,50.0,male,trunk
+1290,nv,45.0,female,foot
+1291,nv,45.0,female,lower extremity
+1292,nv,45.0,female,back
+1293,nv,45.0,female,back
+1294,nv,45.0,female,trunk
+1295,nv,45.0,female,back
+1296,nv,45.0,female,lower extremity
+1297,nv,45.0,female,lower extremity
+1298,nv,45.0,female,lower extremity
+1299,nv,45.0,female,lower extremity
+1300,nv,45.0,female,abdomen
+1301,nv,45.0,female,trunk
+1302,nv,45.0,female,genital
+1303,nv,75.0,female,lower extremity
+1304,nv,75.0,female,lower extremity
+1305,nv,80.0,male,back
+1306,nv,45.0,female,back
+1307,nv,50.0,male,trunk
+1308,nv,35.0,female,upper extremity
+1309,nv,45.0,female,trunk
+1310,nv,50.0,male,lower extremity
+1311,nv,50.0,female,abdomen
+1312,nv,50.0,female,abdomen
+1313,nv,50.0,female,trunk
+1314,nv,50.0,female,lower extremity
+1315,nv,45.0,female,trunk
+1316,nv,45.0,female,trunk
+1317,nv,45.0,female,lower extremity
+1318,nv,45.0,female,lower extremity
+1319,nv,45.0,female,foot
+1320,nv,55.0,female,lower extremity
+1321,nv,50.0,male,trunk
+1322,nv,70.0,male,abdomen
+1323,nv,50.0,male,abdomen
+1324,nv,50.0,male,trunk
+1325,nv,50.0,male,back
+1326,nv,50.0,male,lower extremity
+1327,nv,55.0,male,trunk
+1328,nv,55.0,male,lower extremity
+1329,nv,55.0,male,abdomen
+1330,nv,55.0,male,abdomen
+1331,nv,55.0,male,abdomen
+1332,nv,55.0,male,abdomen
+1333,nv,55.0,male,abdomen
+1334,nv,55.0,male,abdomen
+1335,nv,55.0,male,abdomen
+1336,nv,55.0,male,lower extremity
+1337,nv,55.0,male,back
+1338,nv,35.0,female,abdomen
+1339,nv,55.0,male,trunk
+1340,nv,55.0,male,back
+1341,nv,55.0,male,lower extremity
+1342,nv,40.0,female,trunk
+1343,nv,40.0,female,lower extremity
+1344,nv,35.0,male,trunk
+1345,nv,40.0,female,lower extremity
+1346,nv,40.0,female,face
+1347,nv,40.0,female,upper extremity
+1348,nv,40.0,female,lower extremity
+1349,nv,40.0,female,abdomen
+1350,nv,40.0,female,abdomen
+1351,nv,40.0,female,abdomen
+1352,nv,40.0,female,lower extremity
+1353,nv,40.0,female,lower extremity
+1354,nv,40.0,female,back
+1355,nv,40.0,female,trunk
+1356,nv,40.0,female,trunk
+1357,nv,40.0,female,trunk
+1358,nv,40.0,female,lower extremity
+1359,nv,60.0,male,lower extremity
+1360,nv,55.0,male,abdomen
+1361,nv,55.0,male,trunk
+1362,nv,25.0,female,upper extremity
+1363,nv,55.0,male,lower extremity
+1364,nv,55.0,male,back
+1365,nv,35.0,female,trunk
+1366,nv,40.0,male,lower extremity
+1367,nv,55.0,male,upper extremity
+1368,nv,55.0,male,lower extremity
+1369,nv,55.0,male,neck
+1370,nv,55.0,male,lower extremity
+1371,nv,55.0,male,lower extremity
+1372,nv,45.0,female,abdomen
+1373,nv,45.0,female,abdomen
+1374,nv,45.0,female,upper extremity
+1375,nv,45.0,female,lower extremity
+1376,nv,55.0,male,lower extremity
+1377,nv,40.0,male,abdomen
+1378,nv,50.0,male,back
+1379,nv,45.0,female,face
+1380,nv,30.0,male,back
+1381,nv,45.0,male,lower extremity
+1382,nv,45.0,female,abdomen
+1383,nv,45.0,female,abdomen
+1384,nv,45.0,female,lower extremity
+1385,nv,55.0,female,trunk
+1386,nv,40.0,female,abdomen
+1387,nv,45.0,female,back
+1388,nv,45.0,female,back
+1389,nv,45.0,female,foot
+1390,nv,45.0,female,back
+1391,nv,45.0,female,lower extremity
+1392,nv,55.0,male,lower extremity
+1393,nv,55.0,male,trunk
+1394,nv,55.0,male,back
+1395,nv,60.0,male,trunk
+1396,nv,60.0,male,trunk
+1397,nv,60.0,male,trunk
+1398,nv,60.0,male,abdomen
+1399,nv,60.0,male,abdomen
+1400,nv,60.0,male,upper extremity
+1401,nv,75.0,male,back
+1402,nv,45.0,male,lower extremity
+1403,nv,60.0,male,trunk
+1404,nv,60.0,male,lower extremity
+1405,nv,45.0,female,foot
+1406,nv,45.0,female,foot
+1407,nv,55.0,female,abdomen
+1408,nv,45.0,female,abdomen
+1409,nv,45.0,female,abdomen
+1410,nv,45.0,female,back
+1411,nv,45.0,female,lower extremity
+1412,nv,45.0,female,upper extremity
+1413,nv,65.0,female,upper extremity
+1414,nv,40.0,female,upper extremity
+1415,nv,40.0,female,trunk
+1416,nv,55.0,female,genital
+1417,nv,40.0,female,genital
+1418,nv,40.0,female,lower extremity
+1419,nv,40.0,female,lower extremity
+1420,nv,40.0,female,lower extremity
+1421,nv,40.0,female,lower extremity
+1422,nv,40.0,male,trunk
+1423,nv,40.0,female,back
+1424,nv,50.0,female,upper extremity
+1425,nv,45.0,male,lower extremity
+1426,nv,50.0,female,upper extremity
+1427,nv,45.0,male,upper extremity
+1428,nv,45.0,male,trunk
+1429,nv,45.0,male,trunk
+1430,nv,45.0,male,trunk
+1431,nv,45.0,male,abdomen
+1432,nv,45.0,male,abdomen
+1433,nv,45.0,male,abdomen
+1434,nv,45.0,male,genital
+1435,nv,45.0,male,back
+1436,nv,45.0,male,upper extremity
+1437,nv,45.0,male,trunk
+1438,nv,45.0,male,back
+1439,nv,45.0,male,back
+1440,nv,45.0,male,lower extremity
+1441,nv,45.0,male,lower extremity
+1442,nv,35.0,male,upper extremity
+1443,nv,35.0,male,lower extremity
+1444,nv,35.0,male,lower extremity
+1445,nv,35.0,male,lower extremity
+1446,nv,35.0,male,upper extremity
+1447,nv,35.0,male,upper extremity
+1448,nv,35.0,male,trunk
+1449,nv,35.0,male,trunk
+1450,nv,35.0,male,lower extremity
+1451,nv,35.0,male,abdomen
+1452,nv,35.0,male,abdomen
+1453,nv,35.0,male,lower extremity
+1454,nv,35.0,male,lower extremity
+1455,nv,35.0,male,lower extremity
+1456,nv,35.0,male,neck
+1457,nv,35.0,male,back
+1458,nv,35.0,male,trunk
+1459,nv,35.0,male,back
+1460,nv,35.0,male,back
+1461,nv,35.0,male,lower extremity
+1462,nv,35.0,male,lower extremity
+1463,nv,35.0,male,lower extremity
+1464,nv,50.0,male,trunk
+1465,nv,35.0,male,lower extremity
+1466,nv,35.0,male,trunk
+1467,nv,35.0,male,lower extremity
+1468,nv,35.0,male,lower extremity
+1469,nv,35.0,male,lower extremity
+1470,nv,35.0,male,lower extremity
+1471,nv,35.0,male,lower extremity
+1472,nv,35.0,male,abdomen
+1473,nv,50.0,female,abdomen
+1474,nv,50.0,female,lower extremity
+1475,nv,50.0,female,lower extremity
+1476,nv,50.0,female,upper extremity
+1477,nv,50.0,female,upper extremity
+1478,nv,75.0,female,trunk
+1479,nv,75.0,female,lower extremity
+1480,nv,75.0,male,neck
+1481,nv,75.0,male,lower extremity
+1482,nv,75.0,male,abdomen
+1483,nv,75.0,male,abdomen
+1484,nv,75.0,male,trunk
+1485,nv,75.0,male,trunk
+1486,nv,75.0,male,hand
+1487,nv,75.0,male,back
+1488,nv,75.0,male,back
+1489,nv,75.0,male,back
+1490,nv,75.0,male,lower extremity
+1491,nv,35.0,female,trunk
+1492,nv,40.0,female,back
+1493,nv,40.0,female,back
+1494,nv,40.0,female,lower extremity
+1495,nv,40.0,female,lower extremity
+1496,nv,40.0,female,foot
+1497,nv,50.0,male,trunk
+1498,nv,50.0,male,abdomen
+1499,nv,50.0,male,foot
+1500,nv,50.0,male,lower extremity
+1501,nv,80.0,male,lower extremity
+1502,nv,35.0,female,abdomen
+1503,nv,35.0,female,trunk
+1504,nv,35.0,female,upper extremity
+1505,nv,35.0,female,trunk
+1506,nv,35.0,female,trunk
+1507,nv,35.0,female,abdomen
+1508,nv,35.0,female,abdomen
+1509,nv,35.0,female,lower extremity
+1510,nv,35.0,female,lower extremity
+1511,nv,35.0,female,lower extremity
+1512,nv,35.0,female,back
+1513,nv,35.0,female,back
+1514,nv,35.0,female,trunk
+1515,nv,35.0,female,lower extremity
+1516,nv,35.0,female,lower extremity
+1517,nv,45.0,male,lower extremity
+1518,nv,45.0,male,back
+1519,nv,45.0,male,abdomen
+1520,nv,45.0,male,lower extremity
+1521,nv,45.0,male,lower extremity
+1522,nv,45.0,male,lower extremity
+1523,nv,45.0,male,lower extremity
+1524,nv,45.0,male,back
+1525,nv,45.0,male,back
+1526,nv,45.0,male,trunk
+1527,nv,45.0,male,lower extremity
+1528,nv,45.0,male,abdomen
+1529,nv,45.0,male,abdomen
+1530,nv,55.0,male,trunk
+1531,nv,45.0,male,lower extremity
+1532,nv,45.0,male,lower extremity
+1533,nv,45.0,male,upper extremity
+1534,nv,45.0,male,lower extremity
+1535,nv,45.0,male,lower extremity
+1536,nv,45.0,male,back
+1537,nv,55.0,male,upper extremity
+1538,nv,55.0,male,lower extremity
+1539,nv,55.0,male,lower extremity
+1540,nv,55.0,male,trunk
+1541,nv,55.0,male,trunk
+1542,nv,35.0,female,upper extremity
+1543,nv,55.0,male,upper extremity
+1544,nv,55.0,male,abdomen
+1545,nv,55.0,male,trunk
+1546,nv,55.0,male,trunk
+1547,nv,55.0,male,back
+1548,nv,55.0,male,back
+1549,nv,55.0,male,lower extremity
+1550,nv,50.0,female,lower extremity
+1551,nv,70.0,male,trunk
+1552,nv,40.0,male,trunk
+1553,nv,50.0,female,upper extremity
+1554,nv,50.0,female,back
+1555,nv,50.0,female,lower extremity
+1556,nv,50.0,female,lower extremity
+1557,nv,50.0,female,upper extremity
+1558,nv,50.0,female,abdomen
+1559,nv,50.0,female,foot
+1560,nv,50.0,female,trunk
+1561,nv,40.0,female,abdomen
+1562,nv,40.0,female,trunk
+1563,nv,20.0,female,trunk
+1564,nv,20.0,female,lower extremity
+1565,nv,20.0,female,neck
+1566,nv,20.0,female,back
+1567,nv,30.0,male,trunk
+1568,nv,30.0,male,upper extremity
+1569,nv,30.0,male,back
+1570,nv,30.0,male,lower extremity
+1571,nv,45.0,male,lower extremity
+1572,nv,45.0,male,lower extremity
+1573,nv,60.0,male,upper extremity
+1574,nv,45.0,male,trunk
+1575,nv,45.0,male,abdomen
+1576,nv,45.0,male,abdomen
+1577,nv,45.0,male,lower extremity
+1578,nv,45.0,male,back
+1579,nv,50.0,female,trunk
+1580,nv,65.0,female,upper extremity
+1581,nv,20.0,female,upper extremity
+1582,nv,50.0,female,abdomen
+1583,nv,50.0,female,foot
+1584,nv,50.0,male,lower extremity
+1585,nv,50.0,female,lower extremity
+1586,nv,50.0,female,trunk
+1587,nv,40.0,male,chest
+1588,nv,40.0,male,neck
+1589,nv,40.0,male,trunk
+1590,nv,40.0,male,trunk
+1591,nv,40.0,male,abdomen
+1592,nv,40.0,male,lower extremity
+1593,nv,40.0,male,foot
+1594,nv,40.0,male,lower extremity
+1595,nv,40.0,male,lower extremity
+1596,nv,40.0,male,lower extremity
+1597,nv,40.0,male,trunk
+1598,nv,40.0,male,back
+1599,nv,40.0,male,lower extremity
+1600,nv,40.0,male,lower extremity
+1601,nv,80.0,male,trunk
+1602,nv,55.0,female,trunk
+1603,nv,35.0,female,face
+1604,nv,55.0,female,abdomen
+1605,nv,45.0,female,back
+1606,nv,55.0,female,abdomen
+1607,nv,35.0,male,trunk
+1608,nv,20.0,male,back
+1609,nv,20.0,male,back
+1610,nv,20.0,male,trunk
+1611,nv,45.0,female,abdomen
+1612,nv,60.0,male,lower extremity
+1613,nv,45.0,female,abdomen
+1614,nv,45.0,female,trunk
+1615,nv,45.0,female,lower extremity
+1616,nv,45.0,female,trunk
+1617,nv,45.0,female,back
+1618,nv,45.0,female,back
+1619,nv,45.0,female,back
+1620,nv,45.0,female,lower extremity
+1621,nv,60.0,male,trunk
+1622,nv,50.0,female,abdomen
+1623,nv,50.0,female,abdomen
+1624,nv,50.0,female,abdomen
+1625,nv,50.0,female,trunk
+1626,nv,50.0,female,back
+1627,nv,50.0,female,trunk
+1628,nv,50.0,female,lower extremity
+1629,nv,50.0,female,back
+1630,nv,50.0,female,back
+1631,nv,50.0,female,back
+1632,nv,50.0,female,back
+1633,nv,50.0,female,lower extremity
+1634,nv,50.0,female,trunk
+1635,nv,50.0,female,upper extremity
+1636,nv,50.0,female,upper extremity
+1637,nv,45.0,female,upper extremity
+1638,nv,45.0,female,upper extremity
+1639,nv,45.0,female,trunk
+1640,nv,45.0,female,trunk
+1641,nv,45.0,female,genital
+1642,nv,45.0,female,trunk
+1643,nv,45.0,female,back
+1644,nv,45.0,female,lower extremity
+1645,nv,45.0,female,lower extremity
+1646,nv,30.0,male,trunk
+1647,nv,30.0,male,abdomen
+1648,nv,30.0,male,lower extremity
+1649,nv,30.0,male,back
+1650,nv,50.0,male,lower extremity
+1651,nv,30.0,male,back
+1652,nv,30.0,male,trunk
+1653,nv,30.0,male,trunk
+1654,nv,30.0,male,lower extremity
+1655,nv,30.0,male,lower extremity
+1656,nv,30.0,male,scalp
+1657,nv,35.0,male,trunk
+1658,nv,25.0,female,abdomen
+1659,nv,75.0,female,lower extremity
+1660,nv,60.0,male,lower extremity
+1661,nv,60.0,male,lower extremity
+1662,nv,55.0,female,lower extremity
+1663,nv,35.0,female,upper extremity
+1664,nv,60.0,male,abdomen
+1665,nv,60.0,male,trunk
+1666,nv,50.0,female,hand
+1667,nv,50.0,female,trunk
+1668,nv,60.0,male,abdomen
+1669,nv,45.0,female,lower extremity
+1670,nv,45.0,female,abdomen
+1671,nv,60.0,male,trunk
+1672,nv,60.0,male,lower extremity
+1673,nv,60.0,male,foot
+1674,nv,55.0,male,foot
+1675,nv,55.0,male,upper extremity
+1676,nv,55.0,male,trunk
+1677,nv,55.0,male,trunk
+1678,nv,55.0,male,abdomen
+1679,nv,55.0,male,abdomen
+1680,nv,55.0,male,lower extremity
+1681,nv,55.0,male,lower extremity
+1682,nv,55.0,male,lower extremity
+1683,nv,55.0,male,trunk
+1684,nv,35.0,female,upper extremity
+1685,nv,35.0,female,upper extremity
+1686,nv,35.0,female,trunk
+1687,nv,35.0,female,trunk
+1688,nv,35.0,female,trunk
+1689,nv,35.0,female,back
+1690,nv,35.0,female,lower extremity
+1691,nv,35.0,female,trunk
+1692,nv,65.0,male,lower extremity
+1693,nv,45.0,male,trunk
+1694,nv,45.0,male,genital
+1695,nv,45.0,male,back
+1696,nv,5.0,male,upper extremity
+1697,nv,5.0,male,abdomen
+1698,nv,60.0,male,upper extremity
+1699,nv,60.0,male,trunk
+1700,nv,60.0,male,abdomen
+1701,nv,45.0,female,upper extremity
+1702,nv,45.0,female,abdomen
+1703,nv,45.0,female,lower extremity
+1704,nv,45.0,female,lower extremity
+1705,nv,45.0,male,trunk
+1706,nv,45.0,female,lower extremity
+1707,nv,45.0,female,lower extremity
+1708,nv,45.0,female,lower extremity
+1709,nv,45.0,female,lower extremity
+1710,nv,50.0,female,lower extremity
+1711,nv,40.0,female,upper extremity
+1712,nv,40.0,female,trunk
+1713,nv,40.0,female,trunk
+1714,nv,40.0,male,trunk
+1715,nv,55.0,female,lower extremity
+1716,nv,35.0,female,trunk
+1717,nv,35.0,female,abdomen
+1718,nv,35.0,female,abdomen
+1719,nv,35.0,female,abdomen
+1720,nv,35.0,female,trunk
+1721,nv,35.0,female,trunk
+1722,nv,5.0,male,lower extremity
+1723,nv,5.0,male,lower extremity
+1724,nv,45.0,female,foot
+1725,nv,5.0,male,upper extremity
+1726,nv,5.0,male,trunk
+1727,nv,5.0,male,trunk
+1728,nv,5.0,male,abdomen
+1729,nv,5.0,male,abdomen
+1730,nv,5.0,male,abdomen
+1731,nv,5.0,male,lower extremity
+1732,nv,5.0,male,lower extremity
+1733,nv,5.0,male,back
+1734,nv,5.0,male,trunk
+1735,nv,5.0,male,back
+1736,nv,35.0,male,upper extremity
+1737,nv,75.0,male,lower extremity
+1738,nv,65.0,female,upper extremity
+1739,nv,65.0,female,upper extremity
+1740,nv,65.0,female,lower extremity
+1741,nv,65.0,female,hand
+1742,nv,65.0,female,lower extremity
+1743,nv,45.0,female,trunk
+1744,nv,55.0,female,trunk
+1745,nv,45.0,female,lower extremity
+1746,nv,45.0,female,lower extremity
+1747,nv,45.0,female,foot
+1748,nv,45.0,female,back
+1749,nv,45.0,female,trunk
+1750,nv,50.0,male,trunk
+1751,nv,50.0,male,trunk
+1752,nv,65.0,female,abdomen
+1753,nv,65.0,female,foot
+1754,nv,65.0,female,back
+1755,nv,65.0,female,trunk
+1756,nv,65.0,female,trunk
+1757,nv,65.0,female,trunk
+1758,nv,65.0,female,trunk
+1759,nv,65.0,female,lower extremity
+1760,nv,35.0,female,lower extremity
+1761,nv,35.0,female,lower extremity
+1762,nv,35.0,female,lower extremity
+1763,nv,60.0,male,upper extremity
+1764,nv,35.0,female,foot
+1765,nv,60.0,male,trunk
+1766,nv,55.0,female,genital
+1767,nv,60.0,male,abdomen
+1768,nv,60.0,male,abdomen
+1769,nv,60.0,male,lower extremity
+1770,nv,60.0,male,lower extremity
+1771,nv,60.0,male,lower extremity
+1772,nv,60.0,male,lower extremity
+1773,nv,50.0,female,trunk
+1774,nv,50.0,female,trunk
+1775,nv,50.0,female,abdomen
+1776,nv,50.0,female,genital
+1777,nv,50.0,female,lower extremity
+1778,nv,50.0,female,back
+1779,nv,50.0,female,back
+1780,nv,50.0,female,upper extremity
+1781,nv,50.0,female,upper extremity
+1782,nv,40.0,male,upper extremity
+1783,nv,50.0,female,hand
+1784,nv,50.0,female,unknown
+1785,nv,55.0,male,lower extremity
+1786,nv,45.0,female,trunk
+1787,nv,45.0,female,trunk
+1788,nv,55.0,female,trunk
+1789,nv,55.0,female,trunk
+1790,nv,55.0,female,lower extremity
+1791,nv,45.0,female,lower extremity
+1792,nv,45.0,female,trunk
+1793,nv,45.0,female,trunk
+1794,nv,45.0,female,abdomen
+1795,nv,45.0,female,upper extremity
+1796,nv,45.0,female,back
+1797,nv,45.0,female,lower extremity
+1798,nv,50.0,female,lower extremity
+1799,nv,45.0,female,foot
+1800,nv,45.0,female,hand
+1801,nv,40.0,male,trunk
+1802,nv,45.0,female,abdomen
+1803,nv,40.0,male,lower extremity
+1804,nv,40.0,male,lower extremity
+1805,nv,40.0,female,lower extremity
+1806,nv,50.0,male,abdomen
+1807,nv,50.0,male,back
+1808,nv,50.0,male,trunk
+1809,nv,50.0,male,trunk
+1810,nv,50.0,male,upper extremity
+1811,nv,50.0,male,lower extremity
+1812,nv,45.0,female,trunk
+1813,nv,45.0,female,trunk
+1814,nv,45.0,female,lower extremity
+1815,nv,45.0,female,lower extremity
+1816,nv,40.0,female,lower extremity
+1817,nv,40.0,female,trunk
+1818,nv,40.0,female,lower extremity
+1819,nv,40.0,female,lower extremity
+1820,nv,40.0,female,trunk
+1821,nv,40.0,female,foot
+1822,nv,35.0,male,lower extremity
+1823,nv,75.0,female,abdomen
+1824,nv,75.0,female,lower extremity
+1825,nv,70.0,male,face
+1826,nv,55.0,female,genital
+1827,nv,55.0,female,back
+1828,nv,55.0,female,trunk
+1829,nv,55.0,female,lower extremity
+1830,nv,55.0,female,lower extremity
+1831,nv,45.0,female,upper extremity
+1832,nv,30.0,female,foot
+1833,nv,45.0,female,trunk
+1834,nv,45.0,female,trunk
+1835,nv,45.0,female,lower extremity
+1836,nv,15.0,male,back
+1837,nv,55.0,female,lower extremity
+1838,nv,55.0,female,trunk
+1839,nv,55.0,female,trunk
+1840,nv,55.0,female,lower extremity
+1841,nv,75.0,female,trunk
+1842,nv,45.0,male,lower extremity
+1843,nv,60.0,male,back
+1844,nv,55.0,male,trunk
+1845,nv,55.0,male,abdomen
+1846,nv,55.0,male,trunk
+1847,nv,55.0,male,lower extremity
+1848,nv,55.0,male,lower extremity
+1849,nv,55.0,male,trunk
+1850,nv,55.0,male,trunk
+1851,nv,55.0,male,abdomen
+1852,nv,55.0,male,neck
+1853,nv,55.0,male,back
+1854,nv,55.0,male,trunk
+1855,nv,55.0,male,back
+1856,nv,55.0,male,lower extremity
+1857,nv,55.0,male,lower extremity
+1858,nv,65.0,female,trunk
+1859,nv,65.0,female,lower extremity
+1860,nv,65.0,female,abdomen
+1861,nv,65.0,female,back
+1862,nv,65.0,female,lower extremity
+1863,nv,45.0,male,foot
+1864,nv,45.0,male,abdomen
+1865,nv,50.0,female,trunk
+1866,nv,50.0,female,trunk
+1867,nv,50.0,female,lower extremity
+1868,nv,50.0,female,lower extremity
+1869,nv,50.0,female,trunk
+1870,nv,50.0,female,abdomen
+1871,nv,50.0,female,upper extremity
+1872,nv,50.0,female,upper extremity
+1873,nv,50.0,female,lower extremity
+1874,nv,50.0,female,lower extremity
+1875,nv,50.0,female,lower extremity
+1876,nv,50.0,female,lower extremity
+1877,nv,50.0,female,lower extremity
+1878,nv,50.0,female,lower extremity
+1879,nv,50.0,female,lower extremity
+1880,nv,50.0,female,back
+1881,nv,50.0,female,back
+1882,nv,50.0,female,trunk
+1883,nv,50.0,female,trunk
+1884,nv,50.0,female,back
+1885,nv,50.0,female,lower extremity
+1886,nv,50.0,female,lower extremity
+1887,nv,45.0,female,lower extremity
+1888,nv,45.0,female,upper extremity
+1889,nv,45.0,female,trunk
+1890,nv,45.0,female,trunk
+1891,nv,45.0,female,trunk
+1892,nv,45.0,female,abdomen
+1893,nv,55.0,female,lower extremity
+1894,nv,45.0,female,lower extremity
+1895,nv,45.0,female,upper extremity
+1896,nv,45.0,female,back
+1897,nv,45.0,female,trunk
+1898,nv,45.0,female,back
+1899,nv,45.0,female,trunk
+1900,nv,45.0,female,lower extremity
+1901,nv,45.0,female,neck
+1902,nv,45.0,female,trunk
+1903,nv,45.0,female,trunk
+1904,nv,40.0,female,trunk
+1905,nv,60.0,male,upper extremity
+1906,nv,60.0,male,trunk
+1907,nv,55.0,female,back
+1908,nv,55.0,female,abdomen
+1909,nv,55.0,female,lower extremity
+1910,nv,55.0,female,lower extremity
+1911,nv,65.0,female,trunk
+1912,nv,65.0,female,trunk
+1913,nv,65.0,female,upper extremity
+1914,nv,65.0,female,back
+1915,nv,65.0,female,lower extremity
+1916,nv,65.0,female,lower extremity
+1917,nv,65.0,female,lower extremity
+1918,nv,65.0,female,lower extremity
+1919,nv,65.0,female,lower extremity
+1920,nv,65.0,female,lower extremity
+1921,nv,65.0,female,lower extremity
+1922,nv,45.0,female,trunk
+1923,nv,65.0,male,lower extremity
+1924,nv,40.0,female,abdomen
+1925,nv,65.0,male,lower extremity
+1926,nv,65.0,male,abdomen
+1927,nv,65.0,male,abdomen
+1928,nv,65.0,male,back
+1929,nv,65.0,male,trunk
+1930,nv,65.0,male,trunk
+1931,nv,65.0,male,trunk
+1932,nv,65.0,male,trunk
+1933,nv,45.0,female,upper extremity
+1934,nv,45.0,female,abdomen
+1935,nv,45.0,female,lower extremity
+1936,nv,45.0,female,lower extremity
+1937,nv,45.0,female,back
+1938,nv,40.0,female,abdomen
+1939,nv,45.0,female,lower extremity
+1940,nv,40.0,female,abdomen
+1941,nv,40.0,female,lower extremity
+1942,nv,40.0,female,trunk
+1943,nv,40.0,female,trunk
+1944,nv,40.0,female,lower extremity
+1945,nv,40.0,female,back
+1946,nv,40.0,female,trunk
+1947,nv,60.0,female,foot
+1948,nv,60.0,female,hand
+1949,nv,60.0,female,foot
+1950,nv,60.0,female,foot
+1951,nv,55.0,male,trunk
+1952,nv,55.0,male,trunk
+1953,nv,55.0,male,genital
+1954,nv,55.0,male,upper extremity
+1955,nv,55.0,male,upper extremity
+1956,nv,55.0,male,back
+1957,nv,55.0,male,lower extremity
+1958,nv,55.0,male,face
+1959,nv,80.0,male,trunk
+1960,nv,80.0,male,abdomen
+1961,nv,80.0,male,back
+1962,nv,80.0,male,back
+1963,nv,80.0,male,back
+1964,nv,80.0,male,back
+1965,nv,80.0,male,lower extremity
+1966,nv,80.0,male,lower extremity
+1967,nv,80.0,male,lower extremity
+1968,nv,80.0,male,lower extremity
+1969,nv,60.0,female,trunk
+1970,nv,60.0,female,back
+1971,nv,60.0,female,upper extremity
+1972,nv,50.0,male,back
+1973,nv,50.0,male,back
+1974,nv,70.0,female,trunk
+1975,nv,70.0,female,foot
+1976,nv,75.0,male,back
+1977,nv,50.0,female,neck
+1978,nv,50.0,female,abdomen
+1979,nv,50.0,female,abdomen
+1980,nv,50.0,female,abdomen
+1981,nv,60.0,female,lower extremity
+1982,nv,50.0,male,abdomen
+1983,nv,50.0,male,lower extremity
+1984,nv,70.0,female,trunk
+1985,nv,70.0,female,abdomen
+1986,nv,70.0,female,upper extremity
+1987,nv,70.0,female,lower extremity
+1988,nv,70.0,female,lower extremity
+1989,nv,70.0,female,lower extremity
+1990,nv,70.0,female,lower extremity
+1991,nv,70.0,female,trunk
+1992,nv,70.0,female,trunk
+1993,nv,70.0,female,back
+1994,nv,70.0,female,lower extremity
+1995,nv,70.0,female,lower extremity
+1996,nv,60.0,female,scalp
+1997,nv,60.0,female,back
+1998,nv,45.0,female,trunk
+1999,nv,60.0,female,lower extremity
+2000,nv,80.0,male,trunk
+2001,nv,80.0,male,upper extremity
+2002,nv,80.0,male,back
+2003,nv,80.0,male,upper extremity
+2004,nv,40.0,male,lower extremity
+2005,nv,50.0,male,back
+2006,nv,50.0,male,trunk
+2007,nv,50.0,male,trunk
+2008,nv,50.0,male,abdomen
+2009,nv,50.0,male,lower extremity
+2010,nv,50.0,male,abdomen
+2011,nv,50.0,male,upper extremity
+2012,nv,50.0,male,back
+2013,nv,50.0,male,back
+2014,nv,50.0,male,trunk
+2015,nv,50.0,male,trunk
+2016,nv,50.0,male,back
+2017,nv,65.0,male,trunk
+2018,nv,65.0,male,trunk
+2019,nv,65.0,male,abdomen
+2020,nv,65.0,male,back
+2021,nv,45.0,male,back
+2022,nv,65.0,male,trunk
+2023,nv,65.0,male,back
+2024,nv,65.0,male,lower extremity
+2025,nv,65.0,male,trunk
+2026,nv,45.0,male,face
+2027,nv,65.0,male,back
+2028,nv,65.0,male,lower extremity
+2029,nv,50.0,female,lower extremity
+2030,nv,65.0,male,lower extremity
+2031,nv,65.0,male,lower extremity
+2032,nv,65.0,male,lower extremity
+2033,nv,55.0,male,trunk
+2034,nv,55.0,male,abdomen
+2035,nv,55.0,male,abdomen
+2036,nv,55.0,male,abdomen
+2037,nv,55.0,male,trunk
+2038,nv,50.0,female,trunk
+2039,nv,50.0,female,back
+2040,nv,50.0,female,lower extremity
+2041,nv,70.0,male,trunk
+2042,nv,70.0,male,lower extremity
+2043,nv,70.0,male,unknown
+2044,nv,60.0,female,lower extremity
+2045,nv,60.0,female,lower extremity
+2046,nv,60.0,female,trunk
+2047,nv,60.0,female,lower extremity
+2048,nv,60.0,female,abdomen
+2049,nv,60.0,female,lower extremity
+2050,nv,60.0,female,lower extremity
+2051,nv,60.0,female,lower extremity
+2052,nv,40.0,male,trunk
+2053,nv,40.0,male,trunk
+2054,nv,40.0,male,lower extremity
+2055,nv,40.0,male,lower extremity
+2056,nv,40.0,male,trunk
+2057,nv,40.0,male,lower extremity
+2058,nv,40.0,male,back
+2059,nv,40.0,male,lower extremity
+2060,nv,40.0,male,abdomen
+2061,nv,40.0,male,abdomen
+2062,nv,50.0,female,lower extremity
+2063,nv,50.0,female,abdomen
+2064,nv,50.0,female,lower extremity
+2065,nv,50.0,female,lower extremity
+2066,nv,55.0,female,trunk
+2067,nv,55.0,female,abdomen
+2068,nv,85.0,male,lower extremity
+2069,nv,55.0,female,trunk
+2070,nv,55.0,female,abdomen
+2071,nv,55.0,female,abdomen
+2072,nv,55.0,female,unknown
+2073,nv,50.0,female,lower extremity
+2074,nv,50.0,female,lower extremity
+2075,nv,50.0,female,abdomen
+2076,nv,50.0,female,abdomen
+2077,nv,50.0,female,upper extremity
+2078,nv,50.0,female,upper extremity
+2079,nv,75.0,male,chest
+2080,nv,60.0,male,lower extremity
+2081,nv,75.0,male,trunk
+2082,nv,50.0,male,back
+2083,nv,75.0,male,trunk
+2084,nv,80.0,male,trunk
+2085,nv,75.0,male,abdomen
+2086,nv,75.0,male,abdomen
+2087,nv,75.0,male,back
+2088,nv,75.0,male,trunk
+2089,nv,75.0,male,lower extremity
+2090,nv,75.0,male,lower extremity
+2091,nv,60.0,male,abdomen
+2092,nv,60.0,male,abdomen
+2093,nv,60.0,male,back
+2094,nv,60.0,male,trunk
+2095,nv,60.0,male,lower extremity
+2096,nv,60.0,male,trunk
+2097,nv,60.0,male,back
+2098,nv,60.0,male,upper extremity
+2099,nv,45.0,female,trunk
+2100,nv,45.0,female,trunk
+2101,nv,60.0,male,trunk
+2102,nv,60.0,female,lower extremity
+2103,nv,60.0,female,genital
+2104,nv,50.0,male,abdomen
+2105,nv,60.0,female,trunk
+2106,nv,60.0,female,foot
+2107,nv,60.0,female,unknown
+2108,nv,55.0,female,trunk
+2109,nv,55.0,female,abdomen
+2110,nv,55.0,female,abdomen
+2111,nv,55.0,female,upper extremity
+2112,nv,55.0,female,foot
+2113,nv,55.0,female,trunk
+2114,nv,55.0,female,trunk
+2115,nv,55.0,female,lower extremity
+2116,nv,70.0,female,lower extremity
+2117,nv,60.0,male,trunk
+2118,nv,60.0,male,lower extremity
+2119,nv,60.0,male,lower extremity
+2120,nv,50.0,male,back
+2121,nv,60.0,male,back
+2122,nv,60.0,male,trunk
+2123,nv,60.0,male,trunk
+2124,nv,60.0,male,back
+2125,nv,40.0,male,lower extremity
+2126,nv,40.0,male,back
+2127,nv,40.0,male,trunk
+2128,nv,40.0,male,back
+2129,nv,50.0,male,abdomen
+2130,nv,40.0,male,trunk
+2131,nv,40.0,male,abdomen
+2132,nv,40.0,male,upper extremity
+2133,nv,40.0,male,upper extremity
+2134,nv,40.0,male,upper extremity
+2135,nv,40.0,male,back
+2136,nv,40.0,male,trunk
+2137,nv,40.0,male,lower extremity
+2138,nv,50.0,male,trunk
+2139,nv,50.0,male,back
+2140,nv,40.0,female,trunk
+2141,nv,40.0,female,trunk
+2142,nv,40.0,female,lower extremity
+2143,nv,40.0,female,back
+2144,nv,40.0,female,lower extremity
+2145,nv,40.0,female,upper extremity
+2146,nv,50.0,male,upper extremity
+2147,nv,50.0,male,back
+2148,nv,45.0,male,abdomen
+2149,nv,50.0,male,trunk
+2150,nv,50.0,male,trunk
+2151,nv,50.0,male,back
+2152,nv,50.0,male,foot
+2153,nv,60.0,male,trunk
+2154,nv,60.0,male,genital
+2155,nv,60.0,male,trunk
+2156,nv,60.0,male,abdomen
+2157,nv,60.0,male,abdomen
+2158,nv,50.0,male,trunk
+2159,nv,45.0,male,abdomen
+2160,nv,40.0,female,trunk
+2161,nv,55.0,female,lower extremity
+2162,nv,60.0,male,lower extremity
+2163,nv,60.0,male,lower extremity
+2164,nv,60.0,male,lower extremity
+2165,nv,80.0,male,trunk
+2166,nv,80.0,male,trunk
+2167,nv,80.0,male,abdomen
+2168,nv,80.0,male,abdomen
+2169,nv,80.0,male,back
+2170,nv,80.0,male,trunk
+2171,nv,80.0,male,trunk
+2172,nv,80.0,male,abdomen
+2173,nv,35.0,male,lower extremity
+2174,nv,35.0,male,back
+2175,nv,35.0,male,back
+2176,nv,35.0,male,lower extremity
+2177,nv,50.0,female,trunk
+2178,nv,50.0,female,trunk
+2179,nv,50.0,female,trunk
+2180,nv,55.0,female,trunk
+2181,nv,45.0,female,upper extremity
+2182,nv,55.0,female,trunk
+2183,nv,55.0,female,lower extremity
+2184,nv,55.0,female,back
+2185,nv,55.0,female,back
+2186,nv,55.0,female,abdomen
+2187,nv,50.0,female,trunk
+2188,nv,50.0,female,trunk
+2189,nv,50.0,female,lower extremity
+2190,nv,50.0,male,abdomen
+2191,nv,45.0,male,chest
+2192,nv,45.0,male,lower extremity
+2193,nv,45.0,male,lower extremity
+2194,nv,45.0,male,back
+2195,nv,45.0,male,lower extremity
+2196,nv,45.0,male,foot
+2197,nv,20.0,male,back
+2198,nv,50.0,female,trunk
+2199,nv,50.0,female,trunk
+2200,nv,50.0,female,upper extremity
+2201,nv,50.0,female,trunk
+2202,nv,50.0,female,back
+2203,nv,50.0,female,back
+2204,nv,50.0,female,trunk
+2205,nv,50.0,female,abdomen
+2206,nv,50.0,female,trunk
+2207,nv,50.0,female,trunk
+2208,nv,35.0,male,trunk
+2209,nv,35.0,male,back
+2210,nv,75.0,female,trunk
+2211,nv,75.0,female,abdomen
+2212,nv,75.0,female,back
+2213,nv,75.0,female,back
+2214,nv,50.0,male,trunk
+2215,nv,50.0,male,abdomen
+2216,nv,50.0,male,lower extremity
+2217,nv,70.0,male,trunk
+2218,nv,50.0,male,back
+2219,nv,50.0,male,back
+2220,nv,50.0,male,trunk
+2221,nv,50.0,male,trunk
+2222,nv,50.0,male,trunk
+2223,nv,50.0,male,trunk
+2224,nv,50.0,male,trunk
+2225,nv,50.0,male,back
+2226,nv,40.0,female,lower extremity
+2227,nv,50.0,male,back
+2228,nv,50.0,male,lower extremity
+2229,nv,50.0,female,back
+2230,nv,50.0,female,back
+2231,nv,50.0,female,trunk
+2232,nv,50.0,female,lower extremity
+2233,nv,50.0,female,upper extremity
+2234,nv,75.0,female,abdomen
+2235,nv,75.0,female,lower extremity
+2236,nv,75.0,female,upper extremity
+2237,nv,75.0,female,trunk
+2238,nv,75.0,female,trunk
+2239,nv,75.0,female,trunk
+2240,nv,75.0,female,lower extremity
+2241,nv,50.0,male,trunk
+2242,nv,50.0,male,lower extremity
+2243,nv,50.0,male,trunk
+2244,nv,50.0,male,trunk
+2245,nv,50.0,male,trunk
+2246,nv,50.0,male,trunk
+2247,nv,50.0,male,lower extremity
+2248,nv,60.0,female,lower extremity
+2249,nv,60.0,female,back
+2250,nv,60.0,female,lower extremity
+2251,nv,60.0,female,genital
+2252,nv,55.0,male,trunk
+2253,nv,55.0,male,abdomen
+2254,nv,55.0,male,trunk
+2255,nv,50.0,female,abdomen
+2256,nv,50.0,female,back
+2257,nv,30.0,male,lower extremity
+2258,nv,55.0,female,lower extremity
+2259,nv,55.0,female,back
+2260,nv,55.0,female,trunk
+2261,nv,55.0,female,trunk
+2262,nv,55.0,female,lower extremity
+2263,nv,55.0,female,lower extremity
+2264,nv,55.0,female,lower extremity
+2265,nv,55.0,female,back
+2266,nv,55.0,female,lower extremity
+2267,nv,50.0,female,back
+2268,nv,50.0,female,lower extremity
+2269,nv,50.0,female,trunk
+2270,nv,50.0,female,trunk
+2271,nv,50.0,female,trunk
+2272,nv,50.0,female,abdomen
+2273,nv,35.0,female,trunk
+2274,nv,35.0,female,trunk
+2275,nv,35.0,female,lower extremity
+2276,nv,50.0,female,abdomen
+2277,nv,50.0,female,trunk
+2278,nv,50.0,female,lower extremity
+2279,nv,50.0,female,lower extremity
+2280,nv,45.0,female,trunk
+2281,nv,45.0,female,abdomen
+2282,nv,50.0,male,upper extremity
+2283,nv,50.0,male,lower extremity
+2284,nv,50.0,female,lower extremity
+2285,nv,50.0,female,trunk
+2286,nv,50.0,female,upper extremity
+2287,nv,50.0,female,foot
+2288,nv,50.0,female,upper extremity
+2289,nv,50.0,female,lower extremity
+2290,nv,50.0,female,trunk
+2291,nv,50.0,female,trunk
+2292,nv,50.0,female,lower extremity
+2293,nv,50.0,female,lower extremity
+2294,nv,40.0,female,lower extremity
+2295,nv,40.0,female,trunk
+2296,nv,40.0,female,lower extremity
+2297,nv,40.0,female,back
+2298,nv,40.0,female,lower extremity
+2299,nv,75.0,female,trunk
+2300,nv,75.0,female,trunk
+2301,nv,75.0,female,abdomen
+2302,nv,75.0,female,back
+2303,nv,50.0,female,abdomen
+2304,nv,50.0,female,lower extremity
+2305,nv,40.0,male,upper extremity
+2306,nv,55.0,female,trunk
+2307,nv,55.0,female,trunk
+2308,nv,55.0,female,abdomen
+2309,nv,55.0,female,lower extremity
+2310,nv,55.0,female,lower extremity
+2311,nv,55.0,female,lower extremity
+2312,nv,55.0,female,lower extremity
+2313,nv,55.0,female,lower extremity
+2314,nv,45.0,male,trunk
+2315,nv,45.0,male,upper extremity
+2316,nv,75.0,female,lower extremity
+2317,nv,75.0,female,lower extremity
+2318,nv,60.0,male,trunk
+2319,nv,60.0,male,abdomen
+2320,nv,60.0,male,back
+2321,nv,60.0,male,trunk
+2322,nv,60.0,male,trunk
+2323,nv,55.0,male,abdomen
+2324,nv,30.0,male,trunk
+2325,nv,30.0,male,abdomen
+2326,nv,30.0,male,trunk
+2327,nv,30.0,male,lower extremity
+2328,nv,40.0,female,trunk
+2329,nv,40.0,female,trunk
+2330,nv,40.0,female,abdomen
+2331,nv,40.0,female,trunk
+2332,nv,40.0,female,back
+2333,nv,40.0,female,trunk
+2334,nv,40.0,female,lower extremity
+2335,nv,40.0,female,trunk
+2336,nv,40.0,female,lower extremity
+2337,nv,40.0,female,lower extremity
+2338,nv,40.0,female,lower extremity
+2339,nv,40.0,female,lower extremity
+2340,nv,40.0,female,ear
+2341,nv,65.0,female,abdomen
+2342,nv,65.0,female,lower extremity
+2343,nv,65.0,female,lower extremity
+2344,nv,65.0,female,lower extremity
+2345,nv,55.0,female,trunk
+2346,nv,60.0,female,trunk
+2347,nv,60.0,female,abdomen
+2348,nv,60.0,female,abdomen
+2349,nv,60.0,female,abdomen
+2350,nv,60.0,female,lower extremity
+2351,nv,60.0,female,trunk
+2352,nv,60.0,female,back
+2353,nv,60.0,female,lower extremity
+2354,nv,60.0,female,lower extremity
+2355,nv,45.0,male,abdomen
+2356,nv,45.0,male,back
+2357,nv,45.0,male,trunk
+2358,nv,45.0,male,trunk
+2359,nv,45.0,male,trunk
+2360,nv,45.0,male,lower extremity
+2361,nv,40.0,female,trunk
+2362,nv,35.0,female,back
+2363,nv,40.0,female,genital
+2364,nv,30.0,female,trunk
+2365,nv,45.0,male,abdomen
+2366,nv,45.0,male,back
+2367,nv,45.0,male,lower extremity
+2368,nv,45.0,male,lower extremity
+2369,nv,50.0,male,trunk
+2370,nv,55.0,female,back
+2371,nv,45.0,female,trunk
+2372,nv,45.0,female,abdomen
+2373,nv,50.0,male,lower extremity
+2374,nv,45.0,female,trunk
+2375,nv,75.0,male,trunk
+2376,nv,75.0,male,abdomen
+2377,nv,50.0,male,trunk
+2378,nv,50.0,male,trunk
+2379,nv,45.0,male,abdomen
+2380,nv,45.0,male,back
+2381,nv,45.0,male,trunk
+2382,nv,45.0,male,lower extremity
+2383,nv,45.0,male,lower extremity
+2384,nv,45.0,male,trunk
+2385,nv,45.0,male,trunk
+2386,nv,45.0,male,trunk
+2387,nv,70.0,male,lower extremity
+2388,nv,70.0,male,lower extremity
+2389,nv,70.0,male,abdomen
+2390,nv,70.0,male,abdomen
+2391,nv,70.0,male,lower extremity
+2392,nv,70.0,male,back
+2393,nv,70.0,male,trunk
+2394,nv,40.0,male,lower extremity
+2395,nv,40.0,male,trunk
+2396,nv,40.0,male,lower extremity
+2397,nv,40.0,male,lower extremity
+2398,nv,40.0,male,trunk
+2399,nv,40.0,male,neck
+2400,nv,65.0,male,upper extremity
+2401,nv,60.0,male,trunk
+2402,nv,60.0,male,trunk
+2403,nv,55.0,female,trunk
+2404,nv,55.0,female,trunk
+2405,nv,55.0,female,back
+2406,nv,55.0,female,lower extremity
+2407,nv,55.0,female,lower extremity
+2408,nv,55.0,female,lower extremity
+2409,nv,50.0,female,abdomen
+2410,nv,35.0,female,back
+2411,nv,35.0,female,back
+2412,nv,35.0,female,trunk
+2413,nv,35.0,female,back
+2414,nv,35.0,female,lower extremity
+2415,nv,35.0,female,abdomen
+2416,nv,35.0,female,abdomen
+2417,nv,35.0,female,upper extremity
+2418,nv,55.0,female,lower extremity
+2419,nv,55.0,female,lower extremity
+2420,nv,55.0,female,back
+2421,nv,50.0,female,lower extremity
+2422,nv,50.0,female,trunk
+2423,nv,50.0,female,foot
+2424,nv,65.0,male,abdomen
+2425,nv,65.0,male,trunk
+2426,nv,45.0,female,back
+2427,nv,45.0,female,trunk
+2428,nv,45.0,female,upper extremity
+2429,nv,45.0,female,trunk
+2430,nv,45.0,female,trunk
+2431,nv,45.0,female,abdomen
+2432,nv,45.0,female,lower extremity
+2433,nv,45.0,female,lower extremity
+2434,nv,45.0,female,lower extremity
+2435,nv,45.0,female,lower extremity
+2436,nv,45.0,female,lower extremity
+2437,nv,45.0,female,lower extremity
+2438,nv,45.0,female,lower extremity
+2439,nv,45.0,female,lower extremity
+2440,nv,45.0,female,lower extremity
+2441,nv,45.0,female,lower extremity
+2442,nv,45.0,female,back
+2443,nv,45.0,female,upper extremity
+2444,nv,60.0,female,trunk
+2445,nv,60.0,female,trunk
+2446,nv,55.0,female,lower extremity
+2447,nv,55.0,female,lower extremity
+2448,nv,55.0,female,back
+2449,nv,55.0,female,lower extremity
+2450,nv,55.0,female,back
+2451,nv,55.0,female,lower extremity
+2452,nv,55.0,female,genital
+2453,nv,55.0,female,trunk
+2454,nv,65.0,male,trunk
+2455,nv,65.0,male,back
+2456,nv,65.0,male,trunk
+2457,nv,65.0,male,lower extremity
+2458,nv,65.0,male,lower extremity
+2459,nv,75.0,female,lower extremity
+2460,nv,75.0,female,upper extremity
+2461,nv,75.0,female,trunk
+2462,nv,75.0,female,back
+2463,nv,40.0,female,trunk
+2464,nv,40.0,female,upper extremity
+2465,nv,40.0,female,trunk
+2466,nv,40.0,female,lower extremity
+2467,nv,40.0,female,lower extremity
+2468,nv,40.0,female,upper extremity
+2469,nv,40.0,female,trunk
+2470,nv,40.0,female,upper extremity
+2471,nv,60.0,male,trunk
+2472,nv,55.0,female,lower extremity
+2473,nv,50.0,female,abdomen
+2474,nv,40.0,female,upper extremity
+2475,nv,45.0,male,trunk
+2476,nv,45.0,male,abdomen
+2477,nv,45.0,male,lower extremity
+2478,nv,45.0,male,trunk
+2479,nv,45.0,male,trunk
+2480,nv,45.0,male,lower extremity
+2481,nv,45.0,female,trunk
+2482,nv,45.0,female,trunk
+2483,nv,45.0,female,lower extremity
+2484,nv,45.0,female,upper extremity
+2485,nv,55.0,male,abdomen
+2486,nv,55.0,male,abdomen
+2487,nv,55.0,male,abdomen
+2488,nv,55.0,male,trunk
+2489,nv,55.0,male,upper extremity
+2490,nv,55.0,male,back
+2491,nv,55.0,male,trunk
+2492,nv,55.0,male,trunk
+2493,nv,55.0,male,trunk
+2494,nv,55.0,male,upper extremity
+2495,nv,45.0,female,upper extremity
+2496,nv,45.0,female,back
+2497,nv,45.0,female,back
+2498,nv,45.0,female,lower extremity
+2499,nv,45.0,female,trunk
+2500,nv,45.0,female,trunk
+2501,nv,45.0,female,trunk
+2502,nv,45.0,female,chest
+2503,nv,45.0,female,abdomen
+2504,nv,45.0,female,abdomen
+2505,nv,35.0,male,lower extremity
+2506,nv,35.0,male,trunk
+2507,nv,35.0,male,abdomen
+2508,nv,35.0,male,abdomen
+2509,nv,35.0,male,lower extremity
+2510,nv,35.0,male,back
+2511,nv,35.0,male,trunk
+2512,nv,35.0,male,lower extremity
+2513,nv,35.0,male,lower extremity
+2514,nv,45.0,male,abdomen
+2515,nv,45.0,male,lower extremity
+2516,nv,45.0,male,lower extremity
+2517,nv,45.0,male,back
+2518,nv,45.0,male,back
+2519,nv,45.0,male,back
+2520,nv,55.0,female,trunk
+2521,nv,55.0,female,trunk
+2522,nv,55.0,female,lower extremity
+2523,nv,70.0,female,trunk
+2524,nv,70.0,female,trunk
+2525,nv,70.0,female,lower extremity
+2526,nv,70.0,female,trunk
+2527,nv,35.0,female,trunk
+2528,nv,35.0,female,back
+2529,nv,35.0,female,lower extremity
+2530,nv,35.0,female,lower extremity
+2531,nv,35.0,female,face
+2532,nv,45.0,female,trunk
+2533,nv,45.0,female,trunk
+2534,nv,45.0,female,abdomen
+2535,nv,45.0,female,foot
+2536,nv,40.0,male,lower extremity
+2537,nv,45.0,female,trunk
+2538,nv,45.0,female,back
+2539,nv,45.0,female,lower extremity
+2540,nv,45.0,female,lower extremity
+2541,nv,60.0,female,trunk
+2542,nv,60.0,female,lower extremity
+2543,nv,60.0,female,lower extremity
+2544,nv,60.0,female,unknown
+2545,nv,60.0,female,trunk
+2546,nv,60.0,female,trunk
+2547,nv,40.0,female,trunk
+2548,nv,40.0,female,trunk
+2549,nv,40.0,female,back
+2550,nv,40.0,female,trunk
+2551,nv,40.0,female,trunk
+2552,nv,40.0,female,hand
+2553,nv,40.0,female,trunk
+2554,nv,60.0,male,lower extremity
+2555,nv,45.0,male,upper extremity
+2556,nv,45.0,male,upper extremity
+2557,nv,45.0,male,trunk
+2558,nv,45.0,male,back
+2559,nv,45.0,male,trunk
+2560,nv,45.0,male,trunk
+2561,nv,45.0,male,back
+2562,nv,55.0,male,trunk
+2563,nv,55.0,male,abdomen
+2564,nv,40.0,female,lower extremity
+2565,nv,40.0,female,foot
+2566,nv,40.0,female,foot
+2567,nv,40.0,female,trunk
+2568,nv,40.0,female,back
+2569,nv,40.0,female,lower extremity
+2570,nv,40.0,female,lower extremity
+2571,nv,45.0,male,abdomen
+2572,nv,45.0,male,abdomen
+2573,nv,45.0,male,genital
+2574,nv,45.0,male,lower extremity
+2575,nv,45.0,male,back
+2576,nv,45.0,male,lower extremity
+2577,nv,45.0,male,trunk
+2578,nv,45.0,male,lower extremity
+2579,nv,50.0,female,ear
+2580,nv,50.0,female,trunk
+2581,nv,50.0,female,abdomen
+2582,nv,35.0,female,trunk
+2583,nv,35.0,male,lower extremity
+2584,nv,45.0,male,back
+2585,nv,45.0,male,upper extremity
+2586,nv,45.0,male,lower extremity
+2587,nv,45.0,male,trunk
+2588,nv,45.0,male,back
+2589,nv,45.0,male,trunk
+2590,nv,45.0,male,lower extremity
+2591,nv,45.0,male,foot
+2592,nv,60.0,male,trunk
+2593,nv,60.0,male,trunk
+2594,nv,50.0,male,trunk
+2595,nv,45.0,male,abdomen
+2596,nv,45.0,male,abdomen
+2597,nv,45.0,male,abdomen
+2598,nv,45.0,male,back
+2599,nv,45.0,male,trunk
+2600,nv,45.0,male,trunk
+2601,nv,45.0,male,trunk
+2602,nv,45.0,male,back
+2603,nv,45.0,male,foot
+2604,nv,30.0,male,abdomen
+2605,nv,30.0,male,trunk
+2606,nv,30.0,male,back
+2607,nv,60.0,male,abdomen
+2608,nv,50.0,female,lower extremity
+2609,nv,50.0,female,unknown
+2610,nv,40.0,female,upper extremity
+2611,nv,40.0,female,back
+2612,nv,40.0,female,trunk
+2613,nv,40.0,female,abdomen
+2614,nv,40.0,female,abdomen
+2615,nv,70.0,male,trunk
+2616,nv,70.0,male,upper extremity
+2617,nv,70.0,male,genital
+2618,nv,70.0,male,trunk
+2619,nv,70.0,male,neck
+2620,nv,70.0,male,back
+2621,nv,70.0,male,back
+2622,nv,70.0,male,back
+2623,nv,70.0,male,trunk
+2624,nv,70.0,male,upper extremity
+2625,nv,40.0,female,foot
+2626,nv,45.0,female,trunk
+2627,nv,45.0,female,lower extremity
+2628,nv,55.0,female,lower extremity
+2629,nv,55.0,female,lower extremity
+2630,nv,55.0,female,lower extremity
+2631,nv,55.0,female,lower extremity
+2632,nv,55.0,female,lower extremity
+2633,nv,40.0,female,lower extremity
+2634,nv,40.0,female,back
+2635,nv,40.0,female,lower extremity
+2636,nv,40.0,female,trunk
+2637,nv,40.0,female,abdomen
+2638,nv,40.0,female,abdomen
+2639,nv,40.0,female,lower extremity
+2640,nv,75.0,male,lower extremity
+2641,nv,50.0,female,trunk
+2642,nv,50.0,female,trunk
+2643,nv,50.0,female,trunk
+2644,nv,55.0,female,neck
+2645,nv,55.0,female,abdomen
+2646,nv,55.0,female,lower extremity
+2647,nv,55.0,female,lower extremity
+2648,nv,55.0,female,lower extremity
+2649,nv,55.0,female,lower extremity
+2650,nv,55.0,female,lower extremity
+2651,nv,55.0,female,foot
+2652,nv,55.0,female,lower extremity
+2653,nv,55.0,female,lower extremity
+2654,nv,55.0,female,lower extremity
+2655,nv,55.0,female,lower extremity
+2656,nv,50.0,female,trunk
+2657,nv,50.0,female,abdomen
+2658,nv,50.0,female,lower extremity
+2659,nv,50.0,female,lower extremity
+2660,nv,50.0,female,back
+2661,nv,50.0,female,lower extremity
+2662,nv,50.0,female,trunk
+2663,nv,50.0,female,back
+2664,nv,50.0,female,back
+2665,nv,50.0,female,foot
+2666,nv,75.0,female,lower extremity
+2667,nv,50.0,male,upper extremity
+2668,nv,50.0,female,trunk
+2669,nv,50.0,female,lower extremity
+2670,nv,60.0,female,genital
+2671,nv,35.0,female,upper extremity
+2672,nv,35.0,female,back
+2673,nv,35.0,female,back
+2674,nv,35.0,female,back
+2675,nv,35.0,female,abdomen
+2676,nv,75.0,male,lower extremity
+2677,nv,75.0,male,lower extremity
+2678,nv,75.0,male,trunk
+2679,nv,75.0,male,lower extremity
+2680,nv,75.0,male,back
+2681,nv,60.0,male,neck
+2682,nv,60.0,male,trunk
+2683,nv,60.0,male,back
+2684,nv,60.0,male,lower extremity
+2685,nv,50.0,male,trunk
+2686,nv,50.0,male,trunk
+2687,nv,50.0,male,trunk
+2688,nv,50.0,male,abdomen
+2689,nv,50.0,male,lower extremity
+2690,nv,50.0,male,lower extremity
+2691,nv,50.0,male,lower extremity
+2692,nv,40.0,male,lower extremity
+2693,nv,40.0,male,back
+2694,nv,40.0,male,abdomen
+2695,nv,40.0,male,abdomen
+2696,nv,40.0,male,upper extremity
+2697,nv,50.0,female,lower extremity
+2698,nv,40.0,male,lower extremity
+2699,nv,40.0,male,lower extremity
+2700,nv,70.0,female,trunk
+2701,nv,45.0,male,back
+2702,nv,45.0,male,back
+2703,nv,45.0,male,trunk
+2704,nv,45.0,male,lower extremity
+2705,nv,45.0,male,lower extremity
+2706,nv,50.0,male,trunk
+2707,nv,50.0,male,abdomen
+2708,nv,50.0,male,abdomen
+2709,nv,50.0,male,abdomen
+2710,nv,50.0,male,abdomen
+2711,nv,50.0,male,abdomen
+2712,nv,50.0,male,lower extremity
+2713,nv,50.0,male,lower extremity
+2714,nv,50.0,male,lower extremity
+2715,nv,50.0,male,lower extremity
+2716,nv,50.0,male,lower extremity
+2717,nv,50.0,male,unknown
+2718,nv,50.0,male,lower extremity
+2719,nv,25.0,male,back
+2720,nv,35.0,male,lower extremity
+2721,nv,35.0,male,back
+2722,nv,55.0,female,trunk
+2723,nv,55.0,female,trunk
+2724,nv,55.0,female,upper extremity
+2725,nv,55.0,female,abdomen
+2726,nv,70.0,male,lower extremity
+2727,nv,55.0,female,trunk
+2728,nv,55.0,female,back
+2729,nv,55.0,female,lower extremity
+2730,nv,55.0,female,lower extremity
+2731,nv,60.0,male,trunk
+2732,nv,60.0,male,trunk
+2733,nv,60.0,male,abdomen
+2734,nv,60.0,male,lower extremity
+2735,nv,60.0,male,lower extremity
+2736,nv,60.0,male,back
+2737,nv,60.0,male,back
+2738,nv,60.0,male,upper extremity
+2739,nv,60.0,male,trunk
+2740,nv,50.0,male,trunk
+2741,nv,50.0,male,upper extremity
+2742,nv,55.0,male,lower extremity
+2743,nv,55.0,male,foot
+2744,nv,55.0,male,lower extremity
+2745,nv,55.0,male,lower extremity
+2746,nv,55.0,male,lower extremity
+2747,nv,55.0,male,lower extremity
+2748,nv,55.0,male,lower extremity
+2749,nv,55.0,male,back
+2750,nv,55.0,male,upper extremity
+2751,nv,45.0,female,genital
+2752,nv,45.0,female,lower extremity
+2753,nv,45.0,female,back
+2754,nv,40.0,male,trunk
+2755,nv,40.0,male,abdomen
+2756,nv,40.0,male,abdomen
+2757,nv,40.0,male,abdomen
+2758,nv,40.0,male,abdomen
+2759,nv,40.0,male,lower extremity
+2760,nv,40.0,male,back
+2761,nv,40.0,male,back
+2762,nv,40.0,male,trunk
+2763,nv,40.0,male,upper extremity
+2764,nv,40.0,male,trunk
+2765,nv,40.0,male,lower extremity
+2766,nv,45.0,female,back
+2767,nv,40.0,male,trunk
+2768,nv,40.0,male,foot
+2769,nv,40.0,male,hand
+2770,nv,35.0,female,upper extremity
+2771,nv,65.0,female,foot
+2772,nv,65.0,female,trunk
+2773,nv,65.0,female,lower extremity
+2774,nv,65.0,female,trunk
+2775,nv,40.0,female,back
+2776,nv,50.0,female,abdomen
+2777,nv,50.0,male,trunk
+2778,nv,50.0,female,lower extremity
+2779,nv,50.0,female,back
+2780,nv,60.0,male,trunk
+2781,nv,35.0,female,upper extremity
+2782,nv,70.0,male,trunk
+2783,nv,70.0,male,trunk
+2784,nv,70.0,male,lower extremity
+2785,nv,40.0,male,trunk
+2786,nv,50.0,male,abdomen
+2787,nv,50.0,male,lower extremity
+2788,nv,55.0,female,trunk
+2789,nv,55.0,female,abdomen
+2790,nv,55.0,female,lower extremity
+2791,nv,55.0,female,trunk
+2792,nv,55.0,female,trunk
+2793,nv,55.0,female,unknown
+2794,nv,50.0,male,abdomen
+2795,nv,55.0,female,abdomen
+2796,nv,55.0,female,upper extremity
+2797,nv,55.0,female,upper extremity
+2798,nv,55.0,female,lower extremity
+2799,nv,55.0,female,lower extremity
+2800,nv,55.0,female,lower extremity
+2801,nv,55.0,female,back
+2802,nv,70.0,male,abdomen
+2803,nv,70.0,male,trunk
+2804,nv,70.0,male,back
+2805,nv,50.0,female,lower extremity
+2806,nv,50.0,female,lower extremity
+2807,nv,50.0,female,back
+2808,nv,50.0,female,upper extremity
+2809,nv,50.0,female,upper extremity
+2810,nv,50.0,female,trunk
+2811,nv,50.0,female,trunk
+2812,nv,50.0,female,upper extremity
+2813,nv,50.0,female,neck
+2814,nv,50.0,female,upper extremity
+2815,nv,50.0,female,back
+2816,nv,50.0,female,trunk
+2817,nv,50.0,female,back
+2818,nv,50.0,female,back
+2819,nv,50.0,female,trunk
+2820,nv,65.0,female,back
+2821,nv,65.0,female,trunk
+2822,nv,65.0,female,lower extremity
+2823,nv,65.0,female,back
+2824,nv,65.0,female,lower extremity
+2825,nv,65.0,female,lower extremity
+2826,nv,65.0,female,lower extremity
+2827,nv,65.0,female,foot
+2828,nv,65.0,male,trunk
+2829,nv,65.0,male,abdomen
+2830,nv,65.0,male,lower extremity
+2831,nv,65.0,male,upper extremity
+2832,nv,65.0,male,trunk
+2833,nv,65.0,male,trunk
+2834,nv,65.0,male,lower extremity
+2835,nv,65.0,male,lower extremity
+2836,nv,65.0,male,lower extremity
+2837,nv,65.0,male,lower extremity
+2838,nv,55.0,female,lower extremity
+2839,nv,55.0,female,trunk
+2840,nv,55.0,female,lower extremity
+2841,nv,55.0,female,lower extremity
+2842,nv,55.0,female,lower extremity
+2843,nv,40.0,female,genital
+2844,nv,40.0,female,lower extremity
+2845,nv,40.0,female,neck
+2846,nv,30.0,female,trunk
+2847,nv,75.0,female,back
+2848,nv,75.0,female,lower extremity
+2849,nv,70.0,female,foot
+2850,nv,60.0,male,abdomen
+2851,nv,60.0,male,back
+2852,nv,40.0,male,trunk
+2853,nv,40.0,male,trunk
+2854,nv,40.0,male,abdomen
+2855,nv,40.0,male,abdomen
+2856,nv,40.0,male,upper extremity
+2857,nv,40.0,male,upper extremity
+2858,nv,40.0,male,lower extremity
+2859,nv,40.0,male,ear
+2860,nv,40.0,male,trunk
+2861,nv,40.0,male,trunk
+2862,nv,40.0,male,lower extremity
+2863,nv,40.0,male,trunk
+2864,nv,40.0,male,trunk
+2865,nv,40.0,male,lower extremity
+2866,nv,40.0,male,trunk
+2867,nv,40.0,male,trunk
+2868,nv,50.0,female,trunk
+2869,nv,50.0,female,trunk
+2870,nv,50.0,female,lower extremity
+2871,nv,50.0,female,lower extremity
+2872,nv,50.0,male,trunk
+2873,nv,50.0,male,trunk
+2874,nv,50.0,male,upper extremity
+2875,nv,50.0,male,upper extremity
+2876,nv,50.0,male,lower extremity
+2877,nv,50.0,male,back
+2878,nv,50.0,male,trunk
+2879,nv,50.0,male,trunk
+2880,nv,55.0,male,abdomen
+2881,nv,55.0,male,upper extremity
+2882,nv,40.0,female,abdomen
+2883,nv,40.0,female,back
+2884,nv,50.0,male,lower extremity
+2885,nv,50.0,male,lower extremity
+2886,nv,50.0,male,trunk
+2887,nv,50.0,male,trunk
+2888,nv,50.0,male,lower extremity
+2889,nv,50.0,male,back
+2890,nv,50.0,male,back
+2891,nv,50.0,male,back
+2892,nv,40.0,female,lower extremity
+2893,nv,45.0,male,trunk
+2894,nv,45.0,male,back
+2895,nv,45.0,male,lower extremity
+2896,nv,45.0,male,lower extremity
+2897,nv,45.0,male,upper extremity
+2898,nv,45.0,male,lower extremity
+2899,nv,50.0,female,abdomen
+2900,nv,50.0,female,abdomen
+2901,nv,50.0,female,abdomen
+2902,nv,55.0,female,lower extremity
+2903,nv,40.0,male,back
+2904,nv,45.0,female,trunk
+2905,nv,45.0,female,trunk
+2906,nv,45.0,female,upper extremity
+2907,nv,45.0,female,upper extremity
+2908,nv,45.0,female,lower extremity
+2909,nv,45.0,female,trunk
+2910,nv,45.0,female,lower extremity
+2911,nv,45.0,female,lower extremity
+2912,nv,45.0,female,lower extremity
+2913,nv,45.0,female,lower extremity
+2914,nv,40.0,male,trunk
+2915,nv,40.0,male,trunk
+2916,nv,40.0,male,lower extremity
+2917,nv,40.0,male,back
+2918,nv,45.0,female,lower extremity
+2919,nv,45.0,female,trunk
+2920,nv,45.0,female,trunk
+2921,nv,45.0,female,trunk
+2922,nv,65.0,male,trunk
+2923,nv,55.0,female,trunk
+2924,nv,65.0,male,trunk
+2925,nv,35.0,male,back
+2926,nv,50.0,female,trunk
+2927,nv,50.0,female,abdomen
+2928,nv,50.0,female,lower extremity
+2929,nv,50.0,female,foot
+2930,nv,35.0,male,abdomen
+2931,nv,35.0,male,trunk
+2932,nv,35.0,male,abdomen
+2933,nv,35.0,male,upper extremity
+2934,nv,35.0,male,back
+2935,nv,35.0,male,back
+2936,nv,35.0,male,lower extremity
+2937,nv,35.0,male,trunk
+2938,nv,50.0,female,trunk
+2939,nv,50.0,female,trunk
+2940,nv,50.0,female,trunk
+2941,nv,25.0,female,upper extremity
+2942,nv,25.0,female,abdomen
+2943,nv,25.0,female,upper extremity
+2944,nv,25.0,female,upper extremity
+2945,nv,25.0,female,trunk
+2946,nv,25.0,female,lower extremity
+2947,nv,35.0,female,trunk
+2948,nv,65.0,female,lower extremity
+2949,nv,65.0,female,back
+2950,nv,65.0,female,upper extremity
+2951,nv,60.0,male,back
+2952,nv,60.0,male,trunk
+2953,nv,60.0,male,trunk
+2954,nv,60.0,male,upper extremity
+2955,nv,60.0,male,back
+2956,nv,60.0,male,lower extremity
+2957,nv,50.0,male,abdomen
+2958,nv,50.0,male,abdomen
+2959,nv,25.0,male,upper extremity
+2960,nv,60.0,female,back
+2961,nv,60.0,female,abdomen
+2962,nv,60.0,female,upper extremity
+2963,nv,60.0,female,upper extremity
+2964,nv,55.0,female,trunk
+2965,nv,55.0,female,trunk
+2966,nv,55.0,female,lower extremity
+2967,nv,55.0,male,trunk
+2968,nv,55.0,male,lower extremity
+2969,nv,55.0,male,back
+2970,nv,55.0,male,abdomen
+2971,nv,55.0,male,lower extremity
+2972,nv,55.0,male,foot
+2973,nv,55.0,male,foot
+2974,nv,55.0,male,trunk
+2975,nv,50.0,female,trunk
+2976,nv,45.0,female,abdomen
+2977,nv,45.0,female,lower extremity
+2978,nv,45.0,female,trunk
+2979,nv,45.0,female,abdomen
+2980,nv,45.0,female,genital
+2981,nv,45.0,female,back
+2982,nv,45.0,female,trunk
+2983,nv,50.0,female,abdomen
+2984,nv,50.0,female,lower extremity
+2985,nv,50.0,female,lower extremity
+2986,nv,50.0,female,lower extremity
+2987,nv,50.0,female,trunk
+2988,nv,55.0,female,trunk
+2989,nv,55.0,female,lower extremity
+2990,nv,55.0,female,lower extremity
+2991,nv,55.0,female,lower extremity
+2992,nv,55.0,female,abdomen
+2993,nv,55.0,female,trunk
+2994,nv,55.0,female,lower extremity
+2995,nv,60.0,female,trunk
+2996,nv,60.0,female,upper extremity
+2997,nv,60.0,female,upper extremity
+2998,nv,60.0,female,back
+2999,nv,60.0,female,back
+3000,nv,60.0,female,trunk
+3001,nv,60.0,female,lower extremity
+3002,nv,60.0,female,lower extremity
+3003,nv,65.0,male,upper extremity
+3004,nv,65.0,male,trunk
+3005,nv,65.0,male,back
+3006,nv,65.0,male,trunk
+3007,nv,65.0,male,upper extremity
+3008,nv,65.0,male,trunk
+3009,nv,65.0,male,trunk
+3010,nv,65.0,male,trunk
+3011,nv,65.0,male,trunk
+3012,nv,65.0,male,trunk
+3013,nv,65.0,male,abdomen
+3014,nv,65.0,male,abdomen
+3015,nv,65.0,male,upper extremity
+3016,nv,65.0,male,upper extremity
+3017,nv,65.0,male,lower extremity
+3018,nv,65.0,male,lower extremity
+3019,nv,65.0,male,trunk
+3020,nv,40.0,male,upper extremity
+3021,nv,40.0,male,back
+3022,nv,40.0,female,lower extremity
+3023,nv,40.0,male,back
+3024,nv,45.0,male,trunk
+3025,nv,40.0,male,trunk
+3026,nv,40.0,male,foot
+3027,nv,45.0,female,hand
+3028,nv,45.0,female,lower extremity
+3029,nv,45.0,female,lower extremity
+3030,nv,45.0,female,lower extremity
+3031,nv,45.0,female,lower extremity
+3032,nv,35.0,female,abdomen
+3033,nv,35.0,female,lower extremity
+3034,nv,35.0,female,back
+3035,nv,35.0,female,lower extremity
+3036,nv,35.0,female,abdomen
+3037,nv,35.0,female,upper extremity
+3038,nv,35.0,female,upper extremity
+3039,nv,35.0,female,lower extremity
+3040,nv,25.0,female,upper extremity
+3041,nv,50.0,male,trunk
+3042,nv,50.0,male,abdomen
+3043,nv,50.0,male,trunk
+3044,nv,50.0,male,back
+3045,nv,50.0,female,abdomen
+3046,nv,50.0,female,lower extremity
+3047,nv,50.0,female,lower extremity
+3048,nv,50.0,female,back
+3049,nv,50.0,female,back
+3050,nv,50.0,female,back
+3051,nv,55.0,male,lower extremity
+3052,nv,55.0,male,abdomen
+3053,nv,55.0,male,lower extremity
+3054,nv,55.0,male,back
+3055,nv,55.0,male,lower extremity
+3056,nv,60.0,female,upper extremity
+3057,nv,60.0,female,abdomen
+3058,nv,60.0,female,trunk
+3059,nv,45.0,female,trunk
+3060,nv,45.0,female,abdomen
+3061,nv,45.0,female,upper extremity
+3062,nv,45.0,female,trunk
+3063,nv,45.0,female,trunk
+3064,nv,45.0,female,trunk
+3065,nv,45.0,female,back
+3066,nv,45.0,female,upper extremity
+3067,nv,50.0,male,trunk
+3068,nv,50.0,male,back
+3069,nv,50.0,male,lower extremity
+3070,nv,40.0,male,upper extremity
+3071,nv,50.0,male,lower extremity
+3072,nv,60.0,female,trunk
+3073,nv,60.0,female,genital
+3074,nv,60.0,female,abdomen
+3075,nv,60.0,female,lower extremity
+3076,nv,60.0,female,abdomen
+3077,nv,60.0,female,back
+3078,nv,55.0,male,abdomen
+3079,nv,55.0,male,trunk
+3080,nv,55.0,male,trunk
+3081,nv,55.0,male,lower extremity
+3082,nv,55.0,male,trunk
+3083,nv,55.0,male,trunk
+3084,nv,55.0,male,abdomen
+3085,nv,55.0,female,lower extremity
+3086,nv,55.0,female,trunk
+3087,nv,55.0,female,lower extremity
+3088,nv,55.0,female,foot
+3089,nv,40.0,male,trunk
+3090,nv,40.0,male,trunk
+3091,nv,40.0,male,lower extremity
+3092,nv,45.0,female,abdomen
+3093,nv,45.0,female,trunk
+3094,nv,45.0,female,lower extremity
+3095,nv,45.0,female,upper extremity
+3096,nv,45.0,female,foot
+3097,nv,45.0,female,foot
+3098,nv,45.0,female,foot
+3099,nv,45.0,female,foot
+3100,nv,45.0,female,unknown
+3101,nv,45.0,female,foot
+3102,nv,45.0,male,trunk
+3103,nv,45.0,male,abdomen
+3104,nv,45.0,male,lower extremity
+3105,nv,45.0,male,lower extremity
+3106,nv,45.0,male,neck
+3107,nv,45.0,male,lower extremity
+3108,nv,45.0,male,back
+3109,nv,70.0,male,lower extremity
+3110,nv,55.0,male,upper extremity
+3111,nv,55.0,male,trunk
+3112,nv,55.0,male,trunk
+3113,nv,55.0,male,abdomen
+3114,nv,55.0,male,abdomen
+3115,nv,55.0,male,back
+3116,nv,55.0,male,lower extremity
+3117,nv,55.0,male,abdomen
+3118,nv,55.0,male,abdomen
+3119,nv,55.0,male,trunk
+3120,nv,55.0,male,back
+3121,nv,50.0,female,hand
+3122,nv,45.0,male,abdomen
+3123,nv,45.0,male,abdomen
+3124,nv,35.0,male,trunk
+3125,nv,35.0,male,trunk
+3126,nv,35.0,male,upper extremity
+3127,nv,35.0,male,abdomen
+3128,nv,35.0,male,lower extremity
+3129,nv,35.0,male,lower extremity
+3130,nv,35.0,male,trunk
+3131,nv,35.0,male,back
+3132,nv,35.0,male,back
+3133,nv,35.0,male,back
+3134,nv,35.0,male,trunk
+3135,nv,35.0,male,back
+3136,nv,35.0,male,back
+3137,nv,35.0,male,lower extremity
+3138,nv,35.0,male,lower extremity
+3139,nv,35.0,male,upper extremity
+3140,nv,35.0,male,foot
+3141,nv,50.0,male,back
+3142,nv,45.0,female,abdomen
+3143,nv,45.0,female,lower extremity
+3144,nv,45.0,female,back
+3145,nv,45.0,female,back
+3146,nv,50.0,male,abdomen
+3147,nv,55.0,female,trunk
+3148,nv,55.0,female,trunk
+3149,nv,55.0,female,back
+3150,nv,55.0,female,lower extremity
+3151,nv,55.0,female,unknown
+3152,nv,55.0,female,foot
+3153,nv,45.0,male,abdomen
+3154,nv,45.0,male,back
+3155,nv,45.0,female,trunk
+3156,nv,45.0,female,trunk
+3157,nv,45.0,female,lower extremity
+3158,nv,45.0,female,upper extremity
+3159,nv,45.0,female,trunk
+3160,nv,70.0,male,abdomen
+3161,nv,70.0,male,abdomen
+3162,nv,70.0,male,trunk
+3163,nv,70.0,male,back
+3164,nv,45.0,male,trunk
+3165,nv,45.0,male,trunk
+3166,nv,45.0,male,trunk
+3167,nv,45.0,male,abdomen
+3168,nv,45.0,male,abdomen
+3169,nv,45.0,male,lower extremity
+3170,nv,45.0,male,lower extremity
+3171,nv,45.0,male,lower extremity
+3172,nv,45.0,male,upper extremity
+3173,nv,45.0,male,back
+3174,nv,45.0,male,back
+3175,nv,45.0,male,foot
+3176,nv,50.0,female,abdomen
+3177,nv,50.0,female,abdomen
+3178,nv,50.0,female,genital
+3179,nv,50.0,female,back
+3180,nv,50.0,female,back
+3181,nv,50.0,female,trunk
+3182,nv,50.0,female,trunk
+3183,nv,50.0,female,back
+3184,nv,50.0,female,lower extremity
+3185,nv,50.0,female,lower extremity
+3186,nv,50.0,female,lower extremity
+3187,nv,50.0,female,foot
+3188,nv,50.0,male,trunk
+3189,nv,50.0,male,abdomen
+3190,nv,50.0,male,lower extremity
+3191,nv,35.0,female,trunk
+3192,nv,35.0,female,abdomen
+3193,nv,35.0,female,lower extremity
+3194,nv,60.0,male,trunk
+3195,nv,60.0,male,abdomen
+3196,nv,60.0,male,trunk
+3197,nv,60.0,male,trunk
+3198,nv,60.0,male,back
+3199,nv,60.0,male,upper extremity
+3200,nv,60.0,male,back
+3201,nv,60.0,male,foot
+3202,nv,60.0,male,lower extremity
+3203,nv,50.0,male,lower extremity
+3204,nv,50.0,male,trunk
+3205,nv,50.0,male,upper extremity
+3206,nv,50.0,male,back
+3207,nv,50.0,male,back
+3208,nv,50.0,male,foot
+3209,nv,75.0,male,abdomen
+3210,nv,75.0,male,abdomen
+3211,nv,75.0,male,back
+3212,nv,45.0,male,abdomen
+3213,nv,40.0,female,trunk
+3214,nv,40.0,female,abdomen
+3215,nv,40.0,female,lower extremity
+3216,nv,40.0,female,abdomen
+3217,nv,40.0,female,trunk
+3218,nv,40.0,female,upper extremity
+3219,nv,40.0,female,lower extremity
+3220,nv,45.0,male,abdomen
+3221,nv,45.0,male,lower extremity
+3222,nv,45.0,male,back
+3223,nv,45.0,male,lower extremity
+3224,nv,45.0,male,upper extremity
+3225,nv,45.0,male,lower extremity
+3226,nv,50.0,female,trunk
+3227,nv,50.0,female,trunk
+3228,nv,50.0,female,abdomen
+3229,nv,50.0,female,lower extremity
+3230,nv,50.0,female,back
+3231,nv,50.0,female,back
+3232,nv,50.0,female,trunk
+3233,nv,45.0,female,trunk
+3234,nv,45.0,female,lower extremity
+3235,nv,45.0,female,upper extremity
+3236,nv,40.0,male,hand
+3237,nv,40.0,male,upper extremity
+3238,nv,40.0,male,back
+3239,nv,40.0,male,upper extremity
+3240,nv,40.0,male,upper extremity
+3241,nv,40.0,male,upper extremity
+3242,nv,40.0,male,upper extremity
+3243,nv,40.0,male,lower extremity
+3244,nv,40.0,male,back
+3245,nv,40.0,male,back
+3246,nv,40.0,male,trunk
+3247,nv,40.0,male,lower extremity
+3248,nv,50.0,female,abdomen
+3249,nv,60.0,male,abdomen
+3250,nv,60.0,male,abdomen
+3251,nv,60.0,male,back
+3252,nv,60.0,male,back
+3253,nv,30.0,female,back
+3254,nv,30.0,female,upper extremity
+3255,nv,75.0,male,lower extremity
+3256,nv,45.0,male,abdomen
+3257,nv,45.0,male,upper extremity
+3258,nv,40.0,female,neck
+3259,nv,40.0,female,abdomen
+3260,nv,40.0,female,trunk
+3261,nv,55.0,female,face
+3262,nv,50.0,male,back
+3263,nv,50.0,male,lower extremity
+3264,nv,50.0,male,trunk
+3265,nv,50.0,male,lower extremity
+3266,nv,50.0,male,lower extremity
+3267,nv,50.0,male,lower extremity
+3268,nv,50.0,male,lower extremity
+3269,nv,40.0,female,upper extremity
+3270,nv,40.0,female,upper extremity
+3271,nv,40.0,female,abdomen
+3272,nv,40.0,female,abdomen
+3273,nv,40.0,female,abdomen
+3274,nv,40.0,female,trunk
+3275,nv,40.0,female,trunk
+3276,nv,45.0,female,abdomen
+3277,nv,45.0,female,trunk
+3278,nv,45.0,female,back
+3279,nv,45.0,female,trunk
+3280,nv,45.0,female,lower extremity
+3281,nv,45.0,female,trunk
+3282,nv,45.0,female,neck
+3283,nv,45.0,male,back
+3284,nv,45.0,male,back
+3285,nv,50.0,male,trunk
+3286,nv,50.0,male,abdomen
+3287,nv,50.0,male,trunk
+3288,nv,50.0,male,back
+3289,nv,50.0,male,trunk
+3290,nv,50.0,male,trunk
+3291,nv,50.0,male,trunk
+3292,nv,75.0,male,trunk
+3293,nv,75.0,male,upper extremity
+3294,nv,75.0,male,back
+3295,nv,45.0,female,trunk
+3296,nv,45.0,female,abdomen
+3297,nv,45.0,female,hand
+3298,nv,45.0,female,back
+3299,nv,45.0,female,trunk
+3300,nv,45.0,female,lower extremity
+3301,nv,35.0,male,trunk
+3302,nv,35.0,male,upper extremity
+3303,nv,35.0,male,abdomen
+3304,nv,35.0,male,abdomen
+3305,nv,35.0,male,lower extremity
+3306,nv,35.0,male,lower extremity
+3307,nv,35.0,male,lower extremity
+3308,nv,35.0,male,lower extremity
+3309,nv,35.0,male,lower extremity
+3310,nv,35.0,male,back
+3311,nv,35.0,male,trunk
+3312,nv,35.0,male,upper extremity
+3313,nv,35.0,male,lower extremity
+3314,nv,35.0,male,lower extremity
+3315,nv,65.0,male,abdomen
+3316,nv,65.0,male,lower extremity
+3317,nv,65.0,male,trunk
+3318,nv,65.0,male,upper extremity
+3319,nv,80.0,male,upper extremity
+3320,nv,80.0,male,trunk
+3321,nv,80.0,male,upper extremity
+3322,nv,80.0,male,trunk
+3323,nv,80.0,male,trunk
+3324,nv,80.0,male,trunk
+3325,nv,80.0,male,lower extremity
+3326,nv,80.0,male,trunk
+3327,nv,80.0,male,back
+3328,nv,80.0,male,lower extremity
+3329,nv,80.0,male,abdomen
+3330,nv,35.0,male,back
+3331,nv,35.0,male,back
+3332,nv,35.0,male,abdomen
+3333,nv,35.0,male,upper extremity
+3334,nv,30.0,male,abdomen
+3335,nv,75.0,male,lower extremity
+3336,nv,75.0,male,trunk
+3337,nv,75.0,male,back
+3338,nv,75.0,male,abdomen
+3339,nv,50.0,female,genital
+3340,nv,50.0,female,foot
+3341,nv,50.0,female,upper extremity
+3342,nv,50.0,female,abdomen
+3343,nv,50.0,female,lower extremity
+3344,nv,55.0,male,trunk
+3345,nv,55.0,male,abdomen
+3346,nv,55.0,male,back
+3347,nv,45.0,male,upper extremity
+3348,nv,45.0,male,trunk
+3349,nv,45.0,male,abdomen
+3350,nv,45.0,male,abdomen
+3351,nv,55.0,female,back
+3352,nv,45.0,female,trunk
+3353,nv,45.0,female,abdomen
+3354,nv,45.0,female,abdomen
+3355,nv,45.0,female,lower extremity
+3356,nv,45.0,female,lower extremity
+3357,nv,45.0,female,lower extremity
+3358,nv,45.0,female,trunk
+3359,nv,45.0,female,trunk
+3360,nv,45.0,female,trunk
+3361,nv,45.0,female,back
+3362,nv,65.0,female,upper extremity
+3363,nv,65.0,female,upper extremity
+3364,nv,65.0,female,lower extremity
+3365,nv,20.0,female,neck
+3366,nv,45.0,female,lower extremity
+3367,nv,45.0,female,neck
+3368,nv,60.0,female,lower extremity
+3369,nv,75.0,male,trunk
+3370,nv,75.0,male,upper extremity
+3371,nv,75.0,male,lower extremity
+3372,nv,75.0,male,lower extremity
+3373,nv,75.0,male,trunk
+3374,nv,70.0,male,trunk
+3375,nv,70.0,male,lower extremity
+3376,nv,70.0,male,lower extremity
+3377,nv,70.0,male,lower extremity
+3378,nv,70.0,male,lower extremity
+3379,nv,60.0,male,trunk
+3380,nv,60.0,male,abdomen
+3381,nv,60.0,male,abdomen
+3382,nv,60.0,male,abdomen
+3383,nv,60.0,male,abdomen
+3384,nv,60.0,male,upper extremity
+3385,nv,60.0,male,trunk
+3386,nv,60.0,male,back
+3387,nv,75.0,male,lower extremity
+3388,nv,75.0,male,lower extremity
+3389,nv,75.0,male,lower extremity
+3390,nv,75.0,male,lower extremity
+3391,nv,75.0,male,lower extremity
+3392,nv,75.0,male,abdomen
+3393,nv,75.0,male,abdomen
+3394,nv,75.0,male,back
+3395,nv,60.0,male,abdomen
+3396,nv,60.0,male,upper extremity
+3397,nv,60.0,male,upper extremity
+3398,nv,60.0,male,upper extremity
+3399,nv,60.0,male,upper extremity
+3400,nv,60.0,male,trunk
+3401,nv,60.0,male,trunk
+3402,nv,60.0,male,lower extremity
+3403,nv,60.0,male,lower extremity
+3404,nv,60.0,male,lower extremity
+3405,nv,60.0,male,lower extremity
+3406,nv,70.0,male,lower extremity
+3407,nv,70.0,male,trunk
+3408,nv,70.0,male,lower extremity
+3409,nv,35.0,male,lower extremity
+3410,nv,35.0,male,back
+3411,nv,35.0,male,abdomen
+3412,nv,35.0,male,back
+3413,nv,35.0,male,back
+3414,nv,35.0,male,lower extremity
+3415,nv,35.0,male,lower extremity
+3416,nv,35.0,male,trunk
+3417,nv,40.0,female,abdomen
+3418,nv,40.0,female,lower extremity
+3419,nv,40.0,female,trunk
+3420,nv,40.0,female,abdomen
+3421,nv,40.0,female,abdomen
+3422,nv,40.0,female,lower extremity
+3423,nv,40.0,female,lower extremity
+3424,nv,45.0,male,upper extremity
+3425,nv,45.0,male,lower extremity
+3426,nv,45.0,male,lower extremity
+3427,nv,45.0,male,trunk
+3428,nv,45.0,male,lower extremity
+3429,nv,65.0,male,upper extremity
+3430,nv,65.0,male,trunk
+3431,nv,65.0,male,abdomen
+3432,nv,65.0,male,abdomen
+3433,nv,65.0,male,abdomen
+3434,nv,65.0,male,trunk
+3435,nv,65.0,male,trunk
+3436,nv,65.0,male,trunk
+3437,nv,65.0,male,back
+3438,nv,65.0,male,back
+3439,nv,45.0,male,upper extremity
+3440,nv,45.0,male,trunk
+3441,nv,45.0,male,trunk
+3442,nv,45.0,male,foot
+3443,nv,65.0,male,abdomen
+3444,nv,65.0,male,abdomen
+3445,nv,65.0,male,abdomen
+3446,nv,65.0,male,back
+3447,nv,35.0,male,trunk
+3448,nv,35.0,male,back
+3449,nv,35.0,male,back
+3450,nv,55.0,female,back
+3451,nv,55.0,female,back
+3452,nv,55.0,female,lower extremity
+3453,nv,50.0,female,lower extremity
+3454,nv,50.0,female,trunk
+3455,nv,50.0,female,trunk
+3456,nv,50.0,female,trunk
+3457,nv,50.0,female,trunk
+3458,nv,50.0,female,abdomen
+3459,nv,50.0,female,abdomen
+3460,nv,50.0,female,back
+3461,nv,50.0,female,trunk
+3462,nv,50.0,female,trunk
+3463,nv,50.0,female,lower extremity
+3464,nv,35.0,female,trunk
+3465,nv,75.0,male,abdomen
+3466,nv,75.0,male,trunk
+3467,nv,75.0,male,trunk
+3468,nv,65.0,male,abdomen
+3469,nv,65.0,male,upper extremity
+3470,nv,65.0,male,lower extremity
+3471,nv,65.0,male,back
+3472,nv,65.0,male,back
+3473,nv,35.0,female,trunk
+3474,nv,35.0,female,abdomen
+3475,nv,35.0,female,genital
+3476,nv,35.0,female,trunk
+3477,nv,35.0,female,trunk
+3478,nv,35.0,female,lower extremity
+3479,nv,55.0,male,trunk
+3480,nv,55.0,male,trunk
+3481,nv,55.0,male,abdomen
+3482,nv,55.0,male,abdomen
+3483,nv,55.0,male,abdomen
+3484,nv,55.0,male,upper extremity
+3485,nv,55.0,male,back
+3486,nv,55.0,male,back
+3487,nv,55.0,male,upper extremity
+3488,nv,55.0,male,abdomen
+3489,nv,45.0,female,trunk
+3490,nv,50.0,male,trunk
+3491,nv,50.0,male,abdomen
+3492,nv,50.0,male,lower extremity
+3493,nv,50.0,male,lower extremity
+3494,nv,50.0,male,trunk
+3495,nv,50.0,male,trunk
+3496,nv,50.0,male,lower extremity
+3497,nv,50.0,male,trunk
+3498,nv,50.0,female,trunk
+3499,nv,50.0,female,trunk
+3500,nv,50.0,female,back
+3501,nv,50.0,female,trunk
+3502,nv,50.0,female,upper extremity
+3503,nv,50.0,female,foot
+3504,nv,50.0,female,back
+3505,nv,50.0,male,back
+3506,nv,55.0,female,trunk
+3507,nv,55.0,female,abdomen
+3508,nv,55.0,female,upper extremity
+3509,nv,55.0,female,upper extremity
+3510,nv,55.0,female,trunk
+3511,nv,55.0,female,lower extremity
+3512,nv,55.0,female,lower extremity
+3513,nv,55.0,female,lower extremity
+3514,nv,50.0,male,chest
+3515,nv,50.0,male,abdomen
+3516,nv,50.0,male,trunk
+3517,nv,50.0,male,trunk
+3518,nv,50.0,male,abdomen
+3519,nv,50.0,male,trunk
+3520,nv,50.0,male,back
+3521,nv,40.0,male,upper extremity
+3522,nv,40.0,male,back
+3523,nv,40.0,male,trunk
+3524,nv,40.0,male,back
+3525,nv,40.0,male,trunk
+3526,nv,40.0,male,trunk
+3527,nv,40.0,male,upper extremity
+3528,nv,40.0,male,upper extremity
+3529,nv,40.0,male,lower extremity
+3530,nv,40.0,male,lower extremity
+3531,nv,40.0,male,hand
+3532,nv,45.0,male,lower extremity
+3533,nv,45.0,male,lower extremity
+3534,nv,45.0,male,back
+3535,nv,45.0,male,back
+3536,nv,45.0,male,foot
+3537,nv,45.0,male,foot
+3538,nv,45.0,male,trunk
+3539,nv,25.0,female,lower extremity
+3540,nv,25.0,female,upper extremity
+3541,nv,85.0,male,trunk
+3542,nv,85.0,male,back
+3543,nv,85.0,male,trunk
+3544,nv,50.0,female,foot
+3545,nv,50.0,female,foot
+3546,nv,75.0,male,trunk
+3547,nv,75.0,male,trunk
+3548,nv,75.0,male,lower extremity
+3549,nv,45.0,male,trunk
+3550,nv,45.0,male,back
+3551,nv,45.0,male,back
+3552,nv,55.0,female,trunk
+3553,nv,55.0,female,trunk
+3554,nv,55.0,female,trunk
+3555,nv,55.0,female,abdomen
+3556,nv,55.0,female,abdomen
+3557,nv,55.0,female,abdomen
+3558,nv,55.0,female,lower extremity
+3559,nv,55.0,female,lower extremity
+3560,nv,55.0,female,trunk
+3561,nv,55.0,female,trunk
+3562,nv,55.0,female,lower extremity
+3563,nv,55.0,female,trunk
+3564,nv,55.0,female,lower extremity
+3565,nv,40.0,male,upper extremity
+3566,nv,40.0,male,abdomen
+3567,nv,40.0,male,lower extremity
+3568,nv,40.0,male,lower extremity
+3569,nv,40.0,male,lower extremity
+3570,nv,45.0,male,trunk
+3571,nv,55.0,female,abdomen
+3572,nv,55.0,female,lower extremity
+3573,nv,55.0,male,trunk
+3574,nv,55.0,male,trunk
+3575,nv,55.0,male,abdomen
+3576,nv,55.0,male,back
+3577,nv,55.0,male,back
+3578,nv,55.0,male,abdomen
+3579,nv,55.0,male,trunk
+3580,nv,50.0,female,lower extremity
+3581,nv,50.0,female,back
+3582,nv,50.0,female,back
+3583,nv,50.0,female,foot
+3584,nv,50.0,female,foot
+3585,nv,40.0,female,lower extremity
+3586,nv,40.0,female,trunk
+3587,nv,40.0,female,back
+3588,nv,40.0,female,trunk
+3589,nv,40.0,female,trunk
+3590,nv,40.0,female,lower extremity
+3591,nv,40.0,female,trunk
+3592,nv,50.0,male,abdomen
+3593,nv,50.0,male,abdomen
+3594,nv,50.0,male,back
+3595,nv,50.0,male,trunk
+3596,nv,50.0,male,trunk
+3597,nv,50.0,male,trunk
+3598,nv,50.0,male,lower extremity
+3599,nv,50.0,male,lower extremity
+3600,nv,50.0,male,foot
+3601,nv,40.0,female,trunk
+3602,nv,40.0,female,trunk
+3603,nv,40.0,female,abdomen
+3604,nv,40.0,female,abdomen
+3605,nv,40.0,female,lower extremity
+3606,nv,40.0,female,back
+3607,nv,40.0,female,trunk
+3608,nv,40.0,female,trunk
+3609,nv,40.0,female,back
+3610,nv,45.0,female,lower extremity
+3611,nv,45.0,female,upper extremity
+3612,nv,45.0,female,upper extremity
+3613,nv,45.0,female,upper extremity
+3614,nv,45.0,female,lower extremity
+3615,nv,45.0,female,upper extremity
+3616,nv,45.0,female,back
+3617,nv,45.0,female,trunk
+3618,nv,45.0,female,trunk
+3619,nv,45.0,female,lower extremity
+3620,nv,45.0,female,lower extremity
+3621,nv,45.0,female,trunk
+3622,nv,45.0,female,lower extremity
+3623,nv,30.0,male,trunk
+3624,nv,30.0,male,trunk
+3625,nv,30.0,male,trunk
+3626,nv,30.0,male,abdomen
+3627,nv,30.0,male,upper extremity
+3628,nv,30.0,male,back
+3629,nv,60.0,male,lower extremity
+3630,nv,45.0,male,trunk
+3631,nv,45.0,male,back
+3632,nv,50.0,male,abdomen
+3633,nv,50.0,male,lower extremity
+3634,nv,50.0,male,back
+3635,nv,50.0,male,trunk
+3636,nv,35.0,female,back
+3637,nv,35.0,female,lower extremity
+3638,nv,50.0,male,upper extremity
+3639,nv,50.0,male,abdomen
+3640,nv,50.0,male,back
+3641,nv,50.0,male,foot
+3642,nv,50.0,male,foot
+3643,nv,50.0,male,foot
+3644,nv,45.0,female,trunk
+3645,nv,45.0,female,trunk
+3646,nv,45.0,female,trunk
+3647,nv,45.0,female,abdomen
+3648,nv,45.0,female,abdomen
+3649,nv,45.0,female,lower extremity
+3650,nv,45.0,female,trunk
+3651,nv,45.0,female,trunk
+3652,nv,45.0,female,back
+3653,nv,45.0,female,back
+3654,nv,45.0,female,lower extremity
+3655,nv,45.0,female,lower extremity
+3656,nv,45.0,female,trunk
+3657,nv,45.0,female,trunk
+3658,nv,45.0,female,abdomen
+3659,nv,45.0,female,lower extremity
+3660,nv,45.0,female,back
+3661,nv,40.0,male,trunk
+3662,nv,80.0,male,abdomen
+3663,nv,80.0,male,trunk
+3664,nv,80.0,male,back
+3665,nv,40.0,male,back
+3666,nv,40.0,male,trunk
+3667,nv,40.0,male,abdomen
+3668,nv,40.0,male,abdomen
+3669,nv,40.0,male,abdomen
+3670,nv,40.0,male,lower extremity
+3671,nv,40.0,male,lower extremity
+3672,nv,40.0,male,lower extremity
+3673,nv,40.0,male,trunk
+3674,nv,40.0,male,trunk
+3675,nv,40.0,male,trunk
+3676,nv,40.0,male,lower extremity
+3677,nv,40.0,male,lower extremity
+3678,nv,50.0,female,abdomen
+3679,nv,50.0,female,trunk
+3680,nv,50.0,female,upper extremity
+3681,nv,50.0,female,upper extremity
+3682,nv,45.0,male,foot
+3683,nv,60.0,male,upper extremity
+3684,nv,60.0,male,back
+3685,nv,65.0,male,trunk
+3686,nv,55.0,male,trunk
+3687,nv,55.0,male,trunk
+3688,nv,40.0,male,abdomen
+3689,nv,40.0,male,abdomen
+3690,nv,40.0,male,trunk
+3691,nv,50.0,female,upper extremity
+3692,nv,50.0,female,trunk
+3693,nv,50.0,female,trunk
+3694,nv,50.0,female,lower extremity
+3695,nv,50.0,female,trunk
+3696,nv,50.0,female,upper extremity
+3697,nv,50.0,female,trunk
+3698,nv,50.0,female,trunk
+3699,nv,50.0,female,lower extremity
+3700,nv,40.0,male,abdomen
+3701,nv,40.0,male,lower extremity
+3702,nv,40.0,male,upper extremity
+3703,nv,30.0,male,abdomen
+3704,nv,30.0,male,back
+3705,nv,30.0,male,lower extremity
+3706,nv,30.0,male,lower extremity
+3707,nv,45.0,female,lower extremity
+3708,nv,45.0,female,lower extremity
+3709,nv,45.0,female,trunk
+3710,nv,45.0,female,trunk
+3711,nv,45.0,female,abdomen
+3712,nv,45.0,female,abdomen
+3713,nv,45.0,female,trunk
+3714,nv,45.0,female,trunk
+3715,nv,20.0,female,back
+3716,nv,40.0,female,trunk
+3717,nv,40.0,female,genital
+3718,nv,40.0,female,back
+3719,nv,60.0,female,abdomen
+3720,nv,60.0,female,back
+3721,nv,75.0,male,lower extremity
+3722,nv,75.0,male,trunk
+3723,nv,45.0,male,trunk
+3724,nv,45.0,male,lower extremity
+3725,nv,45.0,female,trunk
+3726,nv,45.0,female,back
+3727,nv,45.0,female,lower extremity
+3728,nv,45.0,female,lower extremity
+3729,nv,60.0,female,trunk
+3730,nv,60.0,female,lower extremity
+3731,nv,60.0,female,back
+3732,nv,60.0,female,back
+3733,nv,60.0,female,lower extremity
+3734,nv,35.0,male,abdomen
+3735,nv,35.0,male,abdomen
+3736,nv,35.0,male,trunk
+3737,nv,50.0,female,abdomen
+3738,nv,50.0,female,upper extremity
+3739,nv,50.0,female,trunk
+3740,nv,50.0,female,trunk
+3741,nv,50.0,female,trunk
+3742,nv,50.0,female,back
+3743,nv,50.0,female,trunk
+3744,nv,50.0,female,trunk
+3745,nv,40.0,male,abdomen
+3746,nv,40.0,male,lower extremity
+3747,nv,40.0,male,back
+3748,nv,70.0,female,trunk
+3749,nv,70.0,female,lower extremity
+3750,nv,70.0,female,lower extremity
+3751,nv,35.0,male,back
+3752,nv,35.0,male,lower extremity
+3753,nv,45.0,male,foot
+3754,nv,45.0,male,abdomen
+3755,nv,45.0,male,upper extremity
+3756,nv,45.0,male,upper extremity
+3757,nv,45.0,male,upper extremity
+3758,nv,45.0,male,back
+3759,nv,45.0,male,hand
+3760,nv,45.0,male,hand
+3761,nv,45.0,male,foot
+3762,nv,35.0,male,back
+3763,nv,35.0,male,lower extremity
+3764,nv,35.0,male,lower extremity
+3765,nv,35.0,male,lower extremity
+3766,nv,50.0,male,trunk
+3767,nv,50.0,male,abdomen
+3768,nv,35.0,female,trunk
+3769,nv,35.0,female,trunk
+3770,nv,35.0,female,back
+3771,nv,35.0,female,lower extremity
+3772,nv,35.0,female,upper extremity
+3773,nv,55.0,female,trunk
+3774,nv,55.0,female,back
+3775,nv,55.0,female,foot
+3776,nv,40.0,female,back
+3777,nv,40.0,female,upper extremity
+3778,nv,40.0,female,trunk
+3779,nv,40.0,female,trunk
+3780,nv,40.0,female,lower extremity
+3781,nv,65.0,male,trunk
+3782,nv,65.0,male,back
+3783,nv,65.0,male,back
+3784,nv,65.0,male,back
+3785,nv,45.0,male,trunk
+3786,nv,45.0,male,trunk
+3787,nv,45.0,male,trunk
+3788,nv,45.0,male,upper extremity
+3789,nv,45.0,male,upper extremity
+3790,nv,45.0,male,upper extremity
+3791,nv,45.0,male,upper extremity
+3792,nv,45.0,male,back
+3793,nv,45.0,male,lower extremity
+3794,nv,50.0,male,abdomen
+3795,nv,50.0,male,abdomen
+3796,nv,50.0,male,lower extremity
+3797,nv,50.0,male,lower extremity
+3798,nv,35.0,female,foot
+3799,nv,45.0,male,trunk
+3800,nv,45.0,male,lower extremity
+3801,nv,45.0,male,lower extremity
+3802,nv,45.0,male,lower extremity
+3803,nv,45.0,male,trunk
+3804,nv,45.0,male,back
+3805,nv,45.0,male,lower extremity
+3806,nv,45.0,male,trunk
+3807,nv,45.0,male,abdomen
+3808,nv,45.0,male,abdomen
+3809,nv,45.0,male,upper extremity
+3810,nv,45.0,male,lower extremity
+3811,nv,45.0,male,trunk
+3812,nv,45.0,male,lower extremity
+3813,nv,60.0,male,abdomen
+3814,nv,60.0,male,chest
+3815,nv,60.0,male,upper extremity
+3816,nv,60.0,male,lower extremity
+3817,nv,60.0,male,lower extremity
+3818,nv,40.0,male,upper extremity
+3819,nv,40.0,male,back
+3820,nv,70.0,male,trunk
+3821,nv,70.0,male,back
+3822,nv,60.0,male,abdomen
+3823,nv,60.0,male,abdomen
+3824,nv,60.0,male,genital
+3825,nv,60.0,male,trunk
+3826,nv,60.0,male,lower extremity
+3827,nv,50.0,female,trunk
+3828,nv,50.0,female,abdomen
+3829,nv,50.0,female,lower extremity
+3830,nv,50.0,female,trunk
+3831,nv,50.0,female,trunk
+3832,nv,50.0,female,lower extremity
+3833,nv,35.0,female,trunk
+3834,nv,35.0,female,trunk
+3835,nv,35.0,female,trunk
+3836,nv,35.0,female,back
+3837,nv,35.0,female,trunk
+3838,nv,35.0,female,trunk
+3839,nv,55.0,female,upper extremity
+3840,nv,55.0,female,lower extremity
+3841,nv,55.0,female,lower extremity
+3842,nv,40.0,female,abdomen
+3843,nv,40.0,female,lower extremity
+3844,nv,40.0,female,lower extremity
+3845,nv,40.0,female,lower extremity
+3846,nv,40.0,female,lower extremity
+3847,nv,50.0,male,abdomen
+3848,nv,50.0,male,trunk
+3849,nv,50.0,male,trunk
+3850,nv,80.0,male,lower extremity
+3851,nv,80.0,male,lower extremity
+3852,nv,80.0,male,lower extremity
+3853,nv,80.0,male,back
+3854,nv,80.0,male,lower extremity
+3855,nv,50.0,male,trunk
+3856,nv,65.0,female,lower extremity
+3857,nv,50.0,male,trunk
+3858,nv,75.0,male,abdomen
+3859,nv,75.0,male,back
+3860,nv,75.0,male,trunk
+3861,nv,75.0,male,trunk
+3862,nv,75.0,male,trunk
+3863,nv,25.0,female,trunk
+3864,nv,25.0,female,lower extremity
+3865,nv,25.0,female,trunk
+3866,nv,25.0,female,back
+3867,nv,25.0,female,trunk
+3868,nv,25.0,female,back
+3869,nv,25.0,female,trunk
+3870,nv,25.0,female,lower extremity
+3871,nv,25.0,female,upper extremity
+3872,nv,25.0,female,upper extremity
+3873,nv,50.0,male,back
+3874,nv,50.0,male,upper extremity
+3875,nv,45.0,female,trunk
+3876,nv,45.0,female,lower extremity
+3877,nv,45.0,female,hand
+3878,nv,45.0,female,back
+3879,nv,45.0,female,lower extremity
+3880,nv,45.0,female,lower extremity
+3881,nv,65.0,male,trunk
+3882,nv,65.0,male,abdomen
+3883,nv,65.0,male,trunk
+3884,nv,65.0,male,back
+3885,nv,65.0,male,trunk
+3886,nv,50.0,male,trunk
+3887,nv,45.0,male,trunk
+3888,nv,45.0,male,lower extremity
+3889,nv,45.0,male,lower extremity
+3890,nv,30.0,male,abdomen
+3891,nv,30.0,male,genital
+3892,nv,30.0,male,trunk
+3893,nv,30.0,male,hand
+3894,nv,30.0,male,genital
+3895,nv,30.0,male,upper extremity
+3896,nv,30.0,male,trunk
+3897,nv,30.0,male,upper extremity
+3898,nv,50.0,female,lower extremity
+3899,nv,50.0,female,trunk
+3900,nv,50.0,female,trunk
+3901,nv,50.0,female,upper extremity
+3902,nv,50.0,female,upper extremity
+3903,nv,50.0,female,upper extremity
+3904,nv,50.0,female,foot
+3905,nv,50.0,female,upper extremity
+3906,nv,50.0,female,upper extremity
+3907,nv,50.0,female,trunk
+3908,nv,50.0,female,back
+3909,nv,50.0,female,upper extremity
+3910,nv,60.0,male,trunk
+3911,nv,45.0,male,foot
+3912,nv,45.0,male,neck
+3913,nv,45.0,male,trunk
+3914,nv,45.0,male,trunk
+3915,nv,45.0,male,abdomen
+3916,nv,45.0,male,abdomen
+3917,nv,45.0,male,lower extremity
+3918,nv,45.0,male,back
+3919,nv,45.0,male,trunk
+3920,nv,45.0,male,foot
+3921,nv,45.0,male,foot
+3922,nv,55.0,male,lower extremity
+3923,nv,55.0,male,lower extremity
+3924,nv,55.0,male,trunk
+3925,nv,55.0,male,back
+3926,nv,55.0,male,trunk
+3927,nv,55.0,male,back
+3928,nv,55.0,male,back
+3929,nv,55.0,male,trunk
+3930,nv,40.0,male,trunk
+3931,nv,40.0,male,trunk
+3932,nv,40.0,male,lower extremity
+3933,nv,40.0,male,lower extremity
+3934,nv,40.0,male,back
+3935,nv,40.0,male,lower extremity
+3936,nv,40.0,male,foot
+3937,nv,40.0,male,foot
+3938,nv,35.0,female,lower extremity
+3939,nv,35.0,female,lower extremity
+3940,nv,50.0,male,lower extremity
+3941,nv,50.0,male,lower extremity
+3942,nv,30.0,male,abdomen
+3943,nv,30.0,male,abdomen
+3944,nv,30.0,male,abdomen
+3945,nv,50.0,female,trunk
+3946,nv,50.0,female,abdomen
+3947,nv,50.0,female,abdomen
+3948,nv,50.0,female,lower extremity
+3949,nv,55.0,male,trunk
+3950,nv,55.0,male,abdomen
+3951,nv,55.0,male,abdomen
+3952,nv,65.0,female,abdomen
+3953,nv,55.0,male,abdomen
+3954,nv,55.0,male,lower extremity
+3955,nv,55.0,male,lower extremity
+3956,nv,55.0,male,lower extremity
+3957,nv,55.0,male,lower extremity
+3958,nv,55.0,male,lower extremity
+3959,nv,55.0,male,lower extremity
+3960,nv,55.0,male,abdomen
+3961,nv,55.0,male,abdomen
+3962,nv,55.0,male,abdomen
+3963,nv,55.0,male,trunk
+3964,nv,55.0,male,trunk
+3965,nv,55.0,male,back
+3966,nv,55.0,male,lower extremity
+3967,nv,50.0,male,back
+3968,nv,75.0,male,upper extremity
+3969,nv,75.0,male,trunk
+3970,nv,75.0,male,trunk
+3971,nv,50.0,male,upper extremity
+3972,nv,50.0,male,abdomen
+3973,nv,50.0,male,trunk
+3974,nv,50.0,male,trunk
+3975,nv,50.0,male,back
+3976,nv,50.0,male,trunk
+3977,nv,50.0,male,back
+3978,nv,50.0,male,trunk
+3979,nv,50.0,male,lower extremity
+3980,nv,60.0,female,lower extremity
+3981,nv,60.0,female,lower extremity
+3982,nv,60.0,female,abdomen
+3983,nv,60.0,female,trunk
+3984,nv,40.0,male,trunk
+3985,nv,40.0,male,trunk
+3986,nv,40.0,male,abdomen
+3987,nv,40.0,male,lower extremity
+3988,nv,35.0,female,back
+3989,nv,35.0,female,back
+3990,nv,35.0,female,back
+3991,nv,35.0,female,trunk
+3992,nv,35.0,female,trunk
+3993,nv,35.0,female,trunk
+3994,nv,35.0,female,back
+3995,nv,35.0,female,face
+3996,nv,45.0,male,trunk
+3997,nv,45.0,male,back
+3998,nv,45.0,male,trunk
+3999,nv,40.0,male,trunk
+4000,nv,40.0,male,trunk
+4001,nv,40.0,male,abdomen
+4002,nv,40.0,male,back
+4003,nv,50.0,female,foot
+4004,nv,50.0,female,foot
+4005,nv,70.0,male,abdomen
+4006,nv,70.0,male,trunk
+4007,nv,40.0,male,foot
+4008,nv,20.0,male,foot
+4009,nv,20.0,male,abdomen
+4010,nv,20.0,male,lower extremity
+4011,nv,20.0,male,lower extremity
+4012,nv,20.0,male,lower extremity
+4013,nv,20.0,male,lower extremity
+4014,nv,20.0,male,upper extremity
+4015,nv,20.0,male,trunk
+4016,nv,45.0,male,abdomen
+4017,nv,45.0,male,abdomen
+4018,nv,45.0,male,lower extremity
+4019,nv,45.0,male,trunk
+4020,nv,45.0,male,lower extremity
+4021,nv,25.0,female,lower extremity
+4022,nv,25.0,female,trunk
+4023,nv,25.0,female,lower extremity
+4024,nv,35.0,female,trunk
+4025,nv,35.0,female,abdomen
+4026,nv,35.0,female,foot
+4027,nv,35.0,female,upper extremity
+4028,nv,35.0,female,upper extremity
+4029,nv,35.0,female,abdomen
+4030,nv,35.0,female,abdomen
+4031,nv,35.0,female,lower extremity
+4032,nv,35.0,female,upper extremity
+4033,nv,35.0,female,trunk
+4034,nv,35.0,female,lower extremity
+4035,nv,35.0,female,lower extremity
+4036,nv,35.0,female,lower extremity
+4037,nv,35.0,female,lower extremity
+4038,nv,65.0,female,trunk
+4039,nv,65.0,female,trunk
+4040,nv,65.0,female,abdomen
+4041,nv,65.0,female,trunk
+4042,nv,65.0,female,trunk
+4043,nv,65.0,female,abdomen
+4044,nv,30.0,male,lower extremity
+4045,nv,30.0,male,abdomen
+4046,nv,30.0,male,back
+4047,nv,30.0,male,back
+4048,nv,30.0,male,trunk
+4049,nv,30.0,male,back
+4050,nv,30.0,male,trunk
+4051,nv,35.0,male,upper extremity
+4052,nv,35.0,male,abdomen
+4053,nv,50.0,female,trunk
+4054,nv,50.0,female,back
+4055,nv,25.0,male,trunk
+4056,nv,25.0,male,trunk
+4057,nv,25.0,male,abdomen
+4058,nv,25.0,male,abdomen
+4059,nv,45.0,male,trunk
+4060,nv,45.0,male,abdomen
+4061,nv,45.0,male,abdomen
+4062,nv,45.0,male,lower extremity
+4063,nv,45.0,male,trunk
+4064,nv,45.0,male,upper extremity
+4065,nv,45.0,male,trunk
+4066,nv,45.0,male,trunk
+4067,nv,35.0,male,upper extremity
+4068,nv,45.0,female,trunk
+4069,nv,45.0,female,trunk
+4070,nv,45.0,female,trunk
+4071,nv,45.0,female,trunk
+4072,nv,45.0,female,trunk
+4073,nv,45.0,female,trunk
+4074,nv,45.0,female,abdomen
+4075,nv,45.0,female,lower extremity
+4076,nv,45.0,female,trunk
+4077,nv,45.0,female,trunk
+4078,nv,45.0,female,lower extremity
+4079,nv,45.0,female,lower extremity
+4080,nv,45.0,female,lower extremity
+4081,nv,40.0,male,abdomen
+4082,nv,40.0,male,genital
+4083,nv,40.0,male,back
+4084,nv,40.0,male,lower extremity
+4085,nv,40.0,male,trunk
+4086,nv,40.0,male,trunk
+4087,nv,40.0,male,abdomen
+4088,nv,40.0,male,back
+4089,nv,40.0,male,lower extremity
+4090,nv,40.0,male,back
+4091,nv,40.0,male,trunk
+4092,nv,40.0,male,lower extremity
+4093,nv,40.0,male,lower extremity
+4094,nv,35.0,male,abdomen
+4095,nv,35.0,male,back
+4096,nv,35.0,male,trunk
+4097,nv,35.0,male,lower extremity
+4098,nv,35.0,male,foot
+4099,nv,50.0,female,back
+4100,nv,50.0,female,trunk
+4101,nv,50.0,female,back
+4102,nv,45.0,male,upper extremity
+4103,nv,45.0,male,abdomen
+4104,nv,45.0,male,trunk
+4105,nv,45.0,male,abdomen
+4106,nv,45.0,male,abdomen
+4107,nv,45.0,male,lower extremity
+4108,nv,45.0,male,back
+4109,nv,45.0,male,back
+4110,nv,45.0,male,back
+4111,nv,45.0,male,back
+4112,nv,45.0,male,lower extremity
+4113,nv,35.0,male,abdomen
+4114,nv,35.0,male,lower extremity
+4115,nv,35.0,male,lower extremity
+4116,nv,35.0,male,lower extremity
+4117,nv,35.0,male,lower extremity
+4118,nv,40.0,male,abdomen
+4119,nv,40.0,male,trunk
+4120,nv,40.0,male,trunk
+4121,nv,40.0,male,back
+4122,nv,40.0,male,foot
+4123,nv,40.0,male,foot
+4124,nv,45.0,male,abdomen
+4125,nv,45.0,male,upper extremity
+4126,nv,45.0,male,lower extremity
+4127,nv,25.0,male,trunk
+4128,nv,25.0,male,trunk
+4129,nv,35.0,female,trunk
+4130,nv,25.0,female,face
+4131,nv,35.0,male,back
+4132,nv,35.0,male,trunk
+4133,nv,70.0,male,trunk
+4134,nv,70.0,male,abdomen
+4135,nv,70.0,male,lower extremity
+4136,nv,70.0,male,back
+4137,nv,70.0,male,back
+4138,nv,70.0,male,lower extremity
+4139,nv,35.0,male,upper extremity
+4140,nv,35.0,male,back
+4141,nv,35.0,male,back
+4142,nv,35.0,male,lower extremity
+4143,nv,55.0,male,abdomen
+4144,nv,55.0,male,trunk
+4145,nv,55.0,male,lower extremity
+4146,nv,55.0,male,lower extremity
+4147,nv,50.0,female,upper extremity
+4148,nv,50.0,female,hand
+4149,nv,40.0,female,trunk
+4150,nv,40.0,female,foot
+4151,nv,40.0,female,trunk
+4152,nv,40.0,female,abdomen
+4153,nv,40.0,female,abdomen
+4154,nv,25.0,male,lower extremity
+4155,nv,25.0,male,trunk
+4156,nv,45.0,male,upper extremity
+4157,nv,45.0,male,trunk
+4158,nv,45.0,male,abdomen
+4159,nv,45.0,male,abdomen
+4160,nv,45.0,male,abdomen
+4161,nv,45.0,male,trunk
+4162,nv,45.0,male,trunk
+4163,nv,45.0,male,trunk
+4164,nv,30.0,male,trunk
+4165,nv,30.0,male,abdomen
+4166,nv,30.0,male,upper extremity
+4167,nv,30.0,female,neck
+4168,nv,30.0,female,trunk
+4169,nv,30.0,female,abdomen
+4170,nv,30.0,female,back
+4171,nv,30.0,female,back
+4172,nv,30.0,female,lower extremity
+4173,nv,30.0,female,lower extremity
+4174,nv,30.0,female,foot
+4175,nv,45.0,female,trunk
+4176,nv,45.0,female,abdomen
+4177,nv,45.0,female,genital
+4178,nv,45.0,female,lower extremity
+4179,nv,45.0,female,back
+4180,nv,45.0,male,trunk
+4181,nv,45.0,male,back
+4182,nv,45.0,male,back
+4183,nv,30.0,female,upper extremity
+4184,nv,30.0,female,abdomen
+4185,nv,30.0,female,trunk
+4186,nv,30.0,female,trunk
+4187,nv,30.0,female,trunk
+4188,nv,30.0,female,trunk
+4189,nv,30.0,female,back
+4190,nv,30.0,female,trunk
+4191,nv,30.0,male,upper extremity
+4192,nv,30.0,male,neck
+4193,nv,45.0,female,trunk
+4194,nv,45.0,female,trunk
+4195,nv,45.0,female,trunk
+4196,nv,45.0,female,abdomen
+4197,nv,40.0,male,upper extremity
+4198,nv,40.0,male,back
+4199,nv,40.0,male,trunk
+4200,nv,40.0,male,lower extremity
+4201,nv,40.0,male,back
+4202,nv,50.0,male,abdomen
+4203,nv,50.0,male,trunk
+4204,nv,50.0,male,upper extremity
+4205,nv,45.0,male,lower extremity
+4206,nv,45.0,male,lower extremity
+4207,nv,40.0,female,lower extremity
+4208,nv,40.0,female,abdomen
+4209,nv,40.0,female,back
+4210,nv,40.0,female,trunk
+4211,nv,40.0,female,trunk
+4212,nv,40.0,female,back
+4213,nv,40.0,female,lower extremity
+4214,nv,40.0,female,lower extremity
+4215,nv,55.0,female,abdomen
+4216,nv,55.0,female,abdomen
+4217,nv,55.0,female,trunk
+4218,nv,55.0,female,back
+4219,nv,55.0,female,trunk
+4220,nv,55.0,female,back
+4221,nv,55.0,female,trunk
+4222,nv,55.0,female,back
+4223,nv,40.0,male,abdomen
+4224,nv,40.0,male,abdomen
+4225,nv,40.0,male,lower extremity
+4226,nv,40.0,male,trunk
+4227,nv,40.0,male,back
+4228,nv,40.0,male,upper extremity
+4229,nv,60.0,male,trunk
+4230,nv,60.0,male,back
+4231,nv,60.0,male,lower extremity
+4232,nv,55.0,male,abdomen
+4233,nv,40.0,female,trunk
+4234,nv,40.0,female,trunk
+4235,nv,40.0,female,back
+4236,nv,40.0,female,back
+4237,nv,40.0,female,back
+4238,nv,30.0,male,abdomen
+4239,nv,30.0,male,abdomen
+4240,nv,35.0,male,trunk
+4241,nv,35.0,male,upper extremity
+4242,nv,35.0,male,trunk
+4243,nv,35.0,male,lower extremity
+4244,nv,30.0,female,lower extremity
+4245,nv,65.0,male,abdomen
+4246,nv,65.0,male,lower extremity
+4247,nv,65.0,male,back
+4248,nv,40.0,male,trunk
+4249,nv,40.0,male,trunk
+4250,nv,40.0,male,back
+4251,nv,40.0,male,trunk
+4252,nv,40.0,male,foot
+4253,nv,40.0,male,upper extremity
+4254,nv,40.0,male,abdomen
+4255,nv,55.0,male,trunk
+4256,nv,55.0,male,foot
+4257,nv,65.0,male,back
+4258,nv,65.0,male,back
+4259,nv,65.0,male,trunk
+4260,nv,65.0,male,back
+4261,nv,60.0,male,abdomen
+4262,nv,60.0,male,trunk
+4263,nv,60.0,male,trunk
+4264,nv,50.0,male,abdomen
+4265,nv,50.0,male,upper extremity
+4266,nv,50.0,male,upper extremity
+4267,nv,50.0,male,back
+4268,nv,50.0,male,trunk
+4269,nv,50.0,male,upper extremity
+4270,nv,50.0,male,upper extremity
+4271,nv,50.0,male,lower extremity
+4272,nv,50.0,male,lower extremity
+4273,nv,55.0,female,trunk
+4274,nv,55.0,female,abdomen
+4275,nv,55.0,female,upper extremity
+4276,nv,55.0,female,upper extremity
+4277,nv,55.0,female,upper extremity
+4278,nv,55.0,female,back
+4279,nv,55.0,female,trunk
+4280,nv,55.0,female,back
+4281,nv,55.0,female,trunk
+4282,nv,55.0,female,trunk
+4283,nv,55.0,female,trunk
+4284,nv,55.0,female,back
+4285,nv,55.0,female,lower extremity
+4286,nv,55.0,female,lower extremity
+4287,nv,55.0,female,lower extremity
+4288,nv,55.0,female,lower extremity
+4289,nv,35.0,female,lower extremity
+4290,nv,35.0,female,abdomen
+4291,nv,35.0,female,back
+4292,nv,35.0,female,lower extremity
+4293,nv,35.0,female,lower extremity
+4294,nv,35.0,female,lower extremity
+4295,nv,35.0,female,foot
+4296,nv,35.0,female,lower extremity
+4297,nv,35.0,female,lower extremity
+4298,nv,60.0,male,upper extremity
+4299,nv,60.0,male,trunk
+4300,nv,60.0,male,upper extremity
+4301,nv,60.0,male,abdomen
+4302,nv,60.0,male,abdomen
+4303,nv,60.0,male,lower extremity
+4304,nv,60.0,male,lower extremity
+4305,nv,60.0,male,back
+4306,nv,60.0,male,back
+4307,nv,60.0,male,trunk
+4308,nv,60.0,male,trunk
+4309,nv,60.0,male,lower extremity
+4310,nv,40.0,male,back
+4311,nv,40.0,male,trunk
+4312,nv,40.0,male,back
+4313,nv,40.0,male,trunk
+4314,nv,30.0,female,upper extremity
+4315,nv,30.0,female,abdomen
+4316,nv,30.0,female,lower extremity
+4317,nv,30.0,female,lower extremity
+4318,nv,30.0,female,back
+4319,nv,30.0,female,back
+4320,nv,30.0,female,lower extremity
+4321,nv,50.0,male,abdomen
+4322,nv,50.0,male,trunk
+4323,nv,50.0,male,lower extremity
+4324,nv,30.0,female,trunk
+4325,nv,30.0,female,trunk
+4326,nv,30.0,female,lower extremity
+4327,nv,30.0,female,trunk
+4328,nv,30.0,female,trunk
+4329,nv,30.0,female,trunk
+4330,nv,30.0,female,trunk
+4331,nv,30.0,female,trunk
+4332,nv,30.0,female,trunk
+4333,nv,30.0,female,trunk
+4334,nv,30.0,female,lower extremity
+4335,nv,30.0,female,lower extremity
+4336,nv,30.0,female,lower extremity
+4337,nv,30.0,female,trunk
+4338,nv,30.0,female,trunk
+4339,nv,30.0,female,trunk
+4340,nv,30.0,female,upper extremity
+4341,nv,30.0,female,upper extremity
+4342,nv,30.0,female,upper extremity
+4343,nv,30.0,female,upper extremity
+4344,nv,30.0,female,trunk
+4345,nv,30.0,female,trunk
+4346,nv,30.0,female,back
+4347,nv,30.0,female,lower extremity
+4348,nv,30.0,female,lower extremity
+4349,nv,35.0,male,trunk
+4350,nv,35.0,male,abdomen
+4351,nv,35.0,male,abdomen
+4352,nv,35.0,male,abdomen
+4353,nv,35.0,male,lower extremity
+4354,nv,35.0,male,upper extremity
+4355,nv,35.0,male,trunk
+4356,nv,35.0,male,abdomen
+4357,nv,35.0,male,trunk
+4358,nv,35.0,male,back
+4359,nv,35.0,male,foot
+4360,nv,35.0,male,foot
+4361,nv,45.0,male,back
+4362,nv,45.0,male,back
+4363,nv,45.0,male,lower extremity
+4364,nv,45.0,male,trunk
+4365,nv,45.0,male,lower extremity
+4366,nv,45.0,male,back
+4367,nv,45.0,male,lower extremity
+4368,nv,45.0,male,trunk
+4369,nv,45.0,male,trunk
+4370,nv,45.0,male,upper extremity
+4371,nv,50.0,male,lower extremity
+4372,nv,45.0,male,trunk
+4373,nv,55.0,male,trunk
+4374,nv,60.0,male,upper extremity
+4375,nv,70.0,male,abdomen
+4376,nv,55.0,female,upper extremity
+4377,nv,35.0,male,trunk
+4378,nv,35.0,male,abdomen
+4379,nv,35.0,male,trunk
+4380,nv,35.0,male,trunk
+4381,nv,35.0,male,lower extremity
+4382,nv,35.0,male,back
+4383,nv,35.0,male,back
+4384,nv,35.0,male,lower extremity
+4385,nv,35.0,male,abdomen
+4386,nv,35.0,male,lower extremity
+4387,nv,35.0,male,lower extremity
+4388,nv,35.0,male,lower extremity
+4389,nv,35.0,male,foot
+4390,nv,35.0,male,lower extremity
+4391,nv,50.0,male,back
+4392,nv,50.0,male,trunk
+4393,nv,50.0,male,back
+4394,nv,50.0,male,lower extremity
+4395,nv,50.0,male,trunk
+4396,nv,50.0,male,back
+4397,nv,45.0,male,foot
+4398,nv,65.0,male,trunk
+4399,nv,25.0,female,upper extremity
+4400,nv,25.0,female,trunk
+4401,nv,25.0,female,back
+4402,nv,40.0,male,neck
+4403,nv,40.0,male,back
+4404,nv,40.0,male,trunk
+4405,nv,40.0,male,back
+4406,nv,40.0,male,back
+4407,nv,40.0,male,hand
+4408,nv,30.0,female,trunk
+4409,nv,30.0,female,back
+4410,nv,45.0,male,trunk
+4411,nv,45.0,male,abdomen
+4412,nv,45.0,male,upper extremity
+4413,nv,45.0,male,back
+4414,nv,45.0,male,lower extremity
+4415,nv,45.0,male,trunk
+4416,nv,30.0,female,trunk
+4417,nv,30.0,female,abdomen
+4418,nv,30.0,female,back
+4419,nv,30.0,female,trunk
+4420,nv,30.0,female,trunk
+4421,nv,30.0,female,lower extremity
+4422,nv,40.0,female,trunk
+4423,nv,40.0,female,trunk
+4424,nv,40.0,female,trunk
+4425,nv,40.0,female,trunk
+4426,nv,40.0,female,abdomen
+4427,nv,40.0,female,abdomen
+4428,nv,40.0,female,abdomen
+4429,nv,40.0,female,lower extremity
+4430,nv,40.0,female,back
+4431,nv,40.0,female,trunk
+4432,nv,40.0,female,trunk
+4433,nv,40.0,female,back
+4434,nv,40.0,female,back
+4435,nv,40.0,female,back
+4436,nv,40.0,female,back
+4437,nv,40.0,female,back
+4438,nv,40.0,female,trunk
+4439,nv,40.0,female,lower extremity
+4440,nv,40.0,female,lower extremity
+4441,nv,40.0,female,lower extremity
+4442,nv,35.0,male,back
+4443,nv,35.0,female,trunk
+4444,nv,35.0,female,lower extremity
+4445,nv,35.0,female,trunk
+4446,nv,35.0,female,abdomen
+4447,nv,35.0,female,lower extremity
+4448,nv,35.0,female,back
+4449,nv,35.0,female,trunk
+4450,nv,35.0,female,back
+4451,nv,35.0,female,back
+4452,nv,35.0,female,lower extremity
+4453,nv,35.0,female,foot
+4454,nv,65.0,male,trunk
+4455,nv,65.0,male,trunk
+4456,nv,65.0,male,trunk
+4457,nv,65.0,male,trunk
+4458,nv,65.0,male,abdomen
+4459,nv,65.0,male,abdomen
+4460,nv,65.0,male,abdomen
+4461,nv,65.0,male,abdomen
+4462,nv,65.0,male,abdomen
+4463,nv,65.0,male,abdomen
+4464,nv,65.0,male,back
+4465,nv,65.0,male,trunk
+4466,nv,35.0,female,back
+4467,nv,35.0,female,back
+4468,nv,35.0,female,trunk
+4469,nv,35.0,female,back
+4470,nv,30.0,female,upper extremity
+4471,nv,70.0,male,trunk
+4472,nv,70.0,male,abdomen
+4473,nv,70.0,male,abdomen
+4474,nv,70.0,male,abdomen
+4475,nv,70.0,male,abdomen
+4476,nv,70.0,male,abdomen
+4477,nv,70.0,male,lower extremity
+4478,nv,70.0,male,back
+4479,nv,70.0,male,trunk
+4480,nv,70.0,male,trunk
+4481,nv,70.0,male,back
+4482,nv,70.0,male,trunk
+4483,nv,35.0,female,abdomen
+4484,nv,35.0,female,lower extremity
+4485,nv,35.0,female,abdomen
+4486,nv,35.0,female,trunk
+4487,nv,55.0,male,foot
+4488,nv,55.0,male,foot
+4489,nv,50.0,male,abdomen
+4490,nv,50.0,male,abdomen
+4491,nv,50.0,male,back
+4492,nv,40.0,male,trunk
+4493,nv,40.0,male,back
+4494,nv,40.0,male,trunk
+4495,nv,40.0,male,back
+4496,nv,40.0,male,back
+4497,nv,40.0,male,trunk
+4498,nv,40.0,male,trunk
+4499,nv,40.0,male,trunk
+4500,nv,40.0,female,back
+4501,nv,40.0,female,trunk
+4502,nv,40.0,female,trunk
+4503,nv,40.0,female,abdomen
+4504,nv,40.0,female,abdomen
+4505,nv,40.0,female,abdomen
+4506,nv,40.0,female,trunk
+4507,nv,40.0,female,back
+4508,nv,40.0,female,lower extremity
+4509,nv,50.0,male,trunk
+4510,nv,50.0,male,trunk
+4511,nv,50.0,male,abdomen
+4512,nv,50.0,male,abdomen
+4513,nv,50.0,male,abdomen
+4514,nv,50.0,male,upper extremity
+4515,nv,50.0,male,trunk
+4516,nv,50.0,male,back
+4517,nv,50.0,male,trunk
+4518,nv,50.0,male,trunk
+4519,nv,50.0,male,trunk
+4520,nv,50.0,male,trunk
+4521,nv,50.0,male,lower extremity
+4522,nv,50.0,male,lower extremity
+4523,nv,35.0,female,lower extremity
+4524,nv,35.0,female,trunk
+4525,nv,45.0,female,face
+4526,nv,45.0,male,lower extremity
+4527,nv,45.0,male,abdomen
+4528,nv,45.0,male,back
+4529,nv,45.0,male,lower extremity
+4530,nv,45.0,male,lower extremity
+4531,nv,45.0,male,lower extremity
+4532,nv,45.0,male,lower extremity
+4533,nv,40.0,female,chest
+4534,nv,40.0,female,trunk
+4535,nv,40.0,female,lower extremity
+4536,nv,40.0,female,back
+4537,nv,40.0,female,upper extremity
+4538,nv,40.0,female,trunk
+4539,nv,40.0,female,upper extremity
+4540,nv,40.0,female,foot
+4541,nv,40.0,female,foot
+4542,nv,40.0,female,foot
+4543,nv,35.0,female,trunk
+4544,nv,35.0,female,abdomen
+4545,nv,35.0,female,lower extremity
+4546,nv,35.0,female,trunk
+4547,nv,35.0,female,back
+4548,nv,75.0,female,lower extremity
+4549,nv,65.0,female,trunk
+4550,nv,65.0,female,lower extremity
+4551,nv,65.0,female,trunk
+4552,nv,65.0,female,trunk
+4553,nv,65.0,female,trunk
+4554,nv,65.0,female,back
+4555,nv,65.0,female,lower extremity
+4556,nv,65.0,female,abdomen
+4557,nv,65.0,female,trunk
+4558,nv,65.0,female,upper extremity
+4559,nv,65.0,female,back
+4560,nv,65.0,female,back
+4561,nv,40.0,female,trunk
+4562,nv,40.0,female,abdomen
+4563,nv,40.0,female,abdomen
+4564,nv,40.0,female,abdomen
+4565,nv,40.0,female,abdomen
+4566,nv,40.0,female,trunk
+4567,nv,50.0,male,trunk
+4568,nv,50.0,male,trunk
+4569,nv,50.0,male,trunk
+4570,nv,50.0,male,abdomen
+4571,nv,50.0,male,abdomen
+4572,nv,50.0,male,abdomen
+4573,nv,50.0,male,abdomen
+4574,nv,50.0,male,abdomen
+4575,nv,50.0,male,abdomen
+4576,nv,50.0,male,abdomen
+4577,nv,50.0,male,abdomen
+4578,nv,50.0,male,abdomen
+4579,nv,50.0,male,abdomen
+4580,nv,50.0,male,abdomen
+4581,nv,50.0,male,upper extremity
+4582,nv,50.0,male,upper extremity
+4583,nv,50.0,male,upper extremity
+4584,nv,50.0,male,back
+4585,nv,50.0,male,trunk
+4586,nv,50.0,male,trunk
+4587,nv,50.0,male,trunk
+4588,nv,50.0,male,trunk
+4589,nv,50.0,male,trunk
+4590,nv,50.0,male,back
+4591,nv,50.0,male,trunk
+4592,nv,50.0,male,lower extremity
+4593,nv,50.0,male,lower extremity
+4594,nv,50.0,male,lower extremity
+4595,nv,35.0,female,trunk
+4596,nv,35.0,female,trunk
+4597,nv,35.0,female,abdomen
+4598,nv,35.0,female,abdomen
+4599,nv,35.0,female,trunk
+4600,nv,35.0,female,trunk
+4601,nv,35.0,female,lower extremity
+4602,nv,35.0,female,back
+4603,nv,35.0,female,back
+4604,nv,35.0,female,lower extremity
+4605,nv,35.0,female,lower extremity
+4606,nv,55.0,male,trunk
+4607,nv,55.0,male,abdomen
+4608,nv,55.0,male,neck
+4609,nv,55.0,male,trunk
+4610,nv,55.0,male,lower extremity
+4611,nv,60.0,male,abdomen
+4612,nv,60.0,male,trunk
+4613,nv,60.0,male,back
+4614,nv,50.0,female,trunk
+4615,nv,50.0,female,abdomen
+4616,nv,50.0,female,trunk
+4617,nv,55.0,female,lower extremity
+4618,nv,55.0,female,back
+4619,nv,55.0,female,upper extremity
+4620,nv,70.0,male,abdomen
+4621,nv,70.0,male,lower extremity
+4622,nv,70.0,male,back
+4623,nv,45.0,female,upper extremity
+4624,nv,45.0,female,upper extremity
+4625,nv,45.0,female,lower extremity
+4626,nv,45.0,female,trunk
+4627,nv,45.0,female,trunk
+4628,nv,45.0,female,trunk
+4629,nv,45.0,female,trunk
+4630,nv,45.0,female,trunk
+4631,nv,45.0,female,abdomen
+4632,nv,45.0,female,abdomen
+4633,nv,45.0,female,abdomen
+4634,nv,45.0,female,upper extremity
+4635,nv,45.0,female,upper extremity
+4636,nv,45.0,female,upper extremity
+4637,nv,45.0,female,upper extremity
+4638,nv,45.0,female,upper extremity
+4639,nv,45.0,female,upper extremity
+4640,nv,45.0,female,back
+4641,nv,45.0,female,back
+4642,nv,45.0,female,back
+4643,nv,45.0,female,lower extremity
+4644,nv,45.0,female,lower extremity
+4645,nv,45.0,female,lower extremity
+4646,nv,20.0,male,lower extremity
+4647,nv,0.0,male,ear
+4648,nv,20.0,male,foot
+4649,nv,50.0,male,trunk
+4650,nv,45.0,female,back
+4651,nv,25.0,male,upper extremity
+4652,nv,10.0,female,back
+4653,nv,30.0,male,lower extremity
+4654,nv,45.0,female,back
+4655,nv,30.0,male,upper extremity
+4656,nv,40.0,male,lower extremity
+4657,nv,70.0,female,upper extremity
+4658,nv,20.0,female,lower extremity
+4659,nv,20.0,male,back
+4660,nv,20.0,male,back
+4661,nv,65.0,male,face
+4662,nv,45.0,male,face
+4663,nv,30.0,female,neck
+4664,nv,40.0,male,trunk
+4665,nv,80.0,female,lower extremity
+4666,nv,55.0,female,abdomen
+4667,nv,40.0,male,upper extremity
+4668,nv,55.0,male,face
+4669,nv,30.0,female,trunk
+4670,nv,75.0,male,back
+4671,nv,55.0,female,foot
+4672,nv,35.0,male,back
+4673,nv,25.0,male,back
+4674,nv,70.0,male,foot
+4675,nv,60.0,male,lower extremity
+4676,nv,50.0,female,upper extremity
+4677,nv,35.0,female,back
+4678,nv,25.0,male,back
+4679,nv,55.0,male,face
+4680,nv,30.0,female,face
+4681,nv,45.0,male,abdomen
+4682,nv,45.0,male,abdomen
+4683,nv,75.0,female,upper extremity
+4684,nv,55.0,female,hand
+4685,nv,55.0,male,foot
+4686,nv,55.0,male,chest
+4687,nv,70.0,male,back
+4688,nv,35.0,female,back
+4689,nv,45.0,female,lower extremity
+4690,nv,55.0,female,abdomen
+4691,mel,25.0,male,upper extremity
+4692,nv,55.0,female,ear
+4693,nv,70.0,male,upper extremity
+4694,nv,25.0,female,unknown
+4695,nv,35.0,female,upper extremity
+4696,nv,50.0,male,chest
+4697,nv,25.0,female,back
+4698,nv,55.0,female,scalp
+4699,nv,25.0,male,lower extremity
+4700,nv,60.0,female,lower extremity
+4701,nv,45.0,female,back
+4702,nv,45.0,female,back
+4703,nv,70.0,male,upper extremity
+4704,nv,70.0,male,hand
+4705,nv,70.0,male,hand
+4706,nv,40.0,male,back
+4707,nv,60.0,male,trunk
+4708,nv,40.0,male,lower extremity
+4709,nv,75.0,male,lower extremity
+4710,nv,40.0,female,abdomen
+4711,nv,50.0,female,back
+4712,nv,55.0,female,abdomen
+4713,nv,55.0,female,abdomen
+4714,nv,35.0,male,foot
+4715,nv,60.0,male,upper extremity
+4716,nv,75.0,male,back
+4717,nv,45.0,male,upper extremity
+4718,nv,15.0,male,upper extremity
+4719,nv,40.0,female,lower extremity
+4720,nv,45.0,female,hand
+4721,nv,15.0,male,neck
+4722,nv,55.0,female,upper extremity
+4723,nv,50.0,female,ear
+4724,nv,45.0,male,back
+4725,nv,45.0,male,upper extremity
+4726,nv,50.0,male,lower extremity
+4727,nv,55.0,female,upper extremity
+4728,nv,50.0,male,lower extremity
+4729,nv,80.0,male,lower extremity
+4730,nv,55.0,female,unknown
+4731,nv,35.0,male,back
+4732,nv,70.0,male,back
+4733,nv,35.0,male,back
+4734,nv,40.0,female,back
+4735,nv,45.0,female,foot
+4736,nv,25.0,male,face
+4737,nv,0.0,male,foot
+4738,nv,35.0,female,unknown
+4739,nv,30.0,male,back
+4740,nv,35.0,female,unknown
+4741,nv,35.0,female,abdomen
+4742,nv,35.0,female,abdomen
+4743,nv,75.0,male,abdomen
+4744,nv,45.0,male,back
+4745,nv,50.0,female,upper extremity
+4746,nv,30.0,male,back
+4747,nv,55.0,male,upper extremity
+4748,nv,40.0,female,back
+4749,nv,75.0,male,face
+4750,nv,40.0,female,trunk
+4751,nv,70.0,male,back
+4752,nv,10.0,female,hand
+4753,nv,50.0,male,back
+4754,nv,70.0,male,back
+4755,nv,5.0,male,face
+4756,nv,70.0,male,trunk
+4757,nv,40.0,female,face
+4758,nv,25.0,male,abdomen
+4759,nv,5.0,female,lower extremity
+4760,nv,20.0,female,lower extremity
+4761,nv,55.0,male,upper extremity
+4762,nv,45.0,male,abdomen
+4763,nv,35.0,female,trunk
+4764,nv,60.0,male,upper extremity
+4765,nv,30.0,male,unknown
+4766,nv,70.0,male,back
+4767,nv,70.0,male,back
+4768,nv,20.0,female,abdomen
+4769,nv,30.0,female,back
+4770,nv,45.0,female,upper extremity
+4771,nv,45.0,female,upper extremity
+4772,nv,35.0,female,back
+4773,nv,10.0,female,lower extremity
+4774,nv,35.0,male,abdomen
+4775,nv,35.0,male,trunk
+4776,nv,80.0,male,back
+4777,nv,45.0,male,foot
+4778,nv,15.0,female,lower extremity
+4779,nv,75.0,male,face
+4780,nv,15.0,female,neck
+4781,nv,55.0,female,upper extremity
+4782,nv,70.0,female,foot
+4783,nv,60.0,female,chest
+4784,nv,85.0,female,lower extremity
+4785,nv,50.0,male,face
+4786,nv,30.0,female,upper extremity
+4787,nv,65.0,female,lower extremity
+4788,nv,80.0,male,back
+4789,nv,45.0,male,upper extremity
+4790,nv,45.0,male,back
+4791,nv,45.0,female,lower extremity
+4792,nv,50.0,female,lower extremity
+4793,nv,55.0,male,back
+4794,nv,55.0,male,upper extremity
+4795,nv,40.0,male,back
+4796,nv,55.0,male,abdomen
+4797,nv,85.0,female,unknown
+4798,nv,45.0,female,lower extremity
+4799,nv,55.0,male,lower extremity
+4800,nv,70.0,male,upper extremity
+4801,nv,75.0,female,ear
+4802,nv,55.0,male,abdomen
+4803,nv,55.0,female,back
+4804,nv,45.0,female,abdomen
+4805,nv,50.0,male,back
+4806,nv,30.0,male,lower extremity
+4807,nv,50.0,female,lower extremity
+4808,nv,25.0,male,trunk
+4809,nv,30.0,male,upper extremity
+4810,nv,10.0,female,foot
+4811,nv,15.0,female,foot
+4812,nv,15.0,female,foot
+4813,nv,50.0,male,neck
+4814,nv,55.0,female,upper extremity
+4815,nv,45.0,male,back
+4816,nv,60.0,female,back
+4817,nv,45.0,male,back
+4818,nv,45.0,male,foot
+4819,nv,35.0,male,scalp
+4820,nv,40.0,female,upper extremity
+4821,nv,50.0,female,neck
+4822,nv,5.0,male,lower extremity
+4823,nv,5.0,male,upper extremity
+4824,nv,40.0,male,scalp
+4825,nv,50.0,female,upper extremity
+4826,nv,35.0,female,back
+4827,nv,25.0,female,foot
+4828,nv,10.0,female,upper extremity
+4829,nv,30.0,female,abdomen
+4830,nv,35.0,male,chest
+4831,nv,25.0,female,lower extremity
+4832,nv,65.0,female,upper extremity
+4833,nv,30.0,female,foot
+4834,nv,40.0,male,upper extremity
+4835,nv,65.0,female,back
+4836,nv,30.0,female,back
+4837,nv,50.0,male,upper extremity
+4838,nv,15.0,male,face
+4839,nv,35.0,female,lower extremity
+4840,nv,45.0,male,abdomen
+4841,nv,15.0,female,upper extremity
+4842,nv,60.0,female,foot
+4843,nv,60.0,male,abdomen
+4844,nv,55.0,male,abdomen
+4845,nv,30.0,female,lower extremity
+4846,nv,50.0,female,upper extremity
+4847,nv,45.0,male,foot
+4848,nv,55.0,male,back
+4849,nv,75.0,male,upper extremity
+4850,nv,35.0,female,upper extremity
+4851,nv,25.0,male,hand
+4852,nv,85.0,male,foot
+4853,nv,35.0,male,face
+4854,nv,25.0,male,neck
+4855,nv,35.0,female,abdomen
+4856,nv,35.0,female,back
+4857,nv,70.0,male,lower extremity
+4858,nv,25.0,male,back
+4859,nv,60.0,male,abdomen
+4860,nv,65.0,female,upper extremity
+4861,nv,30.0,female,chest
+4862,nv,40.0,male,chest
+4863,nv,40.0,male,back
+4864,nv,50.0,male,back
+4865,nv,45.0,male,abdomen
+4866,nv,25.0,female,genital
+4867,nv,60.0,female,lower extremity
+4868,nv,75.0,female,lower extremity
+4869,nv,50.0,female,back
+4870,nv,75.0,male,back
+4871,nv,40.0,male,back
+4872,nv,35.0,female,face
+4873,nv,45.0,female,trunk
+4874,nv,50.0,female,foot
+4875,nv,65.0,male,lower extremity
+4876,nv,45.0,female,trunk
+4877,nv,45.0,male,abdomen
+4878,nv,50.0,female,lower extremity
+4879,nv,35.0,female,trunk
+4880,nv,30.0,male,abdomen
+4881,nv,25.0,male,neck
+4882,nv,25.0,male,back
+4883,nv,65.0,female,abdomen
+4884,nv,45.0,male,back
+4885,nv,40.0,male,trunk
+4886,nv,45.0,male,lower extremity
+4887,nv,40.0,male,upper extremity
+4888,nv,70.0,male,back
+4889,nv,50.0,male,upper extremity
+4890,nv,60.0,female,upper extremity
+4891,nv,30.0,female,abdomen
+4892,nv,55.0,female,back
+4893,nv,45.0,male,trunk
+4894,nv,55.0,male,back
+4895,nv,20.0,female,back
+4896,nv,35.0,female,trunk
+4897,nv,40.0,male,lower extremity
+4898,nv,40.0,male,back
+4899,nv,65.0,female,lower extremity
+4900,nv,35.0,male,trunk
+4901,nv,10.0,male,genital
+4902,nv,45.0,female,abdomen
+4903,nv,80.0,female,upper extremity
+4904,nv,30.0,male,upper extremity
+4905,nv,60.0,female,upper extremity
+4906,nv,60.0,female,back
+4907,nv,45.0,male,back
+4908,nv,25.0,male,lower extremity
+4909,nv,65.0,male,back
+4910,nv,45.0,female,chest
+4911,nv,35.0,female,lower extremity
+4912,nv,35.0,female,chest
+4913,nv,70.0,male,abdomen
+4914,nv,20.0,female,lower extremity
+4915,nv,75.0,male,upper extremity
+4916,nv,5.0,female,lower extremity
+4917,nv,75.0,male,upper extremity
+4918,nv,40.0,female,back
+4919,nv,10.0,female,trunk
+4920,nv,45.0,female,abdomen
+4921,nv,30.0,female,chest
+4922,nv,30.0,female,abdomen
+4923,nv,30.0,female,lower extremity
+4924,nv,20.0,female,back
+4925,nv,50.0,female,lower extremity
+4926,nv,40.0,male,abdomen
+4927,nv,30.0,male,trunk
+4928,nv,15.0,female,back
+4929,nv,50.0,female,chest
+4930,nv,25.0,female,upper extremity
+4931,nv,60.0,female,back
+4932,nv,40.0,female,back
+4933,nv,65.0,male,trunk
+4934,nv,40.0,male,lower extremity
+4935,nv,45.0,male,abdomen
+4936,nv,75.0,female,upper extremity
+4937,nv,30.0,female,back
+4938,nv,30.0,female,back
+4939,nv,30.0,female,back
+4940,nv,30.0,female,back
+4941,nv,50.0,male,scalp
+4942,nv,20.0,female,abdomen
+4943,nv,20.0,female,abdomen
+4944,nv,40.0,male,upper extremity
+4945,nv,25.0,male,genital
+4946,nv,65.0,male,back
+4947,nv,65.0,female,back
+4948,nv,30.0,female,abdomen
+4949,nv,25.0,male,back
+4950,nv,50.0,male,back
+4951,nv,55.0,female,back
+4952,nv,20.0,male,lower extremity
+4953,nv,85.0,female,back
+4954,nv,55.0,female,chest
+4955,nv,50.0,female,foot
+4956,nv,60.0,male,lower extremity
+4957,nv,60.0,female,chest
+4958,nv,30.0,female,abdomen
+4959,nv,50.0,female,back
+4960,nv,80.0,male,lower extremity
+4961,nv,85.0,male,back
+4962,nv,45.0,male,back
+4963,nv,40.0,female,scalp
+4964,nv,15.0,female,abdomen
+4965,nv,25.0,female,hand
+4966,nv,45.0,female,back
+4967,nv,40.0,male,abdomen
+4968,nv,60.0,male,trunk
+4969,nv,30.0,female,upper extremity
+4970,nv,30.0,male,lower extremity
+4971,nv,65.0,male,back
+4972,nv,60.0,unknown,foot
+4973,nv,70.0,female,back
+4974,nv,35.0,male,upper extremity
+4975,nv,40.0,female,chest
+4976,nv,40.0,male,lower extremity
+4977,nv,40.0,male,trunk
+4978,nv,55.0,male,chest
+4979,nv,30.0,male,upper extremity
+4980,nv,40.0,female,upper extremity
+4981,nv,70.0,female,lower extremity
+4982,nv,45.0,female,lower extremity
+4983,nv,35.0,female,abdomen
+4984,nv,35.0,female,abdomen
+4985,nv,35.0,female,abdomen
+4986,nv,30.0,male,upper extremity
+4987,nv,70.0,male,lower extremity
+4988,nv,45.0,male,upper extremity
+4989,nv,25.0,female,chest
+4990,nv,45.0,female,lower extremity
+4991,nv,45.0,female,upper extremity
+4992,nv,40.0,female,back
+4993,nv,10.0,female,foot
+4994,nv,45.0,male,upper extremity
+4995,nv,50.0,male,back
+4996,nv,15.0,female,back
+4997,nv,40.0,female,face
+4998,nv,30.0,female,upper extremity
+4999,nv,30.0,female,lower extremity
+5000,nv,30.0,female,neck
+5001,nv,25.0,male,abdomen
+5002,nv,40.0,male,back
+5003,nv,40.0,female,lower extremity
+5004,nv,70.0,male,chest
+5005,nv,45.0,male,trunk
+5006,nv,45.0,female,back
+5007,nv,40.0,female,acral
+5008,nv,35.0,unknown,trunk
+5009,nv,35.0,male,neck
+5010,nv,40.0,male,back
+5011,nv,45.0,female,upper extremity
+5012,nv,35.0,male,trunk
+5013,nv,40.0,female,back
+5014,nv,35.0,male,trunk
+5015,nv,40.0,female,back
+5016,nv,35.0,female,abdomen
+5017,nv,30.0,male,trunk
+5018,nv,35.0,female,trunk
+5019,nv,25.0,female,upper extremity
+5020,nv,70.0,male,chest
+5021,nv,60.0,female,ear
+5022,nv,50.0,male,back
+5023,nv,50.0,male,back
+5024,nv,45.0,male,foot
+5025,nv,55.0,male,lower extremity
+5026,nv,40.0,female,face
+5027,nv,55.0,male,back
+5028,nv,50.0,male,lower extremity
+5029,nv,15.0,male,back
+5030,nv,55.0,female,trunk
+5031,nv,30.0,male,back
+5032,nv,70.0,male,back
+5033,nv,40.0,female,back
+5034,nv,40.0,female,back
+5035,nv,40.0,male,lower extremity
+5036,nv,15.0,female,lower extremity
+5037,nv,70.0,male,chest
+5038,nv,0.0,male,upper extremity
+5039,nv,50.0,female,back
+5040,nv,30.0,female,back
+5041,nv,45.0,female,trunk
+5042,nv,70.0,male,trunk
+5043,nv,15.0,female,lower extremity
+5044,nv,45.0,male,chest
+5045,nv,35.0,male,back
+5046,nv,65.0,male,back
+5047,nv,30.0,male,chest
+5048,nv,40.0,male,back
+5049,nv,35.0,female,back
+5050,nv,50.0,male,upper extremity
+5051,nv,40.0,female,lower extremity
+5052,nv,40.0,male,chest
+5053,nv,60.0,male,abdomen
+5054,nv,35.0,male,back
+5055,nv,20.0,female,back
+5056,nv,50.0,male,abdomen
+5057,nv,30.0,female,upper extremity
+5058,nv,35.0,female,lower extremity
+5059,nv,,female,chest
+5060,nv,35.0,male,back
+5061,nv,35.0,male,back
+5062,nv,20.0,female,neck
+5063,nv,35.0,female,back
+5064,nv,35.0,female,back
+5065,nv,35.0,female,back
+5066,nv,20.0,female,lower extremity
+5067,nv,35.0,female,back
+5068,nv,50.0,female,ear
+5069,nv,20.0,female,lower extremity
+5070,nv,20.0,female,foot
+5071,nv,50.0,female,foot
+5072,nv,40.0,female,back
+5073,nv,35.0,female,chest
+5074,nv,40.0,female,lower extremity
+5075,nv,65.0,male,back
+5076,nv,40.0,female,neck
+5077,nv,50.0,female,foot
+5078,nv,35.0,female,trunk
+5079,nv,65.0,male,lower extremity
+5080,nv,35.0,female,abdomen
+5081,nv,30.0,female,back
+5082,nv,55.0,male,back
+5083,nv,55.0,male,lower extremity
+5084,nv,45.0,male,upper extremity
+5085,nv,5.0,male,trunk
+5086,nv,35.0,female,abdomen
+5087,nv,40.0,female,back
+5088,nv,70.0,male,chest
+5089,nv,50.0,male,chest
+5090,nv,20.0,male,foot
+5091,nv,20.0,male,chest
+5092,nv,75.0,male,lower extremity
+5093,nv,55.0,male,back
+5094,nv,55.0,male,back
+5095,nv,10.0,female,upper extremity
+5096,nv,60.0,male,abdomen
+5097,nv,35.0,male,back
+5098,nv,25.0,female,chest
+5099,nv,50.0,male,abdomen
+5100,nv,35.0,female,acral
+5101,nv,35.0,female,foot
+5102,nv,35.0,female,back
+5103,nv,50.0,female,back
+5104,nv,40.0,male,back
+5105,nv,20.0,male,chest
+5106,nv,40.0,female,upper extremity
+5107,nv,45.0,male,lower extremity
+5108,nv,30.0,male,chest
+5109,nv,30.0,male,chest
+5110,nv,35.0,female,lower extremity
+5111,nv,55.0,female,lower extremity
+5112,nv,40.0,female,back
+5113,nv,40.0,female,back
+5114,nv,50.0,female,lower extremity
+5115,nv,35.0,female,foot
+5116,nv,30.0,female,abdomen
+5117,nv,50.0,male,scalp
+5118,nv,40.0,male,lower extremity
+5119,nv,45.0,male,back
+5120,nv,25.0,female,lower extremity
+5121,nv,65.0,male,back
+5122,nv,55.0,male,lower extremity
+5123,nv,40.0,male,back
+5124,nv,30.0,female,upper extremity
+5125,nv,50.0,female,abdomen
+5126,nv,25.0,female,back
+5127,nv,55.0,male,upper extremity
+5128,nv,20.0,female,lower extremity
+5129,nv,30.0,female,back
+5130,nv,5.0,female,back
+5131,nv,65.0,male,back
+5132,nv,30.0,female,lower extremity
+5133,nv,45.0,male,face
+5134,nv,40.0,male,lower extremity
+5135,nv,50.0,female,lower extremity
+5136,nv,45.0,male,abdomen
+5137,nv,45.0,male,back
+5138,nv,50.0,male,chest
+5139,nv,5.0,female,lower extremity
+5140,nv,45.0,male,face
+5141,nv,50.0,female,back
+5142,nv,45.0,male,lower extremity
+5143,nv,45.0,male,abdomen
+5144,nv,20.0,female,face
+5145,nv,45.0,male,abdomen
+5146,nv,25.0,female,face
+5147,nv,40.0,female,lower extremity
+5148,nv,10.0,female,chest
+5149,nv,40.0,female,trunk
+5150,nv,55.0,female,lower extremity
+5151,nv,35.0,female,back
+5152,nv,40.0,male,abdomen
+5153,nv,60.0,male,trunk
+5154,nv,55.0,female,lower extremity
+5155,nv,70.0,male,back
+5156,nv,60.0,male,back
+5157,nv,15.0,female,foot
+5158,nv,45.0,female,lower extremity
+5159,nv,70.0,female,upper extremity
+5160,nv,5.0,female,foot
+5161,nv,20.0,male,foot
+5162,nv,20.0,male,lower extremity
+5163,nv,65.0,male,abdomen
+5164,nv,45.0,male,back
+5165,nv,35.0,female,back
+5166,nv,15.0,female,lower extremity
+5167,nv,20.0,female,chest
+5168,nv,15.0,male,back
+5169,nv,80.0,female,upper extremity
+5170,nv,25.0,male,lower extremity
+5171,nv,65.0,female,back
+5172,nv,50.0,male,back
+5173,nv,50.0,female,back
+5174,nv,60.0,male,lower extremity
+5175,nv,60.0,male,lower extremity
+5176,nv,60.0,female,upper extremity
+5177,nv,40.0,female,back
+5178,nv,50.0,female,abdomen
+5179,nv,15.0,female,lower extremity
+5180,nv,40.0,male,abdomen
+5181,nv,30.0,female,trunk
+5182,nv,30.0,female,back
+5183,nv,35.0,male,abdomen
+5184,nv,65.0,female,back
+5185,nv,60.0,female,lower extremity
+5186,nv,30.0,female,back
+5187,nv,25.0,male,lower extremity
+5188,nv,40.0,female,back
+5189,nv,50.0,female,abdomen
+5190,nv,35.0,female,upper extremity
+5191,nv,30.0,female,trunk
+5192,nv,40.0,female,neck
+5193,nv,65.0,female,abdomen
+5194,nv,65.0,female,upper extremity
+5195,nv,30.0,male,lower extremity
+5196,nv,35.0,female,trunk
+5197,nv,30.0,female,lower extremity
+5198,nv,45.0,female,foot
+5199,nv,35.0,male,lower extremity
+5200,nv,35.0,male,back
+5201,nv,25.0,female,trunk
+5202,nv,35.0,female,back
+5203,nv,15.0,female,chest
+5204,nv,80.0,male,abdomen
+5205,nv,45.0,female,back
+5206,nv,20.0,female,abdomen
+5207,nv,65.0,male,upper extremity
+5208,nv,45.0,male,abdomen
+5209,nv,30.0,female,back
+5210,nv,5.0,female,lower extremity
+5211,nv,30.0,male,back
+5212,nv,45.0,female,lower extremity
+5213,nv,65.0,female,back
+5214,nv,45.0,male,abdomen
+5215,nv,35.0,female,back
+5216,nv,50.0,male,chest
+5217,nv,25.0,female,ear
+5218,nv,55.0,male,chest
+5219,nv,45.0,female,abdomen
+5220,nv,35.0,female,abdomen
+5221,nv,45.0,female,back
+5222,nv,55.0,male,lower extremity
+5223,nv,,male,upper extremity
+5224,nv,80.0,male,back
+5225,nv,20.0,female,back
+5226,nv,50.0,male,abdomen
+5227,nv,5.0,female,lower extremity
+5228,nv,55.0,male,unknown
+5229,nv,55.0,male,unknown
+5230,nv,55.0,male,unknown
+5231,nv,55.0,male,unknown
+5232,nv,55.0,male,unknown
+5233,nv,55.0,male,unknown
+5234,nv,55.0,male,unknown
+5235,nv,55.0,male,unknown
+5236,nv,55.0,male,unknown
+5237,nv,55.0,male,unknown
+5238,nv,25.0,male,lower extremity
+5239,nv,45.0,male,back
+5240,nv,60.0,male,back
+5241,nv,40.0,female,unknown
+5242,nv,35.0,male,neck
+5243,nv,30.0,female,back
+5244,nv,45.0,female,foot
+5245,nv,35.0,female,upper extremity
+5246,nv,60.0,female,back
+5247,nv,5.0,female,back
+5248,nv,60.0,female,lower extremity
+5249,nv,40.0,male,back
+5250,nv,60.0,male,back
+5251,nv,25.0,female,face
+5252,nv,65.0,male,back
+5253,nv,15.0,female,hand
+5254,nv,60.0,male,abdomen
+5255,nv,60.0,male,trunk
+5256,nv,0.0,unknown,back
+5257,nv,45.0,female,upper extremity
+5258,nv,25.0,female,back
+5259,nv,45.0,unknown,abdomen
+5260,nv,10.0,male,foot
+5261,nv,35.0,male,foot
+5262,nv,10.0,female,lower extremity
+5263,nv,25.0,male,unknown
+5264,nv,25.0,male,unknown
+5265,nv,25.0,male,unknown
+5266,nv,25.0,male,unknown
+5267,nv,25.0,male,unknown
+5268,nv,25.0,male,unknown
+5269,nv,25.0,male,unknown
+5270,nv,25.0,male,unknown
+5271,nv,25.0,male,unknown
+5272,nv,25.0,male,unknown
+5273,nv,25.0,male,unknown
+5274,nv,25.0,male,unknown
+5275,nv,25.0,male,unknown
+5276,nv,55.0,female,lower extremity
+5277,nv,35.0,female,lower extremity
+5278,nv,25.0,male,trunk
+5279,nv,35.0,female,acral
+5280,nv,15.0,male,back
+5281,nv,45.0,female,unknown
+5282,nv,55.0,male,upper extremity
+5283,nv,25.0,female,trunk
+5284,nv,40.0,male,trunk
+5285,nv,40.0,male,back
+5286,nv,35.0,female,abdomen
+5287,nv,40.0,male,trunk
+5288,nv,45.0,male,back
+5289,nv,15.0,female,back
+5290,nv,30.0,male,lower extremity
+5291,nv,25.0,male,back
+5292,nv,45.0,male,lower extremity
+5293,nv,35.0,male,trunk
+5294,nv,35.0,male,back
+5295,nv,30.0,male,back
+5296,nv,35.0,female,lower extremity
+5297,nv,55.0,female,trunk
+5298,nv,55.0,female,lower extremity
+5299,nv,40.0,male,chest
+5300,nv,30.0,female,back
+5301,nv,35.0,female,back
+5302,nv,75.0,male,trunk
+5303,nv,75.0,male,trunk
+5304,nv,40.0,female,trunk
+5305,nv,40.0,female,trunk
+5306,nv,25.0,female,lower extremity
+5307,nv,10.0,male,chest
+5308,nv,70.0,male,trunk
+5309,nv,65.0,male,back
+5310,nv,55.0,male,chest
+5311,nv,40.0,female,lower extremity
+5312,nv,55.0,male,lower extremity
+5313,nv,35.0,female,foot
+5314,nv,35.0,female,lower extremity
+5315,nv,55.0,male,trunk
+5316,nv,25.0,female,chest
+5317,nv,25.0,female,lower extremity
+5318,nv,30.0,male,abdomen
+5319,nv,45.0,male,chest
+5320,nv,45.0,male,lower extremity
+5321,nv,30.0,female,abdomen
+5322,nv,20.0,female,lower extremity
+5323,nv,35.0,male,upper extremity
+5324,nv,30.0,male,back
+5325,nv,20.0,female,chest
+5326,nv,40.0,female,back
+5327,nv,30.0,male,abdomen
+5328,nv,30.0,male,trunk
+5329,nv,30.0,female,foot
+5330,nv,25.0,female,unknown
+5331,nv,25.0,female,unknown
+5332,nv,25.0,female,unknown
+5333,nv,40.0,female,chest
+5334,nv,25.0,male,lower extremity
+5335,nv,55.0,male,lower extremity
+5336,nv,25.0,female,back
+5337,nv,40.0,female,upper extremity
+5338,nv,55.0,female,upper extremity
+5339,nv,25.0,female,lower extremity
+5340,nv,40.0,female,lower extremity
+5341,nv,35.0,male,back
+5342,nv,15.0,female,chest
+5343,nv,65.0,male,back
+5344,nv,30.0,male,chest
+5345,nv,45.0,female,chest
+5346,nv,25.0,male,back
+5347,nv,20.0,female,lower extremity
+5348,nv,40.0,female,trunk
+5349,nv,20.0,female,upper extremity
+5350,nv,60.0,female,trunk
+5351,nv,65.0,male,upper extremity
+5352,nv,60.0,male,neck
+5353,nv,15.0,female,trunk
+5354,nv,15.0,female,trunk
+5355,nv,15.0,female,foot
+5356,nv,40.0,male,foot
+5357,nv,40.0,male,upper extremity
+5358,nv,40.0,male,upper extremity
+5359,nv,40.0,male,abdomen
+5360,nv,35.0,male,chest
+5361,nv,30.0,female,abdomen
+5362,nv,20.0,female,lower extremity
+5363,nv,35.0,male,foot
+5364,nv,30.0,female,abdomen
+5365,nv,40.0,male,chest
+5366,nv,15.0,male,trunk
+5367,nv,25.0,male,back
+5368,nv,85.0,male,back
+5369,nv,25.0,female,abdomen
+5370,nv,25.0,female,lower extremity
+5371,nv,55.0,female,lower extremity
+5372,nv,40.0,female,foot
+5373,nv,40.0,male,lower extremity
+5374,nv,10.0,female,upper extremity
+5375,nv,25.0,female,lower extremity
+5376,nv,20.0,female,back
+5377,nv,35.0,female,back
+5378,nv,30.0,male,chest
+5379,nv,15.0,male,lower extremity
+5380,nv,35.0,male,chest
+5381,nv,60.0,female,abdomen
+5382,nv,25.0,female,upper extremity
+5383,nv,45.0,female,chest
+5384,nv,55.0,female,upper extremity
+5385,nv,25.0,male,abdomen
+5386,nv,25.0,male,lower extremity
+5387,nv,70.0,male,trunk
+5388,nv,60.0,male,neck
+5389,nv,55.0,male,back
+5390,nv,55.0,male,back
+5391,nv,30.0,male,scalp
+5392,nv,50.0,male,back
+5393,nv,35.0,male,trunk
+5394,nv,30.0,female,lower extremity
+5395,nv,35.0,female,back
+5396,nv,40.0,female,back
+5397,nv,35.0,male,back
+5398,nv,40.0,male,foot
+5399,nv,30.0,female,back
+5400,nv,55.0,female,back
+5401,nv,70.0,male,chest
+5402,nv,60.0,male,abdomen
+5403,nv,60.0,male,back
+5404,nv,30.0,male,back
+5405,nv,35.0,female,trunk
+5406,nv,25.0,female,lower extremity
+5407,nv,25.0,female,abdomen
+5408,nv,45.0,female,trunk
+5409,nv,70.0,male,back
+5410,nv,40.0,female,back
+5411,nv,30.0,male,lower extremity
+5412,nv,25.0,male,lower extremity
+5413,nv,55.0,female,lower extremity
+5414,nv,50.0,male,foot
+5415,nv,50.0,male,back
+5416,nv,30.0,female,upper extremity
+5417,nv,40.0,male,upper extremity
+5418,nv,40.0,female,foot
+5419,nv,40.0,female,foot
+5420,nv,60.0,female,chest
+5421,nv,75.0,female,lower extremity
+5422,nv,75.0,female,lower extremity
+5423,nv,75.0,female,lower extremity
+5424,nv,75.0,female,lower extremity
+5425,nv,35.0,female,back
+5426,nv,30.0,female,lower extremity
+5427,nv,30.0,female,abdomen
+5428,nv,20.0,female,trunk
+5429,nv,40.0,female,lower extremity
+5430,nv,50.0,female,lower extremity
+5431,nv,45.0,male,trunk
+5432,nv,55.0,female,back
+5433,nv,35.0,male,trunk
+5434,nv,35.0,male,trunk
+5435,nv,35.0,male,trunk
+5436,nv,35.0,female,abdomen
+5437,nv,30.0,female,lower extremity
+5438,nv,30.0,female,lower extremity
+5439,nv,25.0,male,abdomen
+5440,nv,35.0,male,upper extremity
+5441,nv,60.0,male,back
+5442,nv,60.0,male,back
+5443,nv,25.0,male,chest
+5444,nv,20.0,female,back
+5445,nv,35.0,male,chest
+5446,nv,40.0,female,trunk
+5447,nv,60.0,male,back
+5448,nv,20.0,female,back
+5449,nv,35.0,female,back
+5450,nv,20.0,male,back
+5451,nv,65.0,male,upper extremity
+5452,nv,70.0,male,chest
+5453,nv,15.0,female,back
+5454,nv,20.0,female,back
+5455,nv,35.0,female,lower extremity
+5456,nv,45.0,male,abdomen
+5457,nv,35.0,male,lower extremity
+5458,nv,60.0,male,back
+5459,nv,50.0,male,lower extremity
+5460,nv,35.0,male,abdomen
+5461,nv,75.0,female,lower extremity
+5462,nv,10.0,female,lower extremity
+5463,nv,65.0,male,abdomen
+5464,nv,65.0,male,abdomen
+5465,nv,75.0,male,trunk
+5466,nv,75.0,male,trunk
+5467,nv,75.0,male,trunk
+5468,nv,25.0,female,abdomen
+5469,nv,35.0,female,abdomen
+5470,nv,60.0,male,trunk
+5471,nv,20.0,female,back
+5472,nv,75.0,male,face
+5473,nv,35.0,male,chest
+5474,nv,40.0,male,abdomen
+5475,nv,30.0,female,chest
+5476,nv,15.0,female,back
+5477,nv,35.0,female,upper extremity
+5478,nv,80.0,female,upper extremity
+5479,nv,35.0,female,back
+5480,nv,35.0,female,back
+5481,nv,20.0,male,abdomen
+5482,nv,70.0,female,foot
+5483,nv,25.0,male,chest
+5484,nv,30.0,male,lower extremity
+5485,nv,55.0,male,lower extremity
+5486,nv,55.0,male,back
+5487,nv,35.0,female,abdomen
+5488,nv,15.0,male,back
+5489,nv,25.0,male,upper extremity
+5490,nv,25.0,male,trunk
+5491,nv,65.0,male,back
+5492,nv,30.0,female,foot
+5493,nv,70.0,male,hand
+5494,nv,70.0,male,trunk
+5495,nv,35.0,male,foot
+5496,nv,30.0,female,trunk
+5497,nv,15.0,female,trunk
+5498,nv,35.0,male,upper extremity
+5499,nv,50.0,female,upper extremity
+5500,nv,75.0,male,back
+5501,nv,60.0,male,upper extremity
+5502,nv,40.0,male,trunk
+5503,nv,,female,abdomen
+5504,nv,,female,trunk
+5505,nv,50.0,female,lower extremity
+5506,nv,50.0,female,lower extremity
+5507,nv,35.0,female,trunk
+5508,nv,35.0,female,trunk
+5509,nv,50.0,male,back
+5510,nv,65.0,female,trunk
+5511,nv,35.0,male,lower extremity
+5512,nv,45.0,male,trunk
+5513,nv,30.0,female,trunk
+5514,nv,35.0,female,abdomen
+5515,nv,35.0,female,abdomen
+5516,nv,55.0,male,back
+5517,nv,65.0,female,lower extremity
+5518,nv,75.0,male,back
+5519,nv,55.0,male,back
+5520,nv,70.0,female,back
+5521,nv,60.0,male,back
+5522,nv,30.0,male,back
+5523,nv,15.0,male,face
+5524,nv,55.0,male,lower extremity
+5525,nv,50.0,female,upper extremity
+5526,nv,60.0,male,neck
+5527,nv,70.0,male,back
+5528,nv,60.0,male,lower extremity
+5529,nv,75.0,female,back
+5530,nv,25.0,male,lower extremity
+5531,nv,50.0,male,lower extremity
+5532,nv,50.0,female,back
+5533,nv,50.0,female,back
+5534,nv,40.0,female,back
+5535,nv,30.0,female,back
+5536,nv,80.0,male,unknown
+5537,nv,35.0,female,scalp
+5538,nv,25.0,female,lower extremity
+5539,nv,15.0,male,back
+5540,nv,60.0,male,back
+5541,nv,60.0,male,back
+5542,nv,60.0,male,back
+5543,nv,65.0,male,trunk
+5544,nv,75.0,male,unknown
+5545,nv,70.0,male,neck
+5546,nv,30.0,male,back
+5547,nv,30.0,female,upper extremity
+5548,nv,60.0,male,back
+5549,nv,50.0,female,back
+5550,nv,35.0,female,upper extremity
+5551,nv,60.0,female,ear
+5552,nv,20.0,male,back
+5553,nv,60.0,male,back
+5554,nv,10.0,female,upper extremity
+5555,nv,35.0,female,face
+5556,nv,15.0,female,face
+5557,nv,50.0,male,back
+5558,nv,50.0,male,back
+5559,nv,50.0,male,back
+5560,nv,70.0,male,lower extremity
+5561,nv,40.0,female,trunk
+5562,nv,70.0,female,lower extremity
+5563,nv,30.0,female,upper extremity
+5564,nv,40.0,female,back
+5565,nv,70.0,male,abdomen
+5566,nv,60.0,female,foot
+5567,nv,55.0,female,foot
+5568,nv,60.0,male,chest
+5569,nv,50.0,female,ear
+5570,nv,50.0,female,back
+5571,nv,50.0,female,back
+5572,nv,70.0,female,foot
+5573,nv,60.0,female,back
+5574,nv,60.0,female,back
+5575,nv,85.0,male,scalp
+5576,nv,85.0,male,genital
+5577,nv,50.0,female,upper extremity
+5578,nv,35.0,male,face
+5579,nv,45.0,female,back
+5580,nv,30.0,female,lower extremity
+5581,nv,5.0,female,hand
+5582,nv,65.0,female,face
+5583,nv,60.0,female,chest
+5584,nv,50.0,male,back
+5585,nv,50.0,male,hand
+5586,nv,20.0,male,back
+5587,nv,75.0,male,back
+5588,nv,75.0,male,chest
+5589,nv,75.0,male,back
+5590,nv,75.0,male,lower extremity
+5591,nv,30.0,male,upper extremity
+5592,nv,45.0,female,back
+5593,nv,45.0,female,back
+5594,nv,55.0,male,neck
+5595,nv,75.0,male,ear
+5596,nv,35.0,female,abdomen
+5597,nv,55.0,male,back
+5598,nv,40.0,female,back
+5599,nv,50.0,male,lower extremity
+5600,nv,70.0,female,back
+5601,nv,25.0,male,abdomen
+5602,nv,20.0,male,lower extremity
+5603,nv,30.0,male,foot
+5604,nv,30.0,male,foot
+5605,nv,60.0,male,back
+5606,nv,20.0,female,upper extremity
+5607,nv,50.0,male,ear
+5608,nv,70.0,female,hand
+5609,nv,50.0,male,back
+5610,nv,35.0,female,back
+5611,nv,60.0,male,back
+5612,nv,25.0,female,unknown
+5613,nv,45.0,male,abdomen
+5614,nv,25.0,female,unknown
+5615,nv,60.0,female,neck
+5616,nv,25.0,female,unknown
+5617,nv,35.0,male,back
+5618,nv,30.0,female,neck
+5619,nv,50.0,male,back
+5620,nv,35.0,male,back
+5621,nv,35.0,female,lower extremity
+5622,nv,45.0,male,back
+5623,nv,60.0,female,back
+5624,nv,25.0,female,chest
+5625,nv,65.0,female,back
+5626,nv,45.0,female,upper extremity
+5627,nv,55.0,male,back
+5628,nv,55.0,male,back
+5629,nv,35.0,male,back
+5630,nv,30.0,male,back
+5631,nv,30.0,male,back
+5632,nv,60.0,male,lower extremity
+5633,nv,60.0,male,back
+5634,nv,80.0,male,abdomen
+5635,nv,80.0,male,back
+5636,nv,50.0,male,back
+5637,nv,60.0,female,lower extremity
+5638,nv,35.0,female,hand
+5639,nv,40.0,female,lower extremity
+5640,nv,65.0,female,lower extremity
+5641,nv,35.0,female,back
+5642,nv,30.0,female,face
+5643,nv,75.0,male,back
+5644,nv,75.0,male,lower extremity
+5645,nv,65.0,female,back
+5646,nv,35.0,male,ear
+5647,nv,40.0,female,lower extremity
+5648,nv,45.0,male,abdomen
+5649,nv,60.0,male,back
+5650,nv,50.0,female,lower extremity
+5651,nv,20.0,male,back
+5652,nv,60.0,male,lower extremity
+5653,nv,60.0,female,face
+5654,nv,30.0,female,back
+5655,nv,40.0,female,chest
+5656,nv,60.0,female,back
+5657,nv,65.0,male,back
+5658,nv,80.0,female,lower extremity
+5659,nv,85.0,female,upper extremity
+5660,nv,70.0,male,back
+5661,nv,50.0,male,lower extremity
+5662,nv,50.0,male,back
+5663,nv,65.0,male,abdomen
+5664,nv,20.0,female,back
+5665,nv,25.0,female,back
+5666,nv,50.0,female,unknown
+5667,nv,30.0,female,lower extremity
+5668,nv,40.0,female,face
+5669,nv,75.0,female,lower extremity
+5670,nv,40.0,female,back
+5671,nv,65.0,male,lower extremity
+5672,nv,20.0,female,back
+5673,nv,40.0,female,foot
+5674,nv,45.0,male,back
+5675,nv,45.0,female,lower extremity
+5676,nv,35.0,female,upper extremity
+5677,nv,70.0,male,chest
+5678,nv,45.0,male,back
+5679,nv,45.0,male,back
+5680,nv,70.0,female,back
+5681,nv,70.0,female,back
+5682,nv,65.0,male,back
+5683,nv,65.0,male,back
+5684,nv,50.0,female,back
+5685,nv,50.0,male,face
+5686,nv,60.0,female,upper extremity
+5687,nv,70.0,female,back
+5688,nv,30.0,female,lower extremity
+5689,nv,65.0,female,back
+5690,nv,65.0,male,back
+5691,nv,50.0,female,lower extremity
+5692,nv,55.0,female,back
+5693,nv,40.0,male,back
+5694,nv,40.0,male,back
+5695,nv,60.0,male,neck
+5696,nv,80.0,male,abdomen
+5697,nv,65.0,female,back
+5698,nv,45.0,male,back
+5699,nv,35.0,female,back
+5700,nv,60.0,female,face
+5701,nv,30.0,male,lower extremity
+5702,nv,45.0,female,foot
+5703,nv,50.0,female,back
+5704,nv,85.0,male,back
+5705,nv,60.0,male,upper extremity
+5706,nv,45.0,male,back
+5707,nv,50.0,male,back
+5708,nv,55.0,male,back
+5709,nv,60.0,male,back
+5710,nv,60.0,male,back
+5711,nv,80.0,male,abdomen
+5712,nv,50.0,female,back
+5713,nv,30.0,female,lower extremity
+5714,nv,85.0,female,back
+5715,nv,40.0,female,lower extremity
+5716,nv,30.0,male,chest
+5717,nv,25.0,female,back
+5718,nv,80.0,male,back
+5719,nv,30.0,male,back
+5720,nv,30.0,male,back
+5721,nv,25.0,male,back
+5722,nv,55.0,male,back
+5723,nv,70.0,male,ear
+5724,nv,70.0,male,back
+5725,nv,75.0,male,back
+5726,nv,20.0,female,back
+5727,nv,35.0,male,upper extremity
+5728,nv,30.0,male,back
+5729,nv,5.0,male,upper extremity
+5730,nv,40.0,female,back
+5731,nv,75.0,male,foot
+5732,nv,80.0,male,upper extremity
+5733,nv,40.0,male,back
+5734,nv,55.0,female,back
+5735,nv,40.0,male,chest
+5736,nv,65.0,male,back
+5737,nv,50.0,female,upper extremity
+5738,nv,85.0,male,upper extremity
+5739,nv,60.0,male,lower extremity
+5740,nv,60.0,male,back
+5741,nv,55.0,male,back
+5742,nv,45.0,female,lower extremity
+5743,nv,70.0,male,upper extremity
+5744,nv,40.0,female,back
+5745,nv,45.0,male,chest
+5746,nv,75.0,male,back
+5747,nv,50.0,male,back
+5748,nv,30.0,male,lower extremity
+5749,nv,60.0,male,back
+5750,nv,85.0,male,back
+5751,nv,60.0,female,lower extremity
+5752,nv,65.0,female,upper extremity
+5753,nv,45.0,female,upper extremity
+5754,nv,75.0,male,foot
+5755,nv,45.0,male,back
+5756,nv,70.0,female,back
+5757,nv,15.0,male,face
+5758,nv,65.0,male,chest
+5759,nv,55.0,female,back
+5760,nv,60.0,female,face
+5761,nv,80.0,male,lower extremity
+5762,nv,80.0,male,lower extremity
+5763,nv,35.0,female,foot
+5764,nv,40.0,female,foot
+5765,nv,60.0,female,lower extremity
+5766,nv,50.0,female,back
+5767,nv,30.0,female,back
+5768,nv,60.0,female,back
+5769,nv,75.0,female,foot
+5770,nv,20.0,female,abdomen
+5771,nv,20.0,female,abdomen
+5772,nv,40.0,female,lower extremity
+5773,nv,45.0,male,lower extremity
+5774,nv,45.0,female,lower extremity
+5775,nv,75.0,female,foot
+5776,nv,85.0,male,lower extremity
+5777,nv,45.0,female,back
+5778,nv,45.0,female,lower extremity
+5779,nv,40.0,male,back
+5780,nv,40.0,male,back
+5781,nv,40.0,male,chest
+5782,nv,40.0,male,back
+5783,nv,55.0,female,lower extremity
+5784,nv,25.0,female,lower extremity
+5785,nv,40.0,female,neck
+5786,nv,70.0,male,back
+5787,nv,70.0,male,back
+5788,nv,40.0,male,back
+5789,nv,45.0,male,back
+5790,nv,65.0,female,abdomen
+5791,nv,30.0,male,back
+5792,nv,50.0,female,lower extremity
+5793,nv,60.0,male,back
+5794,nv,20.0,male,back
+5795,nv,35.0,male,hand
+5796,nv,35.0,female,upper extremity
+5797,nv,70.0,female,lower extremity
+5798,nv,70.0,female,back
+5799,nv,25.0,female,abdomen
+5800,nv,40.0,female,genital
+5801,nv,60.0,male,abdomen
+5802,nv,60.0,male,abdomen
+5803,nv,20.0,female,upper extremity
+5804,nv,70.0,male,upper extremity
+5805,nv,45.0,female,back
+5806,nv,50.0,female,upper extremity
+5807,nv,55.0,male,lower extremity
+5808,nv,75.0,male,back
+5809,nv,70.0,male,back
+5810,nv,60.0,female,face
+5811,nv,45.0,male,upper extremity
+5812,nv,45.0,male,back
+5813,nv,45.0,male,back
+5814,nv,75.0,male,back
+5815,nv,35.0,male,lower extremity
+5816,nv,30.0,female,abdomen
+5817,nv,65.0,male,scalp
+5818,nv,20.0,female,face
+5819,nv,80.0,male,back
+5820,nv,40.0,female,scalp
+5821,nv,75.0,female,back
+5822,nv,70.0,female,foot
+5823,nv,45.0,male,abdomen
+5824,nv,40.0,male,back
+5825,nv,30.0,female,hand
+5826,nv,65.0,female,upper extremity
+5827,nv,80.0,female,lower extremity
+5828,nv,5.0,male,scalp
+5829,nv,80.0,male,abdomen
+5830,nv,45.0,female,abdomen
+5831,nv,45.0,female,abdomen
+5832,nv,45.0,female,scalp
+5833,nv,30.0,male,lower extremity
+5834,nv,50.0,male,upper extremity
+5835,nv,30.0,male,back
+5836,nv,35.0,female,upper extremity
+5837,nv,45.0,female,back
+5838,nv,50.0,female,upper extremity
+5839,nv,45.0,female,lower extremity
+5840,nv,35.0,male,back
+5841,nv,80.0,male,back
+5842,nv,20.0,female,scalp
+5843,nv,50.0,male,back
+5844,nv,45.0,female,foot
+5845,nv,30.0,male,back
+5846,nv,70.0,male,back
+5847,nv,30.0,female,back
+5848,nv,70.0,female,abdomen
+5849,nv,80.0,male,back
+5850,nv,45.0,female,lower extremity
+5851,nv,65.0,male,abdomen
+5852,nv,40.0,female,lower extremity
+5853,nv,45.0,female,foot
+5854,nv,25.0,female,back
+5855,nv,65.0,male,upper extremity
+5856,nv,75.0,female,lower extremity
+5857,nv,25.0,male,back
+5858,nv,15.0,male,foot
+5859,nv,55.0,male,lower extremity
+5860,nv,75.0,male,chest
+5861,nv,40.0,male,chest
+5862,nv,80.0,male,lower extremity
+5863,nv,35.0,female,upper extremity
+5864,nv,40.0,male,abdomen
+5865,nv,35.0,male,back
+5866,nv,35.0,female,hand
+5867,nv,55.0,male,unknown
+5868,nv,55.0,male,back
+5869,nv,35.0,male,chest
+5870,nv,35.0,male,back
+5871,nv,40.0,male,neck
+5872,nv,40.0,male,neck
+5873,nv,20.0,male,chest
+5874,nv,35.0,female,upper extremity
+5875,nv,30.0,female,hand
+5876,nv,35.0,female,chest
+5877,nv,75.0,male,back
+5878,nv,80.0,male,scalp
+5879,nv,65.0,male,lower extremity
+5880,nv,30.0,male,lower extremity
+5881,nv,50.0,male,scalp
+5882,nv,30.0,female,face
+5883,nv,45.0,male,back
+5884,nv,30.0,male,foot
+5885,nv,60.0,female,back
+5886,nv,65.0,female,neck
+5887,nv,60.0,female,back
+5888,nv,70.0,male,scalp
+5889,nv,30.0,female,lower extremity
+5890,nv,35.0,male,back
+5891,nv,65.0,female,lower extremity
+5892,nv,55.0,male,neck
+5893,nv,60.0,female,upper extremity
+5894,nv,20.0,male,lower extremity
+5895,nv,45.0,female,abdomen
+5896,nv,65.0,male,back
+5897,nv,45.0,female,back
+5898,nv,50.0,female,back
+5899,nv,45.0,female,foot
+5900,nv,60.0,male,upper extremity
+5901,nv,55.0,male,chest
+5902,nv,85.0,male,foot
+5903,nv,55.0,male,upper extremity
+5904,nv,70.0,male,lower extremity
+5905,nv,30.0,female,back
+5906,nv,30.0,female,back
+5907,nv,40.0,male,chest
+5908,nv,60.0,male,chest
+5909,nv,40.0,male,chest
+5910,nv,60.0,female,back
+5911,nv,35.0,male,upper extremity
+5912,nv,25.0,female,back
+5913,nv,55.0,male,chest
+5914,nv,55.0,male,back
+5915,nv,50.0,male,back
+5916,nv,60.0,male,abdomen
+5917,nv,40.0,female,chest
+5918,nv,65.0,female,back
+5919,nv,45.0,male,back
+5920,nv,75.0,male,lower extremity
+5921,nv,75.0,male,trunk
+5922,nv,55.0,male,lower extremity
+5923,nv,55.0,female,upper extremity
+5924,nv,45.0,female,abdomen
+5925,nv,55.0,male,chest
+5926,nv,30.0,male,neck
+5927,nv,75.0,male,back
+5928,nv,75.0,female,upper extremity
+5929,nv,80.0,male,back
+5930,nv,80.0,female,lower extremity
+5931,nv,75.0,male,upper extremity
+5932,nv,55.0,male,upper extremity
+5933,nv,60.0,male,back
+5934,nv,65.0,male,back
+5935,nv,70.0,female,abdomen
+5936,nv,70.0,male,back
+5937,nv,45.0,female,foot
+5938,nv,70.0,female,upper extremity
+5939,nv,25.0,male,upper extremity
+5940,nv,65.0,male,back
+5941,nv,55.0,male,back
+5942,nv,20.0,female,lower extremity
+5943,nv,45.0,female,ear
+5944,nv,50.0,male,trunk
+5945,nv,65.0,male,back
+5946,nv,65.0,male,back
+5947,nv,40.0,male,back
+5948,nv,75.0,male,back
+5949,nv,60.0,male,foot
+5950,nv,65.0,male,abdomen
+5951,nv,35.0,male,upper extremity
+5952,nv,40.0,female,lower extremity
+5953,nv,40.0,female,lower extremity
+5954,nv,40.0,male,back
+5955,nv,45.0,female,back
+5956,nv,55.0,male,back
+5957,nv,70.0,female,back
+5958,nv,55.0,male,back
+5959,nv,55.0,female,lower extremity
+5960,nv,25.0,female,lower extremity
+5961,nv,55.0,male,chest
+5962,nv,50.0,male,abdomen
+5963,nv,80.0,male,back
+5964,nv,75.0,male,back
+5965,nv,20.0,female,back
+5966,nv,60.0,female,chest
+5967,nv,45.0,female,abdomen
+5968,nv,65.0,male,foot
+5969,nv,60.0,male,chest
+5970,nv,50.0,female,lower extremity
+5971,nv,45.0,female,back
+5972,nv,75.0,male,back
+5973,nv,45.0,male,back
+5974,nv,65.0,male,lower extremity
+5975,nv,45.0,male,lower extremity
+5976,nv,60.0,male,back
+5977,nv,30.0,male,back
+5978,nv,45.0,female,lower extremity
+5979,nv,65.0,female,upper extremity
+5980,nv,60.0,male,back
+5981,nv,30.0,female,foot
+5982,nv,65.0,male,upper extremity
+5983,nv,30.0,male,upper extremity
+5984,nv,60.0,male,abdomen
+5985,nv,65.0,female,back
+5986,nv,55.0,male,upper extremity
+5987,nv,65.0,male,chest
+5988,nv,45.0,female,lower extremity
+5989,nv,50.0,male,back
+5990,nv,55.0,female,upper extremity
+5991,nv,75.0,male,back
+5992,nv,50.0,male,chest
+5993,nv,40.0,female,abdomen
+5994,nv,70.0,male,back
+5995,nv,40.0,female,lower extremity
+5996,nv,80.0,male,back
+5997,nv,30.0,male,chest
+5998,nv,85.0,male,lower extremity
+5999,nv,85.0,male,upper extremity
+6000,nv,40.0,male,back
+6001,nv,40.0,male,back
+6002,nv,50.0,male,chest
+6003,nv,35.0,male,back
+6004,nv,35.0,male,abdomen
+6005,nv,65.0,male,back
+6006,nv,25.0,male,lower extremity
+6007,nv,35.0,male,back
+6008,nv,35.0,female,back
+6009,nv,70.0,female,upper extremity
+6010,nv,75.0,female,upper extremity
+6011,nv,75.0,female,upper extremity
+6012,nv,85.0,male,chest
+6013,nv,65.0,male,lower extremity
+6014,nv,35.0,female,back
+6015,nv,25.0,female,upper extremity
+6016,nv,25.0,female,back
+6017,nv,40.0,female,foot
+6018,nv,60.0,male,lower extremity
+6019,nv,60.0,male,back
+6020,nv,45.0,female,chest
+6021,nv,45.0,male,lower extremity
+6022,nv,60.0,female,lower extremity
+6023,nv,70.0,male,upper extremity
+6024,nv,70.0,female,lower extremity
+6025,nv,65.0,male,back
+6026,nv,55.0,male,back
+6027,nv,50.0,female,abdomen
+6028,nv,55.0,male,scalp
+6029,nv,55.0,male,back
+6030,nv,20.0,female,back
+6031,nv,85.0,male,back
+6032,nv,40.0,female,chest
+6033,nv,45.0,female,foot
+6034,nv,40.0,female,foot
+6035,nv,35.0,male,ear
+6036,nv,10.0,female,hand
+6037,nv,25.0,female,lower extremity
+6038,nv,35.0,female,unknown
+6039,nv,50.0,female,face
+6040,nv,25.0,male,face
+6041,nv,55.0,female,lower extremity
+6042,nv,0.0,female,upper extremity
+6043,nv,5.0,male,upper extremity
+6044,nv,30.0,female,lower extremity
+6045,nv,60.0,female,abdomen
+6046,nv,30.0,male,trunk
+6047,nv,75.0,female,back
+6048,nv,0.0,male,foot
+6049,nv,0.0,male,upper extremity
+6050,nv,5.0,female,foot
+6051,nv,30.0,female,abdomen
+6052,nv,30.0,female,abdomen
+6053,nv,0.0,male,lower extremity
+6054,nv,10.0,male,upper extremity
+6055,nv,60.0,female,chest
+6056,nv,15.0,female,chest
+6057,nv,5.0,female,face
+6058,nv,40.0,female,lower extremity
+6059,nv,5.0,female,hand
+6060,nv,30.0,female,back
+6061,nv,45.0,female,foot
+6062,nv,45.0,male,lower extremity
+6063,nv,75.0,female,back
+6064,nv,60.0,female,abdomen
+6065,nv,30.0,male,foot
+6066,nv,60.0,female,back
+6067,nv,60.0,male,back
+6068,nv,5.0,male,upper extremity
+6069,nv,60.0,female,abdomen
+6070,nv,30.0,female,back
+6071,nv,35.0,female,lower extremity
+6072,nv,60.0,female,abdomen
+6073,nv,55.0,male,back
+6074,nv,40.0,male,back
+6075,nv,45.0,male,back
+6076,nv,40.0,male,back
+6077,nv,50.0,female,back
+6078,nv,65.0,male,back
+6079,nv,65.0,male,back
+6080,nv,65.0,female,lower extremity
+6081,nv,65.0,male,upper extremity
+6082,nv,0.0,male,foot
+6083,nv,10.0,female,upper extremity
+6084,nv,20.0,female,foot
+6085,nv,25.0,female,lower extremity
+6086,nv,65.0,female,face
+6087,nv,85.0,female,back
+6088,nv,50.0,female,scalp
+6089,nv,5.0,male,lower extremity
+6090,nv,50.0,female,ear
+6091,nv,5.0,female,lower extremity
+6092,nv,20.0,female,face
+6093,nv,15.0,female,lower extremity
+6094,nv,50.0,female,back
+6095,nv,0.0,female,abdomen
+6096,nv,30.0,male,foot
+6097,nv,25.0,male,back
+6098,nv,65.0,male,upper extremity
+6099,nv,5.0,male,trunk
+6100,nv,5.0,male,trunk
+6101,nv,25.0,male,lower extremity
+6102,nv,15.0,female,lower extremity
+6103,nv,20.0,female,back
+6104,nv,0.0,male,face
+6105,nv,35.0,female,back
+6106,nv,5.0,male,face
+6107,nv,35.0,male,back
+6108,nv,5.0,male,foot
+6109,nv,0.0,male,foot
+6110,nv,50.0,male,back
+6111,nv,25.0,female,trunk
+6112,nv,55.0,male,neck
+6113,nv,25.0,male,foot
+6114,nv,30.0,female,chest
+6115,nv,55.0,female,back
+6116,nv,55.0,female,lower extremity
+6117,nv,0.0,male,chest
+6118,nv,25.0,female,foot
+6119,nv,0.0,male,scalp
+6120,nv,10.0,male,abdomen
+6121,nv,0.0,female,lower extremity
+6122,nv,70.0,male,foot
+6123,nv,60.0,male,neck
+6124,nv,5.0,female,hand
+6125,nv,,male,foot
+6126,nv,50.0,male,back
+6127,nv,25.0,male,neck
+6128,nv,35.0,female,face
+6129,nv,80.0,male,upper extremity
+6130,nv,70.0,male,trunk
+6131,nv,70.0,male,trunk
+6132,nv,70.0,male,trunk
+6133,nv,70.0,male,trunk
+6134,nv,70.0,male,trunk
+6135,nv,70.0,male,trunk
+6136,nv,70.0,male,trunk
+6137,nv,45.0,female,unknown
+6138,nv,45.0,female,unknown
+6139,nv,45.0,female,unknown
+6140,nv,45.0,female,unknown
+6141,nv,45.0,female,unknown
+6142,nv,45.0,female,unknown
+6143,nv,45.0,female,unknown
+6144,nv,45.0,female,unknown
+6145,nv,45.0,female,unknown
+6146,nv,45.0,female,unknown
+6147,nv,45.0,female,unknown
+6148,nv,45.0,female,unknown
+6149,nv,45.0,female,unknown
+6150,nv,75.0,male,back
+6151,nv,75.0,male,back
+6152,nv,40.0,female,abdomen
+6153,nv,55.0,female,back
+6154,nv,60.0,female,lower extremity
+6155,nv,30.0,female,abdomen
+6156,nv,75.0,female,foot
+6157,nv,35.0,male,foot
+6158,nv,50.0,female,upper extremity
+6159,nv,50.0,female,chest
+6160,nv,50.0,female,back
+6161,nv,20.0,male,back
+6162,nv,20.0,male,back
+6163,nv,20.0,male,back
+6164,nv,20.0,male,back
+6165,nv,20.0,male,back
+6166,nv,40.0,male,back
+6167,nv,40.0,male,back
+6168,nv,40.0,male,back
+6169,nv,40.0,male,unknown
+6170,nv,40.0,male,unknown
+6171,nv,35.0,male,unknown
+6172,nv,35.0,male,unknown
+6173,nv,35.0,male,unknown
+6174,nv,35.0,male,chest
+6175,nv,35.0,male,abdomen
+6176,nv,25.0,female,foot
+6177,nv,40.0,male,trunk
+6178,nv,55.0,female,trunk
+6179,nv,55.0,female,trunk
+6180,nv,85.0,male,back
+6181,nv,85.0,male,unknown
+6182,nv,40.0,female,lower extremity
+6183,nv,40.0,female,lower extremity
+6184,nv,20.0,female,lower extremity
+6185,nv,25.0,male,abdomen
+6186,nv,30.0,male,back
+6187,nv,30.0,male,back
+6188,nv,30.0,male,back
+6189,nv,30.0,male,back
+6190,nv,30.0,male,back
+6191,nv,30.0,male,back
+6192,nv,30.0,male,back
+6193,nv,30.0,male,back
+6194,nv,30.0,male,back
+6195,nv,30.0,male,back
+6196,nv,70.0,female,back
+6197,nv,35.0,female,back
+6198,nv,75.0,male,back
+6199,nv,45.0,male,abdomen
+6200,nv,30.0,female,back
+6201,nv,65.0,male,abdomen
+6202,nv,65.0,male,abdomen
+6203,nv,65.0,male,abdomen
+6204,nv,70.0,male,upper extremity
+6205,nv,70.0,male,upper extremity
+6206,nv,40.0,female,face
+6207,nv,35.0,male,upper extremity
+6208,nv,45.0,male,trunk
+6209,nv,30.0,male,back
+6210,nv,30.0,male,back
+6211,nv,20.0,male,back
+6212,nv,20.0,male,back
+6213,nv,20.0,male,back
+6214,nv,40.0,female,unknown
+6215,nv,40.0,female,unknown
+6216,nv,40.0,female,unknown
+6217,nv,40.0,female,unknown
+6218,nv,40.0,female,unknown
+6219,nv,40.0,female,unknown
+6220,nv,40.0,female,unknown
+6221,nv,40.0,female,unknown
+6222,nv,40.0,female,unknown
+6223,nv,40.0,male,unknown
+6224,nv,40.0,male,unknown
+6225,nv,40.0,male,unknown
+6226,nv,40.0,male,unknown
+6227,nv,40.0,male,unknown
+6228,nv,40.0,male,unknown
+6229,nv,40.0,male,unknown
+6230,nv,40.0,male,unknown
+6231,nv,40.0,male,unknown
+6232,nv,40.0,male,unknown
+6233,nv,40.0,male,unknown
+6234,nv,60.0,male,unknown
+6235,nv,60.0,male,unknown
+6236,nv,60.0,male,unknown
+6237,nv,60.0,male,unknown
+6238,nv,60.0,male,unknown
+6239,nv,60.0,male,unknown
+6240,nv,60.0,male,unknown
+6241,nv,60.0,male,unknown
+6242,nv,60.0,male,unknown
+6243,nv,40.0,female,unknown
+6244,nv,40.0,female,unknown
+6245,nv,40.0,female,unknown
+6246,nv,40.0,female,unknown
+6247,nv,40.0,female,unknown
+6248,nv,40.0,female,unknown
+6249,nv,40.0,female,unknown
+6250,nv,40.0,female,unknown
+6251,nv,40.0,female,unknown
+6252,nv,40.0,female,unknown
+6253,nv,40.0,female,unknown
+6254,nv,40.0,female,unknown
+6255,nv,40.0,female,unknown
+6256,nv,40.0,female,unknown
+6257,nv,40.0,female,unknown
+6258,nv,40.0,female,unknown
+6259,nv,40.0,female,unknown
+6260,nv,40.0,female,unknown
+6261,nv,40.0,female,unknown
+6262,nv,40.0,female,unknown
+6263,nv,40.0,female,unknown
+6264,nv,40.0,female,unknown
+6265,nv,40.0,female,unknown
+6266,nv,40.0,female,unknown
+6267,nv,40.0,female,unknown
+6268,nv,40.0,female,unknown
+6269,nv,40.0,female,unknown
+6270,nv,40.0,female,unknown
+6271,nv,40.0,female,unknown
+6272,nv,40.0,female,unknown
+6273,nv,40.0,female,unknown
+6274,nv,40.0,female,unknown
+6275,nv,40.0,female,unknown
+6276,nv,40.0,female,unknown
+6277,nv,40.0,female,unknown
+6278,nv,30.0,female,upper extremity
+6279,nv,,unknown,unknown
+6280,nv,,unknown,unknown
+6281,nv,,unknown,unknown
+6282,nv,,unknown,unknown
+6283,nv,,unknown,unknown
+6284,nv,,unknown,unknown
+6285,nv,,unknown,unknown
+6286,nv,,unknown,unknown
+6287,nv,,unknown,unknown
+6288,nv,,unknown,unknown
+6289,nv,,unknown,unknown
+6290,nv,,unknown,unknown
+6291,nv,,unknown,unknown
+6292,nv,,unknown,unknown
+6293,nv,,unknown,unknown
+6294,nv,,unknown,unknown
+6295,nv,,unknown,unknown
+6296,nv,,unknown,unknown
+6297,nv,,unknown,unknown
+6298,nv,,unknown,unknown
+6299,nv,,unknown,unknown
+6300,nv,,unknown,unknown
+6301,nv,,unknown,unknown
+6302,nv,,unknown,unknown
+6303,nv,,unknown,unknown
+6304,nv,,unknown,unknown
+6305,nv,,unknown,unknown
+6306,nv,,unknown,unknown
+6307,nv,,unknown,unknown
+6308,nv,,unknown,unknown
+6309,nv,,unknown,unknown
+6310,nv,,unknown,unknown
+6311,nv,,unknown,unknown
+6312,nv,,unknown,unknown
+6313,nv,,unknown,unknown
+6314,nv,,unknown,unknown
+6315,nv,,unknown,unknown
+6316,nv,50.0,female,lower extremity
+6317,nv,0.0,female,lower extremity
+6318,nv,10.0,male,unknown
+6319,nv,50.0,female,chest
+6320,nv,30.0,male,unknown
+6321,nv,50.0,female,back
+6322,nv,75.0,male,lower extremity
+6323,nv,30.0,male,back
+6324,nv,65.0,male,upper extremity
+6325,nv,55.0,female,chest
+6326,nv,55.0,female,chest
+6327,nv,55.0,female,back
+6328,nv,65.0,male,neck
+6329,nv,30.0,female,back
+6330,nv,30.0,female,scalp
+6331,nv,50.0,female,back
+6332,nv,70.0,male,unknown
+6333,nv,50.0,female,chest
+6334,nv,55.0,male,upper extremity
+6335,nv,15.0,female,chest
+6336,nv,15.0,female,back
+6337,nv,30.0,male,back
+6338,nv,70.0,male,lower extremity
+6339,nv,30.0,male,face
+6340,nv,20.0,male,chest
+6341,nv,55.0,female,chest
+6342,nv,20.0,male,back
+6343,nv,40.0,male,neck
+6344,akiec,80.0,female,neck
+6345,akiec,50.0,female,face
+6346,akiec,70.0,male,upper extremity
+6347,akiec,70.0,female,face
+6348,akiec,80.0,male,face
+6349,akiec,65.0,male,lower extremity
+6350,akiec,80.0,male,scalp
+6351,akiec,65.0,male,lower extremity
+6352,akiec,80.0,female,upper extremity
+6353,akiec,70.0,male,scalp
+6354,akiec,80.0,male,scalp
+6355,akiec,70.0,male,ear
+6356,akiec,85.0,male,back
+6357,akiec,85.0,female,back
+6358,akiec,55.0,female,neck
+6359,akiec,85.0,male,lower extremity
+6360,akiec,60.0,male,lower extremity
+6361,akiec,75.0,male,face
+6362,akiec,80.0,male,face
+6363,akiec,75.0,male,chest
+6364,akiec,60.0,female,upper extremity
+6365,akiec,70.0,female,face
+6366,akiec,65.0,female,lower extremity
+6367,akiec,70.0,female,face
+6368,akiec,70.0,female,back
+6369,akiec,80.0,male,upper extremity
+6370,akiec,70.0,female,hand
+6371,akiec,60.0,male,face
+6372,akiec,65.0,male,neck
+6373,akiec,65.0,female,face
+6374,akiec,85.0,male,back
+6375,akiec,60.0,male,back
+6376,akiec,70.0,female,face
+6377,akiec,55.0,female,neck
+6378,akiec,60.0,male,upper extremity
+6379,akiec,65.0,female,face
+6380,akiec,65.0,male,upper extremity
+6381,akiec,75.0,male,upper extremity
+6382,akiec,80.0,male,upper extremity
+6383,akiec,50.0,male,upper extremity
+6384,akiec,80.0,female,face
+6385,akiec,85.0,female,upper extremity
+6386,akiec,60.0,male,face
+6387,akiec,65.0,male,upper extremity
+6388,akiec,75.0,male,lower extremity
+6389,akiec,75.0,male,lower extremity
+6390,akiec,60.0,female,lower extremity
+6391,akiec,85.0,male,face
+6392,akiec,80.0,male,face
+6393,akiec,55.0,male,face
+6394,akiec,60.0,male,face
+6395,akiec,80.0,male,upper extremity
+6396,akiec,65.0,male,lower extremity
+6397,akiec,85.0,male,upper extremity
+6398,akiec,70.0,female,face
+6399,akiec,55.0,female,upper extremity
+6400,akiec,60.0,male,back
+6401,akiec,60.0,male,lower extremity
+6402,akiec,80.0,female,face
+6403,akiec,50.0,female,face
+6404,akiec,45.0,male,face
+6405,akiec,55.0,male,face
+6406,akiec,75.0,male,hand
+6407,akiec,40.0,female,face
+6408,akiec,55.0,female,lower extremity
+6409,akiec,50.0,male,face
+6410,akiec,55.0,female,hand
+6411,akiec,60.0,male,face
+6412,akiec,60.0,male,face
+6413,akiec,60.0,male,face
+6414,akiec,70.0,female,chest
+6415,akiec,60.0,female,face
+6416,akiec,85.0,female,upper extremity
+6417,akiec,55.0,male,face
+6418,akiec,70.0,male,face
+6419,akiec,70.0,male,lower extremity
+6420,akiec,60.0,male,face
+6421,akiec,85.0,male,upper extremity
+6422,akiec,80.0,male,scalp
+6423,akiec,70.0,male,lower extremity
+6424,akiec,85.0,male,chest
+6425,akiec,40.0,male,neck
+6426,akiec,70.0,female,back
+6427,akiec,65.0,male,back
+6428,akiec,80.0,female,face
+6429,akiec,50.0,male,back
+6430,akiec,85.0,male,lower extremity
+6431,akiec,65.0,male,back
+6432,akiec,75.0,male,back
+6433,akiec,75.0,male,lower extremity
+6434,akiec,65.0,male,upper extremity
+6435,akiec,50.0,male,upper extremity
+6436,akiec,75.0,male,neck
+6437,akiec,70.0,male,upper extremity
+6438,akiec,65.0,female,upper extremity
+6439,akiec,70.0,female,upper extremity
+6440,akiec,65.0,male,face
+6441,akiec,85.0,female,upper extremity
+6442,akiec,60.0,male,face
+6443,akiec,60.0,male,back
+6444,akiec,60.0,female,lower extremity
+6445,akiec,65.0,male,scalp
+6446,akiec,45.0,male,face
+6447,akiec,60.0,male,lower extremity
+6448,akiec,45.0,male,back
+6449,akiec,80.0,female,upper extremity
+6450,akiec,75.0,male,lower extremity
+6451,akiec,55.0,male,lower extremity
+6452,akiec,80.0,female,upper extremity
+6453,akiec,75.0,male,neck
+6454,akiec,60.0,male,hand
+6455,akiec,80.0,female,lower extremity
+6456,akiec,60.0,female,hand
+6457,akiec,70.0,female,upper extremity
+6458,akiec,70.0,female,back
+6459,akiec,75.0,female,lower extremity
+6460,akiec,75.0,male,face
+6461,akiec,65.0,female,abdomen
+6462,akiec,75.0,male,face
+6463,akiec,85.0,male,scalp
+6464,akiec,65.0,male,face
+6465,akiec,70.0,male,back
+6466,akiec,55.0,male,upper extremity
+6467,akiec,45.0,male,face
+6468,akiec,85.0,male,lower extremity
+6469,akiec,75.0,male,upper extremity
+6470,akiec,85.0,male,upper extremity
+6471,akiec,60.0,male,face
+6472,akiec,70.0,male,upper extremity
+6473,akiec,65.0,female,face
+6474,akiec,40.0,male,face
+6475,akiec,75.0,male,chest
+6476,akiec,60.0,male,lower extremity
+6477,akiec,70.0,male,lower extremity
+6478,akiec,65.0,male,lower extremity
+6479,akiec,80.0,male,lower extremity
+6480,akiec,75.0,male,face
+6481,akiec,50.0,male,upper extremity
+6482,akiec,70.0,male,lower extremity
+6483,akiec,70.0,male,lower extremity
+6484,akiec,70.0,male,upper extremity
+6485,akiec,75.0,male,lower extremity
+6486,akiec,55.0,female,face
+6487,akiec,65.0,male,face
+6488,akiec,55.0,male,face
+6489,akiec,45.0,male,face
+6490,akiec,60.0,female,face
+6491,akiec,40.0,female,chest
+6492,akiec,60.0,female,lower extremity
+6493,akiec,80.0,male,chest
+6494,akiec,60.0,female,face
+6495,akiec,50.0,male,upper extremity
+6496,akiec,70.0,male,lower extremity
+6497,akiec,60.0,male,back
+6498,akiec,80.0,female,upper extremity
+6499,akiec,75.0,female,lower extremity
+6500,akiec,75.0,female,upper extremity
+6501,akiec,70.0,male,chest
+6502,akiec,75.0,female,lower extremity
+6503,akiec,65.0,female,face
+6504,akiec,60.0,female,lower extremity
+6505,akiec,75.0,male,upper extremity
+6506,akiec,80.0,male,face
+6507,akiec,55.0,male,lower extremity
+6508,akiec,60.0,male,face
+6509,akiec,70.0,male,back
+6510,akiec,70.0,male,upper extremity
+6511,akiec,60.0,male,upper extremity
+6512,akiec,70.0,female,face
+6513,akiec,70.0,male,hand
+6514,akiec,65.0,male,ear
+6515,akiec,60.0,male,scalp
+6516,akiec,75.0,female,lower extremity
+6517,akiec,75.0,male,abdomen
+6518,akiec,70.0,male,face
+6519,akiec,80.0,female,upper extremity
+6520,akiec,45.0,male,face
+6521,akiec,70.0,male,face
+6522,akiec,60.0,female,lower extremity
+6523,akiec,75.0,male,chest
+6524,akiec,65.0,female,upper extremity
+6525,akiec,50.0,male,back
+6526,akiec,55.0,female,face
+6527,akiec,75.0,male,back
+6528,akiec,60.0,female,face
+6529,akiec,75.0,female,lower extremity
+6530,akiec,55.0,male,face
+6531,akiec,60.0,female,face
+6532,akiec,70.0,male,face
+6533,akiec,85.0,male,upper extremity
+6534,akiec,65.0,female,face
+6535,akiec,85.0,male,back
+6536,akiec,75.0,female,lower extremity
+6537,akiec,60.0,male,scalp
+6538,akiec,85.0,male,upper extremity
+6539,akiec,65.0,female,face
+6540,akiec,70.0,male,face
+6541,akiec,70.0,female,face
+6542,akiec,70.0,female,face
+6543,akiec,60.0,male,back
+6544,akiec,50.0,male,hand
+6545,akiec,80.0,female,face
+6546,akiec,70.0,male,upper extremity
+6547,akiec,50.0,male,face
+6548,akiec,50.0,male,neck
+6549,akiec,60.0,female,face
+6550,akiec,85.0,male,back
+6551,akiec,60.0,male,face
+6552,akiec,80.0,male,face
+6553,akiec,75.0,female,lower extremity
+6554,akiec,80.0,male,lower extremity
+6555,akiec,55.0,female,face
+6556,akiec,70.0,male,hand
+6557,akiec,75.0,male,face
+6558,akiec,40.0,female,face
+6559,akiec,30.0,male,face
+6560,akiec,55.0,female,chest
+6561,akiec,55.0,female,face
+6562,akiec,60.0,male,face
+6563,akiec,50.0,female,face
+6564,akiec,45.0,male,trunk
+6565,akiec,65.0,male,face
+6566,akiec,65.0,female,face
+6567,akiec,60.0,female,face
+6568,akiec,60.0,female,face
+6569,akiec,80.0,male,face
+6570,akiec,60.0,male,face
+6571,akiec,40.0,male,abdomen
